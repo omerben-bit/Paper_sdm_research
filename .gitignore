@@ -1,0 +1,31 @@
+# Obsidian temporary files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.claude/
+
+# Large binary files — PDFs are stored in Zotero or cloud storage
+# Only the extracted .md versions are tracked in Git
+raw/papers/*.pdf
+raw/web/*.pdf
+
+# Obsidian plugin cache (the plugin configs ARE tracked)
+.obsidian/plugins/*/data.json
+
+# Research chapters — excluded until you're ready to commit them.
+# The README and templates stay tracked; your actual chapter drafts stay local.
+research/*
+!research/.gitkeep
+!research/README.md
+!research/templates/
+!research/templates/*.md
