@@ -1,0 +1,10 @@
+dataset,observations,sightings,layer
+proc_gbif_paper_cleaned,802,802,Processed (`data/processed/`)
+proc_med_fish_occurrences_combined,802,802,Processed (`data/processed/`)
+proc_pa_focus_species,356,356,Processed (`data/processed/`)
+proc_singer_owens_israel_box,23,23,Processed (`data/processed/`)
+proc_singer_med_focus5,12,12,Processed (`data/processed/`)
+GBIF_paper_cleaned,627,627,Survey (Levant scope)
+MEDITS_raw,388,388,Survey (Levant scope)
+Israel_trawl_MIT,213,88662,Survey (Levant scope)
+Singer_Owens_iDigBio,7,23,Survey (Levant scope)

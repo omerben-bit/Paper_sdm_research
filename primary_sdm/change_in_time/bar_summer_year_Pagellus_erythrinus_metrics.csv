@@ -1,0 +1,5 @@
+scientificName,year,dataset,presence_hauls,absence_hauls,total_hauls,presence_pct,sightings
+Pagellus erythrinus,2008,Israel_trawl_MIT,16,0,16,100,1279
+Pagellus erythrinus,2009,Israel_trawl_MIT,5,3,8,62.5,210
+Pagellus erythrinus,2010,Israel_trawl_MIT,15,1,16,93.8,753
+Pagellus erythrinus,2012,Israel_trawl_MIT,7,1,8,87.5,8

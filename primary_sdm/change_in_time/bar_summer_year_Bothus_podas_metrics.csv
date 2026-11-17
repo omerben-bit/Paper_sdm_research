@@ -1,0 +1,5 @@
+scientificName,year,dataset,presence_hauls,absence_hauls,total_hauls,presence_pct,sightings
+Bothus podas,2008,Israel_trawl_MIT,16,0,16,100,541
+Bothus podas,2009,Israel_trawl_MIT,6,2,8,75,137
+Bothus podas,2010,Israel_trawl_MIT,6,2,8,75,124
+Bothus podas,2012,Israel_trawl_MIT,2,2,4,50,2

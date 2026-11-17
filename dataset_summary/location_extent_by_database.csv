@@ -1,0 +1,6 @@
+dataset,scope,n_with_coordinates,lon_min,lon_max,lat_min,lat_max,centroid_lon,centroid_lat,n_grid_cells_0p5deg
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",88662,34.22351,34.48074,31.40168,31.78146,34.48018872594798,31.780419255599917,2
+Edelist_OBIS,Actinopterygii + Israel box,0,NA,NA,NA,NA,NA,NA,0
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),9106,32.339333333333336,34.088150000000006,34.53333333333333,35.10766666666667,33.18148609158796,34.75485019218098,7
+Singer_Owens_iDigBio,"Israel box, depth-resolved specimens",24,34.78,35.488505,29.5,33.901198,34.864810041666665,31.568877041666667,3
+GBIF_Levant_cache,Levant GBIF download (combined cache),802,33.42352,35.4582,31.375494,33.7905,34.81702120074813,32.40743018952618,15

@@ -1,0 +1,162 @@
+species_a,species_b,r,n_observations,hauls_a,hauls_b,co_presence_hauls,rank
+Pagellus erythrinus,Helicolenus dactylopterus,-0.1768,1403,443,106,3,1
+Pagellus erythrinus,"Raja miraletus Linnaeus, 1758",-0.1768,1403,443,89,0,2
+Pagellus erythrinus,Chlorophthalmus agassizi,-0.1747,1403,443,104,3,3
+Serranus hepatus,"Raja miraletus Linnaeus, 1758",-0.1638,1403,398,89,0,4
+Saurida lessepsianus,Alloteuthis media,-0.1635,1403,173,224,0,5
+Nemipterus randalli,Alloteuthis media,-0.1586,1403,164,224,0,6
+Serranus hepatus,Helicolenus dactylopterus,-0.156,1403,398,106,4,7
+Saurida lessepsianus,Sepia elegans,-0.156,1403,173,207,0,8
+Nemipterus randalli,Sepia elegans,-0.1514,1403,164,207,0,9
+Pagellus erythrinus,Hymenocephalus italicus,-0.1485,1403,443,64,0,10
+Serranus hepatus,Chlorophthalmus agassizi,-0.1479,1403,398,104,5,11
+Saurida lessepsianus,Macroramphosus scolopax,-0.1471,1403,173,187,0,12
+Pagellus erythrinus,Etmopterus spinax,-0.1461,1403,443,62,0,13
+Nemipterus randalli,Macroramphosus scolopax,-0.1427,1403,164,187,0,14
+Pagellus erythrinus,Hoplostethus mediterraneus mediterraneus,-0.1423,1403,443,59,0,15
+Pagellus erythrinus,Himantura uarnak,-0.1423,1403,443,59,0,16
+Saurida lessepsianus,Sepia officinalis,-0.142,1403,173,176,0,17
+Spicara smaris,Chlorophthalmus agassizi,-0.1403,1403,298,104,1,18
+Nemipterus randalli,Sepia officinalis,-0.1378,1403,164,176,0,19
+Serranus hepatus,Torpedo torpedo,-0.1369,1403,398,70,1,20
+Lepidotrigla cavillone,"Raja miraletus Linnaeus, 1758",-0.1363,1403,302,89,0,21
+Spicara smaris,Helicolenus dactylopterus,-0.1353,1403,298,106,2,22
+Spicara smaris,"Raja miraletus Linnaeus, 1758",-0.1352,1403,298,89,0,23
+Pagellus erythrinus,Torpedo torpedo,-0.1345,1403,443,70,3,24
+Pagellus erythrinus,Phycis blennoides,-0.1338,1403,443,64,2,25
+Pagellus erythrinus,Argyropelecus hemigymnus,-0.1333,1403,443,52,0,26
+Serranus hepatus,Himantura uarnak,-0.1319,1403,398,59,0,27
+Boops boops,Helicolenus dactylopterus,-0.1315,1403,245,106,0,28
+Citharus linguatula,"Raja miraletus Linnaeus, 1758",-0.1314,1403,285,89,0,29
+Bothus podas,Merluccius merluccius,-0.1308,1403,187,213,6,30
+Pagellus erythrinus,Galeus melastomus,-0.1306,1403,443,50,0,31
+Serranus hepatus,Hymenocephalus italicus,-0.13,1403,398,64,1,32
+Bothus podas,Argentina sphyraena,-0.13,1403,187,139,0,33
+Saurida lessepsianus,Dasyatis pastinaca,-0.128,1403,173,224,6,34
+Serranus hepatus,Etmopterus spinax,-0.1276,1403,398,62,1,35
+Pagellus erythrinus,Lepidorhombus whiffiagonis,-0.1265,1403,443,47,0,36
+Synodus saurus,Chlorophthalmus agassizi,-0.1263,1403,233,104,0,37
+Mullus barbatus,Helicolenus dactylopterus,-0.1263,1403,229,106,0,38
+Trachurus mediterraneus,"Raja miraletus Linnaeus, 1758",-0.1259,1403,266,89,0,39
+Serranus cabrilla,Chlorophthalmus agassizi,-0.1253,1403,252,104,1,40
+Pagellus erythrinus,"Raja clavata Linnaeus, 1758",-0.1251,1403,443,46,0,41
+Saurida lessepsianus,Argentina sphyraena,-0.1244,1403,173,139,0,42
+Serranus hepatus,Hoplostethus mediterraneus mediterraneus,-0.124,1403,398,59,1,43
+Pagellus erythrinus,Nezumia sclerorhynchus,-0.1237,1403,443,45,0,44
+Saurida lessepsianus,Loligo vulgaris,-0.1229,1403,173,136,0,45
+Serranus cabrilla,"Raja miraletus Linnaeus, 1758",-0.1218,1403,252,89,0,46
+Decapterus russelli,Alloteuthis media,-0.1214,1403,101,224,0,47
+Pagellus erythrinus,Peristedion cataphractum,-0.1209,1403,443,49,1,48
+Pagellus erythrinus,Lepidorhombus boscii,-0.1208,1403,443,43,0,49
+Nemipterus randalli,Argentina sphyraena,-0.1206,1403,164,139,0,50
+Saurida lessepsianus,Raja polystigma,-0.1198,1403,173,130,0,51
+Serranus cabrilla,Helicolenus dactylopterus,-0.1197,1403,252,106,2,52
+Boops boops,"Raja miraletus Linnaeus, 1758",-0.1197,1403,245,89,0,53
+Stephanolepis diaspros,Sepia elegans,-0.1195,1403,107,207,0,54
+Nemipterus randalli,Loligo vulgaris,-0.1192,1403,164,136,0,55
+Pagellus erythrinus,Chauliodus sloani,-0.1179,1403,443,41,0,56
+Apogon smithi,Alloteuthis media,-0.1175,1403,95,224,0,57
+Nemipterus randalli,Raja polystigma,-0.1163,1403,164,130,0,58
+Nemipterus randalli,Dasyatis pastinaca,-0.1162,1403,164,224,7,59
+Synodus saurus,"Raja miraletus Linnaeus, 1758",-0.1161,1403,233,89,0,60
+Serranus hepatus,"Raja clavata Linnaeus, 1758",-0.1159,1403,398,46,0,61
+Decapterus russelli,Sepia elegans,-0.1159,1403,101,207,0,62
+Serranus hepatus,Argyropelecus hemigymnus,-0.1151,1403,398,52,1,63
+Mullus barbatus,"Raja miraletus Linnaeus, 1758",-0.1149,1403,229,89,0,64
+Saurida lessepsianus,Scorpaena scrofa,-0.1147,1403,173,120,0,65
+Lepidotrigla cavillone,Hymenocephalus italicus,-0.1145,1403,302,64,0,66
+Spicara smaris,Hymenocephalus italicus,-0.1135,1403,298,64,0,67
+Pagellus erythrinus,Abralia veranyi,-0.1134,1403,443,44,1,68
+Dasyatis pastinaca,"Raja miraletus Linnaeus, 1758",-0.1134,1403,224,89,0,69
+Alloteuthis media,"Raja miraletus Linnaeus, 1758",-0.1134,1403,224,89,0,70
+Pagellus erythrinus,Squalus acanthias,-0.1133,1403,443,38,0,71
+Pagellus erythrinus,Diaphus holti,-0.1133,1403,443,38,0,72
+Pagellus erythrinus,Coelorinchus caelorhincus,-0.1133,1403,443,38,0,73
+Lepidotrigla cavillone,Etmopterus spinax,-0.1126,1403,302,62,0,74
+Pagellus acarne,"Raja miraletus Linnaeus, 1758",-0.1125,1403,221,89,0,75
+Serranus hepatus,Galeus melastomus,-0.1124,1403,398,50,1,76
+Lepidotrigla cavillone,Torpedo torpedo,-0.1121,1403,302,70,1,77
+Bothus podas,Helicolenus dactylopterus,-0.1121,1403,187,106,0,78
+Apogon smithi,Sepia elegans,-0.1121,1403,95,207,0,79
+Pagellus erythrinus,Heptranchias perlo,-0.1118,1403,443,37,0,80
+Spicara smaris,Etmopterus spinax,-0.1117,1403,298,62,0,81
+Nemipterus randalli,Scorpaena scrofa,-0.1113,1403,164,120,0,82
+Spicara smaris,Torpedo torpedo,-0.111,1403,298,70,1,83
+Bothus podas,Chlorophthalmus agassizi,-0.111,1403,187,104,0,84
+Citharus linguatula,Helicolenus dactylopterus,-0.1108,1403,285,106,5,85
+Citharus linguatula,Hymenocephalus italicus,-0.1104,1403,285,64,0,86
+Merluccius merluccius,"Raja miraletus Linnaeus, 1758",-0.1101,1403,213,89,0,87
+Spicara maena,Sepia elegans,-0.1098,1403,137,207,4,88
+Lepidotrigla cavillone,Hoplostethus mediterraneus mediterraneus,-0.1097,1403,302,59,0,89
+Lepidotrigla cavillone,Himantura uarnak,-0.1097,1403,302,59,0,90
+Apogon fasciatus,Alloteuthis media,-0.1093,1403,83,224,0,91
+Serranus hepatus,Chauliodus sloani,-0.1092,1403,398,41,0,92
+Decapterus russelli,Macroramphosus scolopax,-0.1092,1403,101,187,0,93
+Pagellus erythrinus,Capros aper,-0.1089,1403,443,52,3,94
+Trigloporus lastoviza,Chlorophthalmus agassizi,-0.1089,1403,181,104,0,95
+Spicara smaris,Hoplostethus mediterraneus mediterraneus,-0.1088,1403,298,59,0,96
+Spicara smaris,Himantura uarnak,-0.1088,1403,298,59,0,97
+Boops boops,Chlorophthalmus agassizi,-0.1086,1403,245,104,3,98
+Citharus linguatula,Etmopterus spinax,-0.1086,1403,285,62,0,99
+Dasyatis pastinaca,Chlorophthalmus agassizi,-0.1085,1403,224,104,2,100
+Serranus hepatus,Lepidorhombus whiffiagonis,-0.1084,1403,398,47,1,101
+Sepia elegans,"Raja miraletus Linnaeus, 1758",-0.1083,1403,207,89,0,102
+Equulites klunzingeri,Alloteuthis media,-0.1079,1403,81,224,0,103
+Serranus hepatus,Phycis blennoides,-0.1073,1403,398,64,4,104
+Saurida lessepsianus,Helicolenus dactylopterus,-0.1072,1403,173,106,0,105
+Lagocephalus suezensis,Sepia elegans,-0.107,1403,87,207,0,106
+Saurida lessepsianus,Illex coindetii,-0.1067,1403,173,105,0,107
+Zeus faber,"Raja miraletus Linnaeus, 1758",-0.1067,1403,202,89,0,108
+Decapterus russelli,Zeus faber,-0.1064,1403,101,202,1,109
+Upeneus pori,Macroramphosus scolopax,-0.1063,1403,96,187,0,110
+Synodus saurus,Helicolenus dactylopterus,-0.1058,1403,233,106,3,111
+Citharus linguatula,Hoplostethus mediterraneus mediterraneus,-0.1058,1403,285,59,0,112
+Citharus linguatula,Himantura uarnak,-0.1058,1403,285,59,0,113
+Lithognathus mormyrus,Alloteuthis media,-0.1058,1403,78,224,0,114
+Callionymus filamentosus,Alloteuthis media,-0.1058,1403,78,224,0,115
+Trachurus mediterraneus,Hymenocephalus italicus,-0.1057,1403,266,64,0,116
+Apogon smithi,Macroramphosus scolopax,-0.1057,1403,95,187,0,117
+Serranus hepatus,Nezumia sclerorhynchus,-0.1056,1403,398,45,1,118
+Decapterus russelli,Sepia officinalis,-0.1055,1403,101,176,0,119
+Spicara smaris,Phycis blennoides,-0.1052,1403,298,64,1,120
+Saurida lessepsianus,Octopus vulgaris,-0.105,1403,173,102,0,121
+Serranus hepatus,Diaphus holti,-0.105,1403,398,38,0,122
+Stephanolepis diaspros,Raja clavata,-0.1045,1403,107,164,0,123
+Apogon fasciatus,Sepia elegans,-0.1043,1403,83,207,0,124
+Serranus hepatus,Abralia veranyi,-0.1042,1403,398,44,1,125
+Spicara maena,Alloteuthis media,-0.1041,1403,137,224,6,126
+Nemipterus randalli,Helicolenus dactylopterus,-0.104,1403,164,106,0,127
+Trachurus mediterraneus,Etmopterus spinax,-0.104,1403,266,62,0,128
+Nemipterus randalli,Illex coindetii,-0.1035,1403,164,105,0,129
+Stephanolepis diaspros,Alloteuthis media,-0.1032,1403,107,224,3,130
+Equulites klunzingeri,Sepia elegans,-0.103,1403,81,207,0,131
+Mullus barbatus,Chlorophthalmus agassizi,-0.1029,1403,229,104,3,132
+Lepidotrigla cavillone,Argyropelecus hemigymnus,-0.1028,1403,302,52,0,133
+Upeneus moluccensis,Argentina sphyraena,-0.1028,1403,123,139,0,134
+Serranus hepatus,Lepidorhombus boscii,-0.1027,1403,398,43,1,135
+Serranus hepatus,Peristedion cataphractum,-0.1025,1403,398,49,2,136
+Trachurus mediterraneus,Torpedo torpedo,-0.1025,1403,266,70,1,137
+Citharus linguatula,Chlorophthalmus agassizi,-0.1023,1403,285,104,6,138
+Serranus cabrilla,Hymenocephalus italicus,-0.1023,1403,252,64,0,139
+Synodus saurus,Torpedo torpedo,-0.1023,1403,233,70,0,140
+Pagellus erythrinus,Carcharhinus obscurus,-0.1021,1403,443,31,0,141
+Pagellus erythrinus,Gymnura altavela,-0.1021,1403,443,31,0,142
+Pagellus erythrinus,Glaucostegus cemiculus,-0.1021,1403,443,31,0,143
+Bothus podas,"Raja miraletus Linnaeus, 1758",-0.1021,1403,187,89,0,144
+Apogon smithi,Sepia officinalis,-0.1021,1403,95,176,0,145
+Macroramphosus scolopax,"Raja miraletus Linnaeus, 1758",-0.1021,1403,187,89,0,146
+Nemipterus randalli,Octopus vulgaris,-0.1019,1403,164,102,0,147
+Spicara smaris,Argyropelecus hemigymnus,-0.1019,1403,298,52,0,148
+Bothus podas,Sepia orbignyana,-0.1014,1403,187,88,0,149
+Trachurus mediterraneus,Hoplostethus mediterraneus mediterraneus,-0.1013,1403,266,59,0,150
+Trachurus mediterraneus,Himantura uarnak,-0.1013,1403,266,59,0,151
+Spicara maena,Argentina sphyraena,-0.1011,1403,137,139,1,152
+Lithognathus mormyrus,Sepia elegans,-0.1009,1403,78,207,0,153
+Callionymus filamentosus,Sepia elegans,-0.1009,1403,78,207,0,154
+Lagocephalus suezensis,Macroramphosus scolopax,-0.1008,1403,87,187,0,155
+Spicara maena,Macroramphosus scolopax,-0.1007,1403,137,187,4,156
+Lepidotrigla cavillone,Galeus melastomus,-0.1007,1403,302,50,0,157
+Boops boops,Hymenocephalus italicus,-0.1006,1403,245,64,0,158
+Serranus cabrilla,Etmopterus spinax,-0.1006,1403,252,62,0,159
+Trigloporus lastoviza,"Raja miraletus Linnaeus, 1758",-0.1002,1403,181,89,0,160
+Helicolenus dactylopterus,Sepia officinalis,-0.1001,1403,106,176,1,161

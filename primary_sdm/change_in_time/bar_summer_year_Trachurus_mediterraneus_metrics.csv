@@ -1,0 +1,5 @@
+scientificName,year,dataset,presence_hauls,absence_hauls,total_hauls,presence_pct,sightings
+Trachurus mediterraneus,2008,Israel_trawl_MIT,12,4,16,75,272
+Trachurus mediterraneus,2009,Israel_trawl_MIT,7,1,8,87.5,324
+Trachurus mediterraneus,2010,Israel_trawl_MIT,16,0,16,100,461
+Trachurus mediterraneus,2012,Israel_trawl_MIT,3,5,8,37.5,3

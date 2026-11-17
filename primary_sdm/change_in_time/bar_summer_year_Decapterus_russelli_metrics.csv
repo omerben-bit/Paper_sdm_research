@@ -1,0 +1,5 @@
+scientificName,year,dataset,presence_hauls,absence_hauls,total_hauls,presence_pct,sightings
+Decapterus russelli,2008,Israel_trawl_MIT,9,7,16,56.2,490
+Decapterus russelli,2009,Israel_trawl_MIT,7,1,8,87.5,107
+Decapterus russelli,2010,Israel_trawl_MIT,7,1,8,87.5,176
+Decapterus russelli,2012,Israel_trawl_MIT,4,0,4,100,4

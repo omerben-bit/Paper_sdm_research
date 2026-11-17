@@ -1,0 +1,28 @@
+dataset,scope,level,depth_band,n
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",sighting,0–50 m,58990
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",sighting,50–100 m,17302
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",sighting,100–150 m,11053
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",sighting,250–300 m,843
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",sighting,400–450 m,474
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,0–50 m,1602
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,50–100 m,3406
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,100–150 m,1199
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,150–200 m,529
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,200–250 m,21
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,250–300 m,439
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,300–350 m,592
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,350–400 m,26
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),sighting,500+ m,1292
+Singer_Owens_iDigBio,"Israel box, depth-resolved specimens",sighting,0–50 m,9
+Singer_Owens_iDigBio,"Israel box, depth-resolved specimens",sighting,50–100 m,15
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,depth_unknown,431
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,0–50 m,218
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,50–100 m,56
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,100–150 m,13
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,150–200 m,3
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,200–250 m,18
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,250–300 m,9
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,300–350 m,3
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,350–400 m,5
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,400–450 m,9
+GBIF_Levant_cache,Levant GBIF download (combined cache),sighting,500+ m,37

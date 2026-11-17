@@ -1,0 +1,6 @@
+dataset,scope,source_file,notes,sightings,observations,species,sightings_with_depth,pct_depth_known
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",Combined_Menachem_Itai_corrected_May_2026_DBG.csv,Trawl catch rows; observation = SAMPLE_DESC haul,88662,213,176,88662,100
+Edelist_OBIS,Actinopterygii + Israel box,data/raw/edelist_occurrence.txt,Coords/depth/year parsed from id; observation = haul prefix before _Fish_,0,0,0,0,NA
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),MEDITS/medits_raw_data.csv (+ hauls_data.csv),Catch records with valid hauls; observation = country|area|vessel|year|haul,9106,388,233,9106,100
+Singer_Owens_iDigBio,"Israel box, depth-resolved specimens",data/raw/iDigBioProcessedFishOccurrences_SingerAndOwens.csv,Museum/iDigBio; each record treated as one observation,24,24,23,24,100
+GBIF_Levant_cache,Levant GBIF download (combined cache),data/processed/med_fish_occurrences_combined.csv,Legacy presence-only cache; sparse depth,802,802,100,371,46.3

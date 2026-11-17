@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang='en'><head>
+<meta charset='utf-8'/>
+<meta name='viewport' content='width=device-width, initial-scale=1'/>
+<title>Observations dashboard</title>
+<style>
+body{font-family:Segoe UI,system-ui,sans-serif;margin:0;background:#f6f8fa;color:#1f2328}
+header{background:#0d1117;color:#f0f6fc;padding:24px 32px}
+nav{background:#fff;border-bottom:1px solid #d0d7de;padding:12px 32px;position:sticky;top:0}
+nav a{margin-right:16px;color:#0969da;text-decoration:none;font-size:14px}
+main{max-width:1100px;margin:0 auto;padding:24px 32px 64px}
+section{background:#fff;border:1px solid #d0d7de;border-radius:8px;padding:20px 24px;margin-bottom:24px}
+h2{margin:0 0 8px;font-size:1.35rem}
+p.sub{color:#656d76;margin:0 0 16px;font-size:14px}
+.kpis{display:flex;flex-wrap:wrap;gap:12px;margin:16px 0}
+.kpi{flex:1 1 160px;background:#f6f8fa;border:1px solid #d0d7de;border-radius:8px;padding:12px 16px}
+.kpi b{display:block;font-size:1.6rem}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{border:1px solid #d0d7de;padding:8px 10px;text-align:left}
+th{background:#f6f8fa}
+img.chart{max-width:100%;height:auto;border:1px solid #d0d7de;border-radius:6px}
+.pickers{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:12px 0 16px}
+.pickers label{font-size:14px;color:#656d76}
+.pickers select{padding:6px 10px;font-size:14px;border-radius:6px;border:1px solid #d0d7de}
+</style>
+<script>
+window.SPECIES_MAPS = {'Pagellus_erythrinus': { label: 'Pagellus erythrinus (פגל)', maps: { 'all': 'figures/species_2d/Pagellus_erythrinus_all.png', 'panel': 'figures/species_2d/Pagellus_erythrinus_panel.png', 'pa_surveys': 'figures/species_2d/Pagellus_erythrinus_pa_surveys.png' } },
+  'Boops_boops': { label: 'Boops boops (בקלה)', maps: { 'all': 'figures/species_2d/Boops_boops_all.png', 'panel': 'figures/species_2d/Boops_boops_panel.png', 'pa_surveys': 'figures/species_2d/Boops_boops_pa_surveys.png' } },
+  'Spicara_maena': { label: 'Spicara maena (ספריד)', maps: { 'all': 'figures/species_2d/Spicara_maena_all.png', 'panel': 'figures/species_2d/Spicara_maena_panel.png', 'pa_surveys': 'figures/species_2d/Spicara_maena_pa_surveys.png' } },
+  'Upeneus_moluccensis': { label: 'Upeneus moluccensis (סנפירון)', maps: { 'all': 'figures/species_2d/Upeneus_moluccensis_all.png', 'panel': 'figures/species_2d/Upeneus_moluccensis_panel.png', 'pa_surveys': 'figures/species_2d/Upeneus_moluccensis_pa_surveys.png' } },
+  'Trachurus_mediterraneus': { label: 'Trachurus mediterraneus (סרגוס מצוי)', maps: { 'all': 'figures/species_2d/Trachurus_mediterraneus_all.png', 'panel': 'figures/species_2d/Trachurus_mediterraneus_panel.png', 'pa_surveys': 'figures/species_2d/Trachurus_mediterraneus_pa_surveys.png' } }};
+</script>
+</head><body>
+<header><h1>Observations dashboard</h1>
+<p>Survey &amp; cache data · Levant / Israel analysis scope · 
+2026-11-17 14:50
+</p></header>
+<nav>
+<a href='#overview'>Overview</a>
+<a href='#species-maps'>Species maps</a>
+<a href='#boops-era'>Boops eras</a>
+<a href='#temperature'>Temperature</a>
+<a href='#depth'>Depth</a>
+</nav><main>
+<section id='overview'>
+<h2>1. How many observations?</h2>
+<p class='sub'>Survey units: haul/station (<code>obs_key</code>), Singer &amp; Owens voucher, or
+ GBIF present rows from <code>gbif_fish_levant_cleaned.csv</code> (01 pipeline: bbox + CoordinateCleaner).
+ <strong>Processed</strong> exports listed separately; not in survey KPIs.</p>
+<div class='kpis'>
+<div class='kpi'><b>1,235</b>Survey observation units</div>
+<div class='kpi'><b>89,700</b>Sightings on survey units</div>
+<div class='kpi'><b>4</b>Survey databases</div>
+<div class='kpi'><b>1,995</b>Processed export rows</div>
+</div>
+<table><tr><th>Layer</th><th>Database</th><th>Observations</th><th>Sightings</th></tr>
+<tr><td>Processed (`data/processed/`)</td><td>proc_gbif_paper_cleaned</td><td>802</td><td>802</td></tr>
+<tr><td>Processed (`data/processed/`)</td><td>proc_med_fish_occurrences_combined</td><td>802</td><td>802</td></tr>
+<tr><td>Processed (`data/processed/`)</td><td>proc_pa_focus_species</td><td>356</td><td>356</td></tr>
+<tr><td>Processed (`data/processed/`)</td><td>proc_singer_owens_israel_box</td><td>23</td><td>23</td></tr>
+<tr><td>Processed (`data/processed/`)</td><td>proc_singer_med_focus5</td><td>12</td><td>12</td></tr>
+<tr><td>Survey (Levant scope)</td><td>GBIF_paper_cleaned</td><td>627</td><td>627</td></tr>
+<tr><td>Survey (Levant scope)</td><td>MEDITS_raw</td><td>388</td><td>388</td></tr>
+<tr><td>Survey (Levant scope)</td><td>Israel_trawl_MIT</td><td>213</td><td>88,662</td></tr>
+<tr><td>Survey (Levant scope)</td><td>Singer_Owens_iDigBio</td><td>7</td><td>23</td></tr>
+</table>
+<p><img class='chart' src='figures/01_observations_by_database.png' alt='by database'/></p>
+</section>
+<section id='species-maps'>
+<h2>2. Focus species — Mediterranean 2D maps</h2>
+<p class='sub'>Maps from <code>04_med_2d_maps.R</code>: all sources, panels, or
+ survey presence–absence (MIT + Edelist + MEDITS; no GBIF/Singer).</p>
+<div class='pickers'>
+<label>Species <select id='sp-species'>
+<option value='Pagellus_erythrinus'>Pagellus erythrinus (פגל)</option><option value='Boops_boops'>Boops boops (בקלה)</option><option value='Spicara_maena'>Spicara maena (ספריד)</option><option value='Upeneus_moluccensis'>Upeneus moluccensis (סנפירון)</option><option value='Trachurus_mediterraneus'>Trachurus mediterraneus (סרגוס מצוי)</option>
+</select></label>
+<label>View <select id='sp-variant'>
+<option value='all'>All datasets (joint)</option>
+<option value='panel'>Panel by dataset</option>
+<option value='pa_surveys'>Surveys P/A (excl. GBIF)</option>
+</select></label>
+</div>
+<p><img id='sp-map-img' class='chart' src='figures/species_2d/Pagellus_erythrinus_all.png' alt='species map'/></p>
+<script>
+function refreshSpeciesMap(){
+const slug=document.getElementById('sp-species').value;
+const variant=document.getElementById('sp-variant').value;
+const entry=window.SPECIES_MAPS[slug];
+const img=document.getElementById('sp-map-img');
+if(!entry||!entry.maps){return;}
+let src=entry.maps[variant];
+if(!src){src=entry.maps.all||entry.maps.pa_surveys||Object.values(entry.maps)[0];}
+if(src){img.src=src;img.alt=entry.label+' Mediterranean map';}
+else if(variant==='pa_surveys'){img.alt='No survey P/A map for this species (run 04_med_2d_maps.R)';}
+}
+document.getElementById('sp-species').addEventListener('change',refreshSpeciesMap);
+document.getElementById('sp-variant').addEventListener('change',refreshSpeciesMap);
+</script>
+</section>
+<section id='boops-era'>
+<h2>3. Boops boops (בקלה) — presence by time period</h2>
+<p class='sub'>By era (all sources or surveys only) or joint survey presence–absence
+ (MIT + Edelist + MEDITS; excludes GBIF &amp; Singer). Maps from <code>04_med_2d_maps.R</code>.</p>
+<div class='pickers'>
+<label>Scope <select id='boops-scope'>
+<option value='era_all' selected>All sources · by era</option>
+<option value='era_surveys'>Surveys only (no GBIF) · by era</option>
+<option value='pa_surveys'>Surveys P/A (excl. GBIF)</option>
+</select></label>
+<span id='boops-bin-wrap'>
+<label>Bin width <select id='boops-bin'>
+<option value='10' selected>10 years</option>
+<option value='5'>5 years</option>
+</select></label>
+</span>
+</div>
+<p><img id='boops-era-img' class='chart' src='figures/07_boops_boops_by_decade.png' alt='Boops map'/></p>
+<script>var BOOPS_MAPS={era_all:{5:'figures/07b_boops_boops_by_5yr.png',10:'figures/07_boops_boops_by_decade.png'},era_surveys:{5:'figures/07e_boops_boops_by_5yr_surveys.png',10:'figures/07d_boops_boops_by_decade_surveys.png'},pa_surveys:'figures/07c_boops_pa_surveys.png'};function refreshBoopsMap(){var scope=document.getElementById('boops-scope').value,bin=document.getElementById('boops-bin').value,img=document.getElementById('boops-era-img'),wrap=document.getElementById('boops-bin-wrap');if(scope==='pa_surveys'){wrap.style.display='none';if(BOOPS_MAPS.pa_surveys){img.src=BOOPS_MAPS.pa_surveys;}return;}wrap.style.display='';var era=BOOPS_MAPS[scope];if(era&&era[bin]){img.src=era[bin];}}document.getElementById('boops-scope').addEventListener('change',refreshBoopsMap);document.getElementById('boops-bin').addEventListener('change',refreshBoopsMap);</script>
+</section>
+<section id='temperature'>
+<h2>4. Bottom temperature</h2>
+<p class='sub'>
+Bottom temperature (°C) available for 363 of 1235 observations (MEDITS hauls only). Values ≤0 are missing (MEDITS uses −1 as placeholder).
+</p>
+<p><img class='chart' src='figures/04_temperature.png' alt='temperature'/></p>
+</section>
+<section id='depth'>
+<h2>5. Distribution by depth</h2>
+<p class='sub'>Median depth per observation; 50 m bins.</p>
+<p><img class='chart' src='figures/05_depth.png' alt='depth'/></p>
+</section>
+</main></body></html>

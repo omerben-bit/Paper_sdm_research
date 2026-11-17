@@ -1,0 +1,6 @@
+file,description,rows_in_file
+Combined_Menachem_Itai_corrected_May_2026_DBG.csv,MIT trawl (all rows),90132
+data/raw/edelist_occurrence.txt,Edelist OBIS export (all rows),13941
+MEDITS/medits_raw_data.csv,MEDITS catch (all rows),448881
+MEDITS/hauls_data.csv,MEDITS haul metadata (validity not filtered here),13528
+data/raw/iDigBioProcessedFishOccurrences_SingerAndOwens.csv,Singer & Owens Zenodo (all rows),354622

@@ -1,0 +1,5 @@
+scientificName,year,dataset,presence_hauls,absence_hauls,total_hauls,presence_pct,sightings
+Boops boops,2008,Israel_trawl_MIT,13,3,16,81.2,776
+Boops boops,2009,Israel_trawl_MIT,6,2,8,75,234
+Boops boops,2010,Israel_trawl_MIT,15,1,16,93.8,119
+Boops boops,2012,Israel_trawl_MIT,8,0,8,100,8

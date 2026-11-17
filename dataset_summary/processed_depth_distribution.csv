@@ -1,0 +1,20 @@
+dataset,scope,level,depth_band,n
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,depth_unknown,431
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,0–50 m,218
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,50–100 m,56
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,100–150 m,13
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,150–200 m,3
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,200–250 m,18
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,250–300 m,9
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,300–350 m,3
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,350–400 m,5
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,400–450 m,9
+proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,sighting,500+ m,37
+proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,sighting,depth_unknown,12
+proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,sighting,0–50 m,240
+proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,sighting,50–100 m,88
+proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,sighting,100–150 m,11
+proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,sighting,150–200 m,5
+proc_singer_owens_israel_box,"Singer & Owens iDigBio — Israel coast box, depth required",sighting,0–50 m,8
+proc_singer_owens_israel_box,"Singer & Owens iDigBio — Israel coast box, depth required",sighting,50–100 m,15
+proc_singer_med_focus5,"Singer & Owens — Mediterranean clip, FOCUS_FIVE species only",sighting,NA,12

@@ -1,0 +1,803 @@
+scientificName,decimalLongitude,decimalLatitude,depth,occurrenceStatus,eventDate,source,depth_bin
+"Carcharhinus plumbeus (Nardo, 1827)",34.84362,32.584102,NA,present,2026-02-21T11:00:17,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881492,32.459424,NA,present,2026-02-21T05:03:15,GBIF,NA
+"Rhincodon typus Smith, 1828",35.321838,31.428052,NA,present,2026-03-12,GBIF,NA
+"Rhincodon typus Smith, 1828",35.328991,31.43655,NA,present,2026-03-12,GBIF,NA
+"Rhincodon typus Smith, 1828",35.327808,31.432809,NA,present,2026-03-12,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.860163,32.620733,NA,present,2026-03-09,GBIF,NA
+"Rhincodon typus Smith, 1828",35.366382,31.440792,NA,present,2026-03-12,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926688,32.677534,NA,present,2026-05-01,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",34.693136,31.93391,NA,present,2026-05-26,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.695842,31.929984,NA,present,2026-06-13T07:42,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.660446,31.842476,NA,present,2026-06-11T10:44,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.695867,31.929294,NA,present,2026-06-13T07:12,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.92614,32.726726,NA,present,2026-06-05T16:43:12,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.70429,31.837145,NA,present,2026-06-13T07:25,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",35.097398,33.043178,NA,present,2026-06-07T18:51,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926019,32.676477,NA,present,2026-06-12,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.918364,32.622898,NA,present,2026-06-07,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.871791,32.423466,NA,present,2026-06-04,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.871347,32.422761,NA,present,2026-06-07,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.871564,32.421382,NA,present,2026-06-04,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",35.103867,33.082404,NA,present,2026-06-07,GBIF,NA
+"Himantura leoparda Manjaji-Matsumoto & Last, 2008",34.871748,32.423429,NA,present,2026-06-10,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",35.102345,33.083863,NA,present,2026-06-07,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.915045,32.614757,NA,present,2026-06-08,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.917871,32.62397,NA,present,2026-06-07,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.91453,32.615883,NA,present,2026-06-10,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.872474,32.425641,NA,present,2026-06-10,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.918022,32.623303,NA,present,2026-06-14,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.917183,32.622346,NA,present,2026-06-07,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.918224,32.623457,NA,present,2026-06-07,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",35.097398,33.043178,NA,present,2026-06-07T18:54,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.925175,32.67726,NA,present,2026-07-31,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",35.133185,33.275353,NA,present,2026-08-07T15:49:12,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.744863,32.040071,NA,present,2026-08-27T07:50:15,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.744843,32.040084,NA,present,2026-08-26T08:11:41,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.917755,32.623438,NA,present,2026-08-21,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.937907,32.953977,NA,present,2026-09-03T15:37,GBIF,NA
+"Himantura leoparda Manjaji-Matsumoto & Last, 2008",34.925484,32.677197,NA,present,2026-09-25,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.926597,32.675928999999996,NA,present,2026-09-25,GBIF,NA
+"Himantura leoparda Manjaji-Matsumoto & Last, 2008",34.919762,32.622297,NA,present,2026-09-03,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.904315,32.546259,NA,present,2026-09-27T11:20,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911742,32.570016,NA,present,2026-10-03T12:44,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.873187,32.428131,NA,present,2026-10-10,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926275,32.676667,NA,present,2026-10-19,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.913563,32.611652,NA,present,2026-10-24,GBIF,NA
+"Himantura leoparda Manjaji-Matsumoto & Last, 2008",34.926677,32.677489,NA,present,2026-10-02,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.891083,32.513659,NA,present,2025-01-17T14:22,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",35.075688,33.031209,NA,present,2025-01-15,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.879185,32.47005,NA,present,2025-01-17T14:25,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.925441,32.677324,NA,present,2025-02-05,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.875793,32.942471,NA,present,2025-03-10T09:09,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882825,32.464819,NA,present,2025-03-14T19:19,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.858433,32.890755,NA,present,2025-03-17T09:28,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.927787,32.533858,NA,present,2025-03-14T17:42,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.868225,32.415827,NA,present,2025-03-18,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.870428,32.418241,NA,present,2025-03-17,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.874015,32.925653,NA,present,2025-03-10T13:12:06,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",34.97434,32.834361,NA,present,2025-03-08T13:16,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.826611,32.860709,NA,present,2025-04-21T15:42,GBIF,NA
+"Himantura leoparda Manjaji-Matsumoto & Last, 2008",34.943377,32.861289,NA,present,2025-04-22T16:13,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.925901,32.676892,NA,present,2025-05-11,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.925743,32.676242,NA,present,2025-05-07,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926162,32.675242,NA,present,2025-05-12,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.97811,32.823786,NA,present,2025-05-22T17:28,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.872897,32.426156,NA,present,2025-05-24,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",35.019134,32.812436,NA,present,2025-05-21,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",34.853376,32.866189,NA,present,2025-06-01T17:47,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.593483,31.743964,NA,present,2025-06-02,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926132,32.677821,NA,present,2025-06-04,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.589872,31.729072,NA,present,2025-09-13T11:20,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.940623,32.568484,NA,present,2025-09-08T14:35,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911258,32.577273,NA,present,2025-09-06T08:19,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.910673,32.573604,NA,present,2025-09-06T08:24,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911147,32.575712,NA,present,2025-09-06T08:22,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.912689,32.578531,NA,present,2025-09-09T08:00,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911538,32.576123,NA,present,2025-09-06T08:20,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.91031,32.573738,NA,present,2025-09-06T08:23,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.910888,32.574942,NA,present,2025-09-06T08:49,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.910931,32.574617,NA,present,2025-09-06T08:51,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911118,32.571509,NA,present,2025-09-13T16:24,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",35.080242,32.9022,NA,present,2025-09-24T18:01,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911511,32.574221,NA,present,2025-09-06T08:22,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.910888,32.575521,NA,present,2025-09-06T08:49,GBIF,NA
+"Rhincodon typus Smith, 1828",34.62493,31.789951,NA,present,2025-09-26,GBIF,NA
+"Rhincodon typus Smith, 1828",34.620838,31.80272,NA,present,2025-09-26,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.925537,32.677207,NA,present,2025-09-07,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.91101,32.572636,NA,present,2025-09-23T09:57,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.911118,32.571509,NA,present,2025-09-23T11:26,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.831311,32.789262,NA,present,2025-10-18T15:07:50,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.694357,31.925312,NA,present,2025-10-25,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.92086,32.645835,NA,present,2025-10-07,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.923451,32.648987,NA,present,2025-10-18,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.925015,32.677214,NA,present,2025-10-01,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.921899,32.640851,NA,present,2025-10-24,GBIF,NA
+"Rhincodon typus Smith, 1828",34.825332,32.24981,NA,present,2025-10-13,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.920754,32.642137,NA,present,2025-10-24,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926091,32.680986,NA,present,2025-11-07,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926666,32.67757,NA,present,2025-11-19,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.917602,32.624646,NA,present,2025-11-21,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.925658,32.676053,NA,present,2025-11-22,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.917814,32.625025,NA,present,2025-11-21,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.917023,32.622472,NA,present,2025-11-21,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.917077,32.622327,NA,present,2025-11-21,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.918227,32.625838,NA,present,2025-11-21,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.858798,32.370652,NA,present,2025-11-23,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.695551,31.933235,NA,present,2025-11-22,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.695551,31.933091,NA,present,2025-11-22,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",35.099955,33.048363,NA,present,2025-11-23,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.926606,32.676289,NA,present,2025-11-30,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.925858,32.676937,NA,present,2025-12-05,GBIF,NA
+"Isurus oxyrinchus Rafinesque, 1810",34.613721,31.835819,NA,present,2025-12-25,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.694298,31.926484,NA,present,2024-01-20,GBIF,NA
+"Torpedo marmorata Risso, 1810",34.694895,31.92737,NA,present,2024-01-20,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868477,32.417556,NA,present,2024-05-21T08:08,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868772,32.417455,NA,present,2024-05-21T08:04,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868796,32.417516,NA,present,2024-05-21T08:07,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.870063,32.418369,NA,present,2024-05-21T07:52,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868775,32.417484,NA,present,2024-05-21T08:04,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.868928,32.417788,NA,present,2024-05-21T08:05,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.762688,31.984418,NA,present,2024-05-21T18:12,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.948879,32.818002,NA,present,2024-05-23,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.807684,32.562779,NA,present,2024-06-05T11:03,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.813203,32.633007,NA,present,2024-06-14T08:56:32,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.928946,32.737901,NA,present,2024-06-14T08:01:30,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.932608,32.983738,NA,present,2024-06-05T15:50,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.43,31.87,NA,present,2024-06-04,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.926659,32.674972,NA,present,2024-07-05T09:01:28,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.925652,32.678063,NA,present,2024-09-18,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.925334,32.677368,NA,present,2024-09-04,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",34.995544,32.806718,NA,present,2024-10-25T10:06,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.870382,32.82378,NA,present,2024-10-30T08:56,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.871552,32.999631,NA,present,2024-10-31T10:30,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.877118,32.920798,NA,present,2024-10-30T08:54,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.949079,32.841564,NA,present,2024-10-12,GBIF,NA
+"Torpedo marmorata Risso, 1810",34.974093,32.833851,NA,present,2024-12-09T09:06,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882655,32.465569,NA,present,2024-12-16,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.879205,32.463516,NA,present,2023-03-05,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",35.092516,33.072882,NA,present,2023-09-29,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.928573,32.679368,NA,present,2023-09-20T03:48:12,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.910902,32.570083,NA,present,2023-10-03T08:10,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.671559,32.048079,NA,present,2023-10-30,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.888687,32.497753,NA,present,2023-11-13,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.880919,32.463739,NA,present,2023-12-05,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.85,32.35,NA,present,2022-01-20,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.660413,31.851882,NA,present,2022-02-23,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",34.880139,32.408306,NA,present,2022-04-28T16:23,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.834799,32.505535,NA,present,2022-04-03T06:51:18,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",35.051708,32.954377,NA,present,2022-04-28T12:20,GBIF,NA
+"Sphyrna lewini (Griffith & Smith, 1834)",34.653482,31.864306,NA,present,2022-04-05,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.820386,32.295343,NA,present,2022-04-05,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",34.856144,32.426543,NA,present,2022-04-29T16:44,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.822519,32.433186,NA,present,2022-05-20T08:33:56,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",34.869052,32.417016,NA,present,2022-06-05T09:28,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.868035,32.417801,NA,present,2022-06-05T08:00:24,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.86806,32.417857,NA,present,2022-06-05T07:55:42,GBIF,NA
+"Raja brachyura Günther, 1880",35.43211,33.7905,NA,present,2022-07-24,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.6,31.74,NA,present,2022-07-14,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.907809,32.557298,NA,present,2022-09-07T11:53:32,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.580266,31.716838,NA,present,2022-09-27T11:58,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.829118,32.430514,NA,present,2022-10-12T18:35,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.969198,32.831,NA,present,2022-10-03,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.88168,32.452636,NA,present,2022-10-30,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.87247,32.468145,NA,present,2022-11-21T07:50:43,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.926769,32.441011,NA,present,2022-11-17T09:46,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.878917,32.457967,NA,present,2022-11-04,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",35.102695,33.086397,NA,present,2022-12-30,GBIF,NA
+"Gymnura altavela (Linnaeus, 1758)",35.103939,33.066652,NA,present,2022-12-12,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.884593,32.465217,NA,present,2021-01-01T10:45,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.884593,32.465217,NA,present,2021-01-01T10:42,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.882871,32.464776,NA,present,2021-01-04,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882474,32.465677,NA,present,2021-01-09,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.882839,32.464776,NA,present,2021-01-04,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.882171,32.464098,NA,present,2021-01-05,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.882517,32.465686,NA,present,2021-01-09,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.883199,32.465264,NA,present,2021-04-18,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.88321,32.465201,NA,present,2021-04-18,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.880485,32.457945,NA,present,2021-05-21T18:12,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.695772,31.92759,NA,present,2021-05-03,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.643777,31.982492,NA,present,2021-06-28T10:17,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",35.060217,32.846608,NA,present,2021-09-28,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.913864,32.58272,NA,present,2021-09-17T23:30,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.696616,32.171562,NA,present,2021-10-25T12:58:35,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.879705,32.462416,NA,present,2021-11-15T13:35:58,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.875138,32.456281,NA,present,2021-11-17T08:21:57,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",35.0428,33.173509,NA,present,2021-11-08T01:47,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",35.177689,33.053383,NA,present,2021-11-08T23:26,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T09:53,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T10:00,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T09:55,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T09:59,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T09:50,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T09:51,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.881032,32.462433,NA,present,2021-11-24T09:53,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882532,32.464469,NA,present,2020-02-27,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.806678,32.225225,NA,present,2020-04-22,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.877942,32.457008,NA,present,2020-04-14,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.872357,32.425577,NA,present,2020-04-16,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.668,31.992,40,present,2020-04-28,GBIF,"[30,50)"
+"Himantura uarnak (Gmelin, 1789)",34.827062,32.303495,NA,present,2020-05-19T09:25,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.901639,32.290565,NA,present,2020-05-21T08:15,GBIF,NA
+"Torpedo marmorata Risso, 1810",34.853276,32.360749,NA,present,2020-05-19T08:42,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.866956,32.33328,NA,present,2020-05-21T08:16,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.767757,32.084717,NA,present,2020-05-16,GBIF,NA
+BOLD:ACU0450,34.618,31.814,20,present,2020-06-02,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.88,32.46,NA,present,2020-06-01,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.62,31.78,NA,present,2020-08-21,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",35.097521,33.087646,NA,present,2020-09-01,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.823555,32.771419,NA,present,2020-10-24T11:56:06,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.849235,32.384142,NA,present,2020-10-13,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.738063,32.019736,NA,present,2020-10-15T07:57,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",35.09418,33.069241,NA,present,2020-11-12,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.91,32.56,NA,present,2020-12-25,GBIF,NA
+"Raja montagui Fowler, 1910",34.88,32.44,NA,present,2019-01-05,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.860383,32.403759,NA,present,2019-02-06,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.882331,32.464053,NA,present,2019-02-05,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882955,32.464966,NA,present,2019-02-25,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.883009,32.464794,NA,present,2019-02-24,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882967,32.46483,NA,present,2019-02-24,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.882924,32.464948,NA,present,2019-02-25,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",35.083387,33.068681,NA,present,2019-05-02,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.89009,32.50842,NA,present,2019-05-13,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.866748,32.420104,NA,present,2019-06-13T12:25:44,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.870505,32.417574,NA,present,2019-06-10,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.87215,32.421221,NA,present,2019-06-15,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.91474,32.616632,NA,present,2019-06-15,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.87,32.42,NA,present,2019-06-15,GBIF,NA
+BOLD:AAB1404,34.55606,32.64435,1100,present,2019-08-13,GBIF,NA
+BOLD:ABZ4263,34.776493,32.607666,200,present,2019-08-12,GBIF,"[200,500)"
+BOLD:AAC2566,34.78484,32.624413,200,present,2019-08-12,GBIF,"[200,500)"
+BOLD:AAB1404,34.55606,32.64435,1100,present,2019-08-13,GBIF,NA
+BOLD:ACF2419,34.776493,32.607666,200,present,2019-08-12,GBIF,"[200,500)"
+BOLD:ACF2419,34.776493,32.607666,200,present,2019-08-12,GBIF,"[200,500)"
+BOLD:AAC2566,34.776493,32.607666,200,present,2019-08-12,GBIF,"[200,500)"
+BOLD:ABZ4263,34.776493,32.607666,200,present,2019-08-12,GBIF,"[200,500)"
+BOLD:AAB1404,34.55606,32.64435,1100,present,2019-08-13,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.87,32.43,NA,present,2019-08-12,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.86,32.39,NA,present,2019-08-17,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.76,32.06,NA,present,2019-08-14,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.88,32.44,NA,present,2019-10-30,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",35.148406,33.146238,NA,present,2019-11-04T14:43,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.882299,32.464044,NA,present,2019-11-26T09:43,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.921602,32.64378,NA,present,2019-11-09,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",35.10304,33.047266,NA,present,2019-11-12,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.86,32.36,NA,present,2019-11-29,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.87,32.41,NA,present,2019-11-02,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.79,32.14,NA,present,2019-11-25,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.79,32.15,NA,present,2019-11-24,GBIF,NA
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.858799,32.398317,NA,present,2019-12-22,GBIF,NA
+BOLD:AAA4345,34.5911,31.9477,80,present,2018-01-08,GBIF,"[50,100)"
+BOLD:ABZ0850,34.6161,32.0222,60,present,2018-01-08,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",34.96,32.79,NA,present,2018-01-13,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.895188,32.51898,NA,present,2018-03-17T09:00,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.954496,32.59941,NA,present,2018-03-22T17:42,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.812857,32.570859,NA,present,2018-03-13T10:40,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.898239,32.446621,NA,present,2018-03-22T08:00,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.844439,32.533597,NA,present,2018-03-22T08:07,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.952022,32.598066,NA,present,2018-03-14T08:40,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.86867,32.417429,NA,present,2018-03-18T15:51,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.839224,32.546114,NA,present,2018-03-13T10:34,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.869392,32.546861,NA,present,2018-03-13T10:28,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868854,32.417525,NA,present,2018-03-28T15:45,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.810384,32.59962,NA,present,2018-03-14T08:46,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868647,32.417331,NA,present,2018-03-18T15:52,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.803537,32.586036,NA,present,2018-03-13T10:39,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.84219,32.436869,NA,present,2018-03-14T08:33,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.971598,32.508447,NA,present,2018-04-08T08:14,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.845445,32.510675,NA,present,2018-04-08T08:19,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.869368,32.417216,NA,present,2018-04-08T08:04,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.839832,32.451799,NA,present,2018-04-08T08:27,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.899349,32.452376,NA,present,2018-04-08T07:57,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.834018,32.549394,NA,present,2018-04-05T10:46,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.861789,32.494748,NA,present,2018-04-13T08:21,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.924463,32.424733,NA,present,2018-04-13T08:09,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.983574,32.402682,NA,present,2018-04-08T07:57,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.869342,32.417289,NA,present,2018-04-05T10:37,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.894129,32.509959,NA,present,2018-04-05T10:43,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.899641,32.548113,NA,present,2018-04-08T08:18,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.886512,32.425062,NA,present,2018-04-08T08:27,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.838266,32.589991,NA,present,2018-04-08T07:48,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.966298,32.422625,NA,present,2018-04-02T17:12,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.810197,32.536418,NA,present,2018-04-18T00:44,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.868785,32.417286,NA,present,2018-04-28T10:38,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.870476,32.490076,NA,present,2018-04-05T10:50,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.844292,32.517456,NA,present,2018-04-05T10:27,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.967607,32.431354,NA,present,2018-04-05T10:51,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.898025,32.521072,NA,present,2018-04-05T10:51,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",34.869435,32.417631,NA,present,2018-05-11T15:20,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.86549,32.402402,NA,present,2018-05-03,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.78436,32.208479,NA,present,2018-07-22,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.841455,32.304631,NA,present,2018-08-08,GBIF,NA
+BOLD:AAA9550,34.53303,32.67785,1100,present,2018-10-17,GBIF,NA
+BOLD:AAC2566,34.74874,32.540634,200,present,2018-10-16,GBIF,"[200,500)"
+BOLD:ACF2419,34.74874,32.540634,200,present,2018-10-16,GBIF,"[200,500)"
+BOLD:AAB1404,34.53303,32.67785,1100,present,2018-10-17,GBIF,NA
+BOLD:AAC2566,34.74874,32.540634,200,present,2018-10-16,GBIF,"[200,500)"
+BOLD:AAA9550,34.36875,32.74615,1420,present,2018-10-17,GBIF,NA
+BOLD:ACF2419,34.74874,32.540634,200,present,2018-10-16,GBIF,"[200,500)"
+BOLD:AAB1404,34.53303,32.67785,1100,present,2018-10-17,GBIF,NA
+BOLD:ABZ4263,34.74874,32.540634,200,present,2018-10-16,GBIF,"[200,500)"
+BOLD:ACF2419,34.74874,32.540634,200,present,2018-10-16,GBIF,"[200,500)"
+"Himantura uarnak (Gmelin, 1789)",34.758116,32.173152,NA,present,2018-11-03T07:35,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.706236,32.166666,NA,present,2018-11-03T07:53,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",34.759712,32.092028,NA,present,2018-11-13T05:58,GBIF,NA
+BOLD:AAD9192,34.6019,31.9783,40,present,2018-12-04,GBIF,"[30,50)"
+BOLD:AAA9550,35.027924,31.513542,NA,present,2017-04-22,GBIF,NA
+BOLD:ABW9652,35.027924,31.513542,40,present,2017-06-05,GBIF,"[30,50)"
+BOLD:AAC2566,35.027924,31.513542,NA,present,2017-06-05,GBIF,NA
+"Dasyatis marmorata (Steindachner, 1892)",34.869575,32.417949,NA,present,2017-06-08T07:55,GBIF,NA
+"Glaucostegus cemiculus (Geoffroy Saint-Hilaire, 1817)",34.869191,32.416845,NA,present,2017-06-09T09:51,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.978182,32.497723,NA,present,2017-10-27T09:32,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.981855,32.429163,NA,present,2017-10-17T07:40,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.930863,32.536072,NA,present,2017-10-27T10:10,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.974559,32.502188,NA,present,2017-11-03T14:46,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.916283,32.557483,NA,present,2017-11-10T15:10,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.867584,32.464129,NA,present,2017-11-03T15:44,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",34.997524,32.593682,NA,present,2017-11-03T14:39,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.869366,32.416045,NA,present,2017-12-17T07:33,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",35.093476,33.08055,NA,present,2016-08-24T19:42,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",35.151894,33.081495,NA,present,2016-08-24T23:16,GBIF,NA
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",35.093378,33.08052,NA,present,2016-08-20T12:02,GBIF,NA
+"Rhinoptera marginata (Geoffroy Saint-Hilaire, 1817)",35.116845,33.042895,NA,present,2016-08-20T12:02,GBIF,NA
+"Torpedo marmorata Risso, 1810",34.866818,32.412035,NA,present,2016-11-26T14:16,GBIF,NA
+"Squatina squatina (Linnaeus, 1758)",34.753876,31.994101,NA,present,2016-11-23T00:00,GBIF,NA
+"Glaucostegus halavi (Forsskål, 1775)",34.753876,31.994101,NA,present,2016-11-23T00:00,GBIF,NA
+BOLD:AAO2730,35.027924,31.513542,NA,present,2016-12-28,GBIF,NA
+BOLD:AAA9988,34.621155,31.808771,NA,present,2015-06-24,GBIF,NA
+BOLD:AAC2566,34.4154,31.7504,80,present,2015-06-16,GBIF,"[50,100)"
+"Torpedo marmorata Risso, 1810",34.4613,31.8164,80,present,2015-06-16,GBIF,"[50,100)"
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",35.094488,33.064463,NA,present,2015-06-19T08:08,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",35.094239,33.064381,NA,present,2015-06-19T08:18,GBIF,NA
+"Scyliorhinus canicula (Linnaeus, 1758)",34.89,32.49,NA,present,2015-06-04,GBIF,NA
+"Raja clavata Linnaeus, 1758",34.88,32.45,NA,present,2015-12-07,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.726162,32.037761,NA,present,2014-05-30T13:32,GBIF,NA
+BOLD:AAA4472,35.027924,31.513542,NA,present,2014-06-19,GBIF,NA
+BOLD:AAA4472,35.027924,31.513542,NA,present,2014-06-19,GBIF,NA
+BOLD:ABA3840,35.027924,31.513542,NA,present,2014-06-19,GBIF,NA
+BOLD:ABA3840,35.027924,31.513542,NA,present,2014-06-19,GBIF,NA
+BOLD:AAA4472,35.027924,31.513542,NA,present,2014-06-19,GBIF,NA
+BOLD:AAA4472,35.027924,31.513542,NA,present,2014-06-19,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",35.4582,33.7859,17,present,2014-08-23T10:30Z,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.87,32.42,NA,present,2014-08-29,GBIF,NA
+BOLD:AAB4327,34.3751,31.9317,400,present,2014-12-14,GBIF,"[200,500)"
+BOLD:AAA1548,34.3751,31.9317,400,present,2014-12-14,GBIF,"[200,500)"
+BOLD:AAA1550,34.3751,31.9317,400,present,2014-12-14,GBIF,"[200,500)"
+BOLD:ABZ4263,34.3751,31.9317,400,present,2014-12-14,GBIF,"[200,500)"
+"Dipturus oxyrinchus (Linnaeus, 1758)",34.375067,31.931733,400,present,2014-12-14,GBIF,"[200,500)"
+"Squalus blainvillei (Risso, 1827)",34.375067,31.931733,400,present,2014-12-14,GBIF,"[200,500)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.7457,32.0575,14.5,present,2013-04-26T10:30Z,GBIF,"[10,30)"
+BOLD:AAA9550,34.498,33.03,1043,present,2013-07-28,GBIF,NA
+BOLD:AAB1404,34.498,33.03,1043,present,2013-07-28,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.8297,33.049867,1043,present,2013-07-28,GBIF,NA
+"Etmopterus spinax (Linnaeus, 1758)",34.8297,33.049867,1043,present,2013-07-28,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.536917,32.459983,992,present,2013-07-29,GBIF,"[500,1e+03]"
+"Taeniurops grabata (Geoffroy Saint-Hilaire, 1817)",34.781768,32.0853,NA,present,2013-07-13T21:50,GBIF,NA
+BOLD:ACJ2122,34.361,32.271,692,present,2013-08-01,GBIF,"[500,1e+03]"
+BOLD:AAB4327,34.472816,32.363316,923,present,2013-08-01,GBIF,"[500,1e+03]"
+BOLD:AAB4327,34.284,32.218,923,present,2013-08-01,GBIF,"[500,1e+03]"
+BOLD:AAA9550,34.322,32.276,992,present,2013-08-02,GBIF,"[500,1e+03]"
+"Etmopterus spinax (Linnaeus, 1758)",34.600917,32.4519,692,present,2013-08-01,GBIF,"[500,1e+03]"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.472817,32.363317,923,present,2013-08-01,GBIF,"[500,1e+03]"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.472817,32.363317,923,present,2013-08-01,GBIF,"[500,1e+03]"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,50,present,2012-01-24,GBIF,"[50,100)"
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",35.027246,32.836143,35,present,2012-01-25,GBIF,"[30,50)"
+"Torpedo torpedo (Linnaeus, 1758)",35.027246,32.836143,35,present,2012-01-25,GBIF,"[30,50)"
+"Torpedo marmorata Risso, 1810",34.4506,31.753367,60,present,2012-02-12,GBIF,"[50,100)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.4506,31.753367,60,present,2012-02-12,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.4506,31.753367,60,present,2012-02-12,GBIF,"[50,100)"
+"Sphyrna lewini (Griffith & Smith, 1834)",34.513485,31.632333,NA,present,2012-02-06,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.820824,32.312507,85,present,2012-02-23,GBIF,"[50,100)"
+"Dasyatis tortonesei Capapé, 1975",34.853096,32.427916,17,present,2012-02-23,GBIF,"[10,30)"
+"Dasyatis tortonesei Capapé, 1975",34.946737,32.836864,20,present,2012-02-24,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.853096,32.427916,17,present,2012-02-23,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.946737,32.836864,20,present,2012-02-24,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.820824,32.312507,85,present,2012-02-23,GBIF,"[50,100)"
+"Sphyrna lewini (Griffith & Smith, 1834)",34.507762,31.616683,NA,present,2012-03-25,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,12.5,present,2012-03-23,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.820824,32.312507,125,present,2012-03-22,GBIF,"[100,200)"
+"Raja miraletus Linnaeus, 1758",35.085182,33.083901,35,present,2012-04-22,GBIF,"[30,50)"
+"Raja clavata Linnaeus, 1758",35.049477,32.929003,97.5,present,2012-04-22,GBIF,"[50,100)"
+BOLD:AAA4472,35.002,32.859,29,present,2012-05-28,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.001833,32.859167,25,present,2012-05-28,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.853096,32.427916,16.5,present,2012-05-27,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.820824,32.312507,22.5,present,2012-05-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.820824,32.312507,22.5,present,2012-05-27,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,22.5,present,2012-05-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.853096,32.427916,85,present,2012-05-28,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",34.853096,32.427916,85,present,2012-05-28,GBIF,"[50,100)"
+BOLD:ACK8259,35.012,32.924,NA,present,2012-06-03,GBIF,NA
+BOLD:ABA3840,35.016,32.911,NA,present,2012-06-03,GBIF,NA
+BOLD:ADW5238,35.012,32.924,NA,present,2012-06-03,GBIF,NA
+BOLD:ACK8259,34.572117,31.746033,24,present,2012-06-17,GBIF,"[10,30)"
+BOLD:AAI9614,35.012,32.924,31,present,2012-06-04,GBIF,"[30,50)"
+BOLD:ACK8259,35.012,32.924,31,present,2012-06-03,GBIF,"[30,50)"
+BOLD:ABA3840,35.016,32.911,31,present,2012-06-03,GBIF,"[30,50)"
+BOLD:AAF5129,34.569,31.745,24,present,2012-06-18,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.608,31.799,25,present,2012-06-17,GBIF,"[10,30)"
+BOLD:ABA3840,34.578,31.792,33,present,2012-06-27,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",34.608,31.799,25,present,2012-06-17,GBIF,"[10,30)"
+BOLD:ABA3840,34.343,31.448,24,present,2012-06-17,GBIF,"[10,30)"
+BOLD:ACU0450,34.572,31.746,24,present,2012-06-18,GBIF,"[10,30)"
+BOLD:AAC2566,34.608,31.799,24,present,2012-06-17,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.012233,32.923633,30,present,2012-06-03,GBIF,"[30,50)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.015583,32.9107,30,present,2012-06-03,GBIF,"[30,50)"
+"Torpedo torpedo (Linnaeus, 1758)",35.015583,32.9107,30,present,2012-06-03,GBIF,"[30,50)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.012233,32.923633,30,present,2012-06-03,GBIF,"[30,50)"
+"Gymnura altavela (Linnaeus, 1758)",35.012233,32.923633,30,present,2012-06-03,GBIF,"[30,50)"
+"Pteroplatytrygon violacea (Bonaparte, 1832)",34.56905,31.7451,24,present,2012-06-17,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.608117,31.7994,24,present,2012-06-17,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.572117,31.746033,24,present,2012-06-17,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.619217,31.794617,11,present,2012-06-27,GBIF,"[10,30)"
+"Torpedo marmorata Risso, 1810",34.608117,31.7994,24,present,2012-06-17,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.607767,31.799283,24,present,2012-06-17,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.572117,31.746033,24,present,2012-06-17,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.572117,31.746033,24,present,2012-06-17,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.01,32.92,NA,present,2012-06-03,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",35.02,32.91,NA,present,2012-06-03,GBIF,NA
+"Dasyatis pastinaca (Linnaeus, 1758)",35.01,32.92,NA,present,2012-06-03,GBIF,NA
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.012,32.924,31,present,2012-06-03,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,50,present,2012-06-22,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",35.049477,32.929003,25.5,present,2012-06-22,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.4582,33.7859,18,present,2012-07-14T11:20Z,GBIF,"[10,30)"
+BOLD:ACG9496,34.619,31.795,11,present,2012-10-30,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.585,31.739817,11,present,2012-10-29,GBIF,"[10,30)"
+BOLD:ACG9494,34.962,32.875,25,present,2012-11-07,GBIF,"[10,30)"
+BOLD:AAA4472,34.544,31.738,32,present,2012-11-26,GBIF,"[30,50)"
+BOLD:AAD9192,34.5784,31.7922,33,present,2012-11-26,GBIF,"[30,50)"
+BOLD:AAO2730,34.994,32.846,22,present,2012-11-22,GBIF,"[10,30)"
+BOLD:AAA4472,35.016,32.908,31,present,2012-11-18,GBIF,"[30,50)"
+BOLD:AAD9192,34.958,32.86,22,present,2012-11-21,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.9575,32.8755,25,present,2012-11-07,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.017233,32.910533,30,present,2012-11-18,GBIF,"[30,50)"
+"Gymnura altavela (Linnaeus, 1758)",34.956917,32.862167,23,present,2012-11-21,GBIF,"[10,30)"
+"Pteromylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",35.002,32.853667,23,present,2012-11-21,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.538617,31.734817,32,present,2012-11-26,GBIF,"[30,50)"
+"Pteromylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.576967,31.789267,32,present,2012-11-26,GBIF,"[30,50)"
+"Torpedo torpedo (Linnaeus, 1758)",34.745893,32.088642,16.5,present,2011-01-23,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.767952,32.158012,26,present,2011-01-22,GBIF,"[10,30)"
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.812155,32.271418,27.5,present,2011-01-21,GBIF,"[10,30)"
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",34.745893,32.088642,17,present,2011-01-22,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.745893,32.088642,17,present,2011-01-22,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.745893,32.088642,28.5,present,2011-02-23,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.812155,32.271418,27.5,present,2011-02-23,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.850607,32.408475,35,present,2011-02-24,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",34.812155,32.271418,27,present,2011-02-24,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.812155,32.271418,105,present,2011-03-19,GBIF,"[100,200)"
+"Raja clavata Linnaeus, 1758",34.812155,32.271418,127.5,present,2011-03-19,GBIF,"[100,200)"
+"Torpedo Duméril, 1806",34.812155,32.271418,127.5,present,2011-03-19,GBIF,"[100,200)"
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.820824,32.312507,28,present,2011-04-28,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.89584,32.606908,87,present,2011-04-26,GBIF,"[50,100)"
+"Torpedo torpedo (Linnaeus, 1758)",34.745893,32.088642,21.5,present,2011-04-27,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.820824,32.312507,28,present,2011-04-28,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.820824,32.312507,20.5,present,2011-04-28,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.745893,32.088642,21.5,present,2011-04-27,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.812155,32.271418,11,present,2011-04-26,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,19,present,2011-05-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,22,present,2011-05-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.745893,32.088642,20,present,2011-06-30,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.812155,32.271418,24.5,present,2011-06-30,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,23.5,present,2011-06-30,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.946737,32.836864,24,present,2011-07-11,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",35.049477,32.929003,62,present,2011-07-11,GBIF,"[50,100)"
+"Tetronarce nobiliana (Bonaparte, 1835)",35.049477,32.929003,62,present,2011-07-11,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",35.049477,32.929003,27,present,2011-07-11,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.049477,32.929003,42,present,2011-08-30,GBIF,"[30,50)"
+"Torpedo marmorata Risso, 1810",35.027246,32.836143,90,present,2011-08-31,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",35.027246,32.836143,90,present,2011-08-31,GBIF,"[50,100)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.853096,32.427916,12.5,present,2011-09-28,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.820824,32.312507,17.5,present,2011-09-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.06321,32.999864,32.5,present,2011-10-23,GBIF,"[30,50)"
+"Gymnura altavela (Linnaeus, 1758)",35.027246,32.836143,22,present,2011-10-23,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,22,present,2011-10-23,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",35.027246,32.836143,72.5,present,2011-10-23,GBIF,"[50,100)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.533119,31.681269,21,present,2011-11-24,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.027246,32.836143,22,present,2011-11-10,GBIF,"[10,30)"
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",35.027246,32.836143,22,present,2011-11-10,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.533119,31.681269,50.5,present,2011-11-24,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.883394,32.537222,30,present,2011-12-29,GBIF,"[30,50)"
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,11,present,2011-12-30,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.820824,32.312507,110,present,2011-12-29,GBIF,"[100,200)"
+"Raja clavata Linnaeus, 1758",34.820824,32.312507,110,present,2011-12-29,GBIF,"[100,200)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.820824,32.312507,110,present,2011-12-29,GBIF,"[100,200)"
+"Gymnura altavela (Linnaeus, 1758)",35.027246,32.836143,15.5,present,2010-01-01,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.729586,32.051985,67.5,present,2010-02-11,GBIF,"[50,100)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.745893,32.088642,18.5,present,2010-02-11,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,23,present,2010-02-11,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.683409,31.938138,117.5,present,2010-03-25,GBIF,"[100,200)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.946737,32.836864,14.5,present,2010-03-07,GBIF,"[10,30)"
+"Dasyatis tortonesei Capapé, 1975",34.946737,32.836864,15.5,present,2010-03-07,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.946737,32.836864,15.5,present,2010-03-07,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.683409,31.938138,72,present,2010-03-25,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",34.683409,31.938138,73.5,present,2010-04-14,GBIF,"[50,100)"
+"Dipturus oxyrinchus (Linnaeus, 1758)",34.683409,31.938138,119,present,2010-04-14,GBIF,"[100,200)"
+"Raja clavata Linnaeus, 1758",34.683409,31.938138,119,present,2010-04-14,GBIF,"[100,200)"
+"Tetronarce nobiliana (Bonaparte, 1835)",34.729586,32.051985,18.5,present,2010-05-06,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.60865,31.803896,50,present,2010-05-05,GBIF,"[50,100)"
+"Torpedo torpedo (Linnaeus, 1758)",34.767952,32.158012,14,present,2010-05-05,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,18.5,present,2010-05-06,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.729586,32.051985,17,present,2010-05-06,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,19.25,present,2010-05-06,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.729586,32.051985,19.25,present,2010-05-06,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,15.5,present,2010-05-06,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.745893,32.088642,79,present,2010-05-05,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",34.745893,32.088642,79,present,2010-05-05,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.767952,32.158012,15.5,present,2010-05-06,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.60865,31.803896,70,present,2010-05-05,GBIF,"[50,100)"
+"Himantura uarnak (Gmelin, 1789)",34.729586,32.051985,18.5,present,2010-05-06,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,18,present,2010-05-07,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.853096,32.427916,81,present,2010-06-27,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",34.89584,32.606908,92.5,present,2010-06-27,GBIF,"[50,100)"
+"Torpedo marmorata Risso, 1810",34.89584,32.606908,80.5,present,2010-06-28,GBIF,"[50,100)"
+"Dasyatis tortonesei Capapé, 1975",35.027246,32.836143,23.5,present,2010-06-26,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.812155,32.271418,23,present,2010-07-29,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,24.5,present,2010-07-29,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,27.5,present,2010-07-28,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.085182,33.083901,24.5,present,2010-07-28,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,24.5,present,2010-07-28,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,87,present,2010-08-04,GBIF,"[50,100)"
+"Torpedo marmorata Risso, 1810",35.027246,32.836143,108,present,2010-08-04,GBIF,"[100,200)"
+"Raja miraletus Linnaeus, 1758",34.89584,32.606908,31.5,present,2010-08-18,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,108,present,2010-08-04,GBIF,"[100,200)"
+"Torpedo torpedo (Linnaeus, 1758)",34.883394,32.537222,35.5,present,2010-08-18,GBIF,"[30,50)"
+"Myliobatis tenuicaudatus Hector, 1877",35.3687,33.5626,26,present,2010-09-24T10:20Z,GBIF,"[10,30)"
+"Raja binoculata Girard, 1855",35.3687,33.5626,26,present,2010-09-24T10:20Z,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.3687,33.5626,26,present,2010-09-24T10:20Z,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,19,present,2010-09-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.683409,31.938138,51,present,2010-09-27,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,51,present,2010-09-27,GBIF,"[50,100)"
+"Mustelus mustelus (Linnaeus, 1758)",34.683409,31.938138,51,present,2010-09-27,GBIF,"[50,100)"
+"Torpedo torpedo (Linnaeus, 1758)",34.60865,31.803896,19.5,present,2010-10-12,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,25.5,present,2010-10-12,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.729586,32.051985,18,present,2010-10-12,GBIF,"[10,30)"
+"Aetomylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.946737,32.836864,14.5,present,2010-11-12,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.853096,32.427916,51.5,present,2010-11-08,GBIF,"[50,100)"
+"Tetronarce nobiliana (Bonaparte, 1835)",34.812155,32.271418,51,present,2010-11-11,GBIF,"[50,100)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.412012,31.536221,22,present,2010-11-09,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.60865,31.803896,13,present,2010-11-09,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.853096,32.427916,70.5,present,2010-11-11,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.812155,32.271418,51,present,2010-11-11,GBIF,"[50,100)"
+"Mustelus mustelus (Linnaeus, 1758)",34.812155,32.271418,51,present,2010-11-11,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.812155,32.271418,51.5,present,2010-11-08,GBIF,"[50,100)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.767952,32.158012,15.5,present,2010-11-10,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.812155,32.271418,51,present,2010-11-11,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",35.049477,32.929003,80,present,2010-12-25,GBIF,"[50,100)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.06321,32.999864,28.5,present,2010-12-25,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",35.06321,32.999864,28.5,present,2010-12-25,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.683409,31.938138,81,present,2009-01-20,GBIF,"[50,100)"
+"Torpedo torpedo (Linnaeus, 1758)",35.027246,32.836143,85,present,2009-01-20,GBIF,"[50,100)"
+"Raja miraletus Linnaeus, 1758",34.683409,31.938138,27,present,2009-01-20,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.89584,32.606908,88,present,2009-02-19,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",34.89584,32.606908,88,present,2009-02-19,GBIF,"[50,100)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.027246,32.836143,21,present,2009-02-18,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.820824,32.312507,81,present,2009-02-19,GBIF,"[50,100)"
+"Dasyatis tortonesei Capapé, 1975",35.06321,32.999864,26.5,present,2009-02-18,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.06321,32.999864,26.5,present,2009-02-18,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.085182,33.083901,22.5,present,2009-03-26,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.085182,33.083901,22.5,present,2009-03-26,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.085182,33.083901,20,present,2009-04-27,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.683409,31.938138,21.5,present,2009-05-12,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,24,present,2009-05-12,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",35.085182,33.083901,23,present,2009-05-13,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,23,present,2009-06-16,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.027246,32.836143,23,present,2009-06-16,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.06321,32.999864,35,present,2009-06-15,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,47,present,2009-07-21,GBIF,"[30,50)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.027246,32.836143,25.5,present,2009-07-20,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,24.5,present,2009-08-13,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,29,present,2009-08-13,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.820824,32.312507,26.5,present,2009-08-06,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,15,present,2009-08-14,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.027246,32.836143,17.75,present,2009-08-13,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.683409,31.938138,17,present,2009-09-22,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.683409,31.938138,14,present,2009-12-21,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,32,present,2008-11-04,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",34.683409,31.938138,28.5,present,2008-11-06,GBIF,"[10,30)"
+"Raja clavata Linnaeus, 1758",34.853096,32.427916,100,present,2008-12-15,GBIF,"[100,200)"
+"Raja clavata Linnaeus, 1758",35.049477,32.929003,40,present,2008-12-15,GBIF,"[30,50)"
+"Raja clavata Linnaeus, 1758",34.812155,32.271418,80,present,2008-12-15,GBIF,"[50,100)"
+"Raja clavata Linnaeus, 1758",35.027246,32.836143,77,present,2008-12-15,GBIF,"[50,100)"
+"Myliobatis aquila (Linnaeus, 1758)",35.027246,32.836143,40,present,2008-12-15,GBIF,"[30,50)"
+"Myliobatis aquila (Linnaeus, 1758)",35.049477,32.929003,40,present,2008-12-15,GBIF,"[30,50)"
+"Isurus oxyrinchus Rafinesque, 1810",34.6082,31.8154,NA,present,2006-03-05,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7015,31.9348,45,present,2005-12-22,GBIF,"[30,50)"
+"Squatina squatina (Linnaeus, 1758)",34.7443,32.0594,NA,present,2004-05-05,GBIF,NA
+BOLD:AAO2730,35.012,32.924,31,present,2001-06-04,GBIF,"[30,50)"
+"Squalus acanthias Linnaeus, 1758",34.8753,32.4431,440,present,2001-06-11,GBIF,"[200,500)"
+"Galeus melastomus Rafinesque, 1810",34.8753,32.4431,440,present,2001-06-11,GBIF,"[200,500)"
+"Galeus melastomus Rafinesque, 1810",34.8753,32.4431,440,present,2001-06-11,GBIF,"[200,500)"
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,11,present,2000-02-21,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.06321,32.999864,27,present,2000-02-28,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.06321,32.999864,31.5,present,2000-02-27,GBIF,"[30,50)"
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,8,present,2000-02-23,GBIF,"[0,10)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.820824,32.312507,11,present,2000-02-21,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.853096,32.427916,28,present,2000-02-21,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,21,present,2000-06-11,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.683409,31.938138,18,present,2000-06-28,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.60865,31.803896,18,present,2000-07-31,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.60865,31.803896,19,present,2000-07-30,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.60865,31.803896,19,present,2000-07-30,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,17,present,2000-07-31,GBIF,"[10,30)"
+"Dasyatis pastinaca (Linnaeus, 1758)",34.905281,32.690081,30,present,2000-08-20,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",34.820824,32.312507,36,present,2000-08-21,GBIF,"[30,50)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.767952,32.158012,10,present,2000-11-20,GBIF,"[10,30)"
+"Galeus melastomus Rafinesque, 1810",34.8753,32.4431,700,present,1999-01-12,GBIF,"[500,1e+03]"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.8753,32.4431,1500,present,1998-01-12,GBIF,NA
+"Raja oxyrinchus Linnaeus, 1758",34.8753,32.4431,700,present,1996-12-16,GBIF,"[500,1e+03]"
+"Carcharhinus altimus (Springer, 1950)",34.56,31.78,8,present,1996,GBIF,"[0,10)"
+"Scyliorhinus canicula (Linnaeus, 1758)",34.6082,31.8154,300,present,1995-03-03,GBIF,"[200,500)"
+"Galeus melastomus Rafinesque, 1810",34.6082,31.8154,300,present,1995-03-03,GBIF,"[200,500)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,12.5,present,1994-02-28,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.8753,32.4431,155,present,1994-02-04,GBIF,"[100,200)"
+"Torpedo torpedo (Linnaeus, 1758)",34.60865,31.803896,11.5,present,1994-03-01,GBIF,"[10,30)"
+"Dasyatis Rafinesque, 1810",34.946737,32.836864,16,present,1994-03-03,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,8.5,present,1994-04-09,GBIF,"[0,10)"
+"Torpedo marmorata Risso, 1810",34.729586,32.051985,8.5,present,1994-04-09,GBIF,"[0,10)"
+"Raja miraletus Linnaeus, 1758",34.729586,32.051985,14.5,present,1994-04-10,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,9.5,present,1994-04-27,GBIF,"[0,10)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,14.5,present,1994-04-10,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.018,32.8446,150,present,1994-06-21,GBIF,"[100,200)"
+"Mustelus mustelus (Linnaeus, 1758)",34.946737,32.836864,16,present,1994-08-17,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,20,present,1994-08-15,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,20,present,1994-08-13,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,42,present,1994-08-14,GBIF,"[30,50)"
+"Torpedo torpedo (Linnaeus, 1758)",34.533119,31.681269,20,present,1994-08-15,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,20,present,1994-08-16,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.853096,32.427916,11,present,1994-08-17,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",35.085182,33.083901,22,present,1994-08-15,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,56,present,1994-08-17,GBIF,"[50,100)"
+"Dasyatis Rafinesque, 1810",34.853096,32.427916,11,present,1994-08-17,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,20,present,1994-08-14,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",35.027246,32.836143,16.5,present,1994-10-25,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.75,32.033333,NA,present,1993-01-15,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.766666,32.083332,NA,present,1993-02-16,GBIF,NA
+"Mustelus mustelus (Linnaeus, 1758)",35.016667,32.85,NA,present,1993-02-14,GBIF,NA
+"Squalus blainville (Risso, 1827)",35.027246,32.836143,43,present,1993-02-22,GBIF,"[30,50)"
+"Raja clavata Linnaeus, 1758",34.6082,31.8154,250,present,1993-05-10,GBIF,"[200,500)"
+"Torpedo nobiliana Bonaparte, 1835",34.6082,31.8154,350,present,1993-06-01,GBIF,"[200,500)"
+"Scyliorhinus canicula (Linnaeus, 1758)",34.6082,31.8154,350,present,1993-06-01,GBIF,"[200,500)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,35.5,present,1993-08-25,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",35.027246,32.836143,32,present,1993-10-19,GBIF,"[30,50)"
+Rajidae,34.6082,31.8154,250,present,1993-12-16,GBIF,"[200,500)"
+"Torpedo marmorata Risso, 1810",34.6082,31.8154,250,present,1993-12-16,GBIF,"[200,500)"
+"Dasyatis pastinaca (Linnaeus, 1758)",35.027246,32.836143,22,present,1992-01-26,GBIF,"[10,30)"
+"Torpedo marmorata Risso, 1810",34.683409,31.938138,19,present,1992-01-10,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.812155,32.271418,10,present,1992-02-28,GBIF,"[10,30)"
+"Scyliorhinus canicula (Linnaeus, 1758)",34.7443,32.0594,250,present,1992-04-10,GBIF,"[200,500)"
+"Scyliorhinus canicula (Linnaeus, 1758)",34.7443,32.0594,NA,present,1992-04-10,GBIF,NA
+Rajidae,35.03333,32.8,NA,present,1992-05-25,GBIF,NA
+Rajidae,35.03333,32.8,NA,present,1992-05-25,GBIF,NA
+"Raja oxyrinchus Linnaeus, 1758",35.018,32.8446,250,present,1992-05-20,GBIF,"[200,500)"
+Rajidae,34.66667,31.76667,NA,present,1992-06-30,GBIF,NA
+Rajidae,34.6082,31.8154,350,present,1992-06-30,GBIF,"[200,500)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.946737,32.836864,10,present,1992-07-30,GBIF,"[10,30)"
+"Raja oxyrinchus Linnaeus, 1758",34.6082,31.8154,350,present,1992-07-14,GBIF,"[200,500)"
+"Squalus blainvillei (Risso, 1827)",34.6082,31.8154,350,present,1992-07-14,GBIF,"[200,500)"
+"Galeus melastomus Rafinesque, 1810",34.6082,31.8154,300,present,1992-07-20,GBIF,"[200,500)"
+"Torpedo torpedo (Linnaeus, 1758)",34.683409,31.938138,16.5,present,1992-08-05,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.60865,31.803896,16,present,1992-09-18,GBIF,"[10,30)"
+"Torpedo torpedo (Linnaeus, 1758)",34.729586,32.051985,14.5,present,1992-11-17,GBIF,"[10,30)"
+"Galeus melastomus Rafinesque, 1810",34.8753,32.4431,1400,present,1992-12-07,GBIF,NA
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.8753,32.4431,1400,present,1992-12-07,GBIF,NA
+Rajidae,34.84949,32.33468,NA,present,1992,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.820824,32.312507,13,present,1991-01-08,GBIF,"[10,30)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.767952,32.158012,9,present,1991-01-09,GBIF,"[0,10)"
+"Rhinobatos rhinobatos (Linnaeus, 1758)",34.820824,32.312507,13,present,1991-01-08,GBIF,"[10,30)"
+"Squalus blainville (Risso, 1827)",35.027246,32.836143,35.5,present,1991-02-21,GBIF,"[30,50)"
+"Raja clavata Linnaeus, 1758",34.7443,32.0594,220,present,1991-03-08,GBIF,"[200,500)"
+"Squalus blainvillei (Risso, 1827)",34.7549,32.0595,700,present,1991-04-26,GBIF,"[500,1e+03]"
+"Hexanchus griseus (Bonnaterre, 1788)",34.8753,32.4431,1500,present,1991-04-25,GBIF,NA
+"Raja batis Linnaeus, 1758",34.6082,31.8154,NA,present,1991-05-10,GBIF,NA
+"Raja oxyrinchus Linnaeus, 1758",34.6082,31.8154,250,present,1991-05-23,GBIF,"[200,500)"
+"Oxynotus centrina (Linnaeus, 1758)",34.6082,31.8154,NA,present,1991-05-07,GBIF,NA
+"Etmopterus spinax (Linnaeus, 1758)",34.8753,32.4431,1400,present,1991-05-04,GBIF,NA
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.6082,31.8154,250,present,1991-05-23,GBIF,"[200,500)"
+"Alopias superciliosus Lowe, 1841",34.7549,32.0595,NA,present,1991-05-15,GBIF,NA
+"Dasyatis violacea (Bonaparte, 1832)",34.574,32.1759,NA,present,1991-05-26,GBIF,NA
+"Carcharhinus obscurus (Lesueur, 1818)",34.6082,31.8154,NA,present,1991-05-10,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.8753,32.4431,700,present,1991-05-04,GBIF,"[500,1e+03]"
+"Torpedo torpedo (Linnaeus, 1758)",34.946737,32.836864,16,present,1991-06-17,GBIF,"[10,30)"
+"Carcharhinus obscurus (Lesueur, 1818)",34.7443,32.0594,NA,present,1991-07-02,GBIF,NA
+"Pteromylaeus bovinus (Geoffroy Saint-Hilaire, 1817)",34.7443,32.0594,NA,present,1991-07-18,GBIF,NA
+"Dasyatis violacea (Bonaparte, 1832)",34.7496,32.0549,NA,present,1991-07-02,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.883394,32.537222,38.5,present,1991-10-25,GBIF,"[30,50)"
+"Raja miraletus Linnaeus, 1758",34.89584,32.606908,36.5,present,1991-10-25,GBIF,"[30,50)"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.8753,32.4431,NA,present,1991,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.946737,32.836864,43,present,1990-07-30,GBIF,"[30,50)"
+"Himantura uarnak (Gmelin, 1789)",34.7443,32.0594,NA,present,1990-12-19,GBIF,NA
+"Sphyrna zygaena (Linnaeus, 1758)",35.0071,32.9168,NA,present,1989-03-06,GBIF,NA
+"Isurus oxyrinchus Rafinesque, 1810",34.7443,32.0594,NA,present,1989-05-01,GBIF,NA
+"Raja asterias Delaroche, 1809",35.03333,32.8,NA,present,1988-03-06,GBIF,NA
+"Dasyatis tortonesei Capapé, 1975",35.0071,32.9168,NA,present,1988-12-05,GBIF,NA
+"Etmopterus spinax (Linnaeus, 1758)",34.954,32.8067,820,present,1987-01-22,GBIF,"[500,1e+03]"
+"Torpedo marmorata Risso, 1810",34.6082,31.8154,NA,present,1987-02,GBIF,NA
+"Squalus blainvillei (Risso, 1827)",35.018,32.8446,60,present,1987-02-17,GBIF,"[50,100)"
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",35.0071,32.9168,NA,present,1987-06-08,GBIF,NA
+Squalidae,34.933,32.7002,15,present,1986-11,GBIF,"[10,30)"
+"Heptranchias perlo (Bonnaterre, 1788)",34.933,32.7002,NA,present,1986-11,GBIF,NA
+Squalidae,34.5695,32.8251,1300,present,1985-06-26,GBIF,NA
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.5695,32.8251,1385,present,1985-06-25,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.5695,32.8251,1300,present,1985-06-26,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.7863,32.1227,NA,present,1985-06-26,GBIF,NA
+"Dalatias licha (Bonnaterre, 1788)",34.5695,32.8251,1300,present,1985-06-26,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.5695,32.8251,1300,present,1985-06-26,GBIF,NA
+"Somniosus rostratus (Risso, 1827)",34.6549,32.8255,1200,present,1985-06-26,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.8595,32.3935,45,present,1985-09-04,GBIF,"[30,50)"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",35.018,32.8446,235,present,1984-03-01,GBIF,"[200,500)"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",35.018,32.8446,235,present,1984-03-01,GBIF,"[200,500)"
+Squalidae,35.018,32.8446,235,present,1984-03-01,GBIF,"[200,500)"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",35.018,32.8446,235,present,1984-03-01,GBIF,"[200,500)"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",35.018,32.8446,235,present,1984-03-01,GBIF,"[200,500)"
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.7863,32.1227,NA,present,1984-09,GBIF,NA
+"Centrophorus granulosus (Bloch & Schneider, 1801)",35.018,32.8446,250,present,1984-09-01,GBIF,"[200,500)"
+Rhinobatidae,35.0287,32.8131,NA,present,1982-06-09,GBIF,NA
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.8753,32.4431,NA,present,1982-09-30,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.7443,32.0594,NA,present,1980-05,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.7443,32.0594,NA,present,1980-07,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7443,32.0594,NA,present,1980-07,GBIF,NA
+"Torpedo marmorata Risso, 1810",35.0071,32.9168,NA,present,1979-05,GBIF,NA
+Triakidae,34.6082,31.8154,73,present,1979-07-15,GBIF,"[50,100)"
+Rhinobatidae,34.7443,32.0594,NA,present,1979-09-07,GBIF,NA
+Triakidae,34.7443,32.0594,NA,present,1979-09-07,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",35.0287,32.8086,NA,present,1977-03-23,GBIF,NA
+Rajidae,34.6082,31.8154,NA,present,1977-05-01,GBIF,NA
+"Mustelus mustelus (Linnaeus, 1758)",34.859,32.5107,NA,present,1972-12-18,GBIF,NA
+"Isurus oxyrinchus Rafinesque, 1810",34.6082,31.8154,NA,present,1971-05-25,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.78,32.5,58.6,present,1969-08-26,GBIF,"[50,100)"
+"Carcharhinus plumbeus (Nardo, 1827)",34.78,32.5,58.6,present,1969-08-26,GBIF,"[50,100)"
+"Mustelus Linck, 1790",34.78,32.5,58.6,present,1969-08-26,GBIF,"[50,100)"
+Scyliorhinidae,34.6082,31.8154,NA,present,1968-02,GBIF,NA
+Dasyatidae,34.8669,32.4043,NA,present,1966-07-26,GBIF,NA
+"Cetorhinus maximus (Gunnerus, 1765)",35.0071,32.9168,NA,present,1965-01-11,GBIF,NA
+"Rhinobatos cemiculus Geoffroy Saint-Hilaire, 1817",34.5458,31.6798,NA,present,1965-04-02,GBIF,NA
+"Oxynotus centrina (Linnaeus, 1758)",34.5458,31.6798,NA,present,1965-04-02,GBIF,NA
+"Mustelus mustelus (Linnaeus, 1758)",35.018,32.8446,NA,present,1965-09-07,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",35.0071,32.9168,NA,present,1964-02-20,GBIF,NA
+"Oxynotus centrina (Linnaeus, 1758)",34.7549,32.0595,NA,present,1964-07-19,GBIF,NA
+"Hexanchus griseus (Bonnaterre, 1788)",34.7026,31.933,180,present,1963-05-07,GBIF,"[100,200)"
+"Raja miraletus Linnaeus, 1758",34.7549,32.0595,NA,present,1963-08-13,GBIF,NA
+"Raja oxyrinchus Linnaeus, 1758",34.8753,32.4431,NA,present,1962-07-18,GBIF,NA
+"Centrophorus granulosus (Bloch & Schneider, 1801)",34.7549,32.0595,NA,present,1962-07-18,GBIF,NA
+"Squatina aculeata Cuvier, 1829",34.7549,32.0595,NA,present,1962-07-04,GBIF,NA
+"Torpedo marmorata Risso, 1810",34.8753,32.4431,270,present,1962-07-18,GBIF,"[200,500)"
+Rajidae,34.7549,32.0595,NA,present,1962-07-18,GBIF,NA
+Rajidae,34.7549,32.0595,NA,present,1962-07-18,GBIF,NA
+Rajidae,34.8753,32.4431,46,present,1962-07-18,GBIF,"[30,50)"
+"Raja clavata Linnaeus, 1758",34.8753,32.4431,46,present,1962-07-18,GBIF,"[30,50)"
+"Squalus acanthias Linnaeus, 1758",34.7549,32.0595,550,present,1962-07-18,GBIF,"[500,1e+03]"
+Carcharhinidae,34.5458,31.6798,NA,present,1961-11-15,GBIF,NA
+"Squatina squatina (Linnaeus, 1758)",34.5458,31.6798,NA,present,1959-02-06,GBIF,NA
+"Dasyatis centroura (Mitchill, 1815)",34.8669,32.4025,NA,present,1959-03,GBIF,NA
+"Isurus oxyrinchus Rafinesque, 1810",34.7549,32.0595,NA,present,1959-05-04,GBIF,NA
+Carcharhinidae,34.8669,32.4025,NA,present,1959-08-07,GBIF,NA
+"Taeniura grabata (Geoffroy Saint-Hilaire, 1817)",35.1011,33.044,NA,present,1959-08-15,GBIF,NA
+Myliobatidae,34.9699,32.8337,NA,present,1958-02-12,GBIF,NA
+"Carcharhinus plumbeus (Nardo, 1827)",34.859,32.5107,NA,present,1958-11-04,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.9227,32.5649,NA,present,1958-11-03,GBIF,NA
+"Raja oxyrinchus Linnaeus, 1758",34.8282,32.2626,NA,present,1955-05-02,GBIF,NA
+"Raja oxyrinchus Linnaeus, 1758",34.7549,32.0595,NA,present,1954-03-05,GBIF,NA
+"Galeus melastomus Rafinesque, 1810",34.7863,32.1227,NA,present,1954-05,GBIF,NA
+Carcharhinidae,34.8669,32.4025,NA,present,1954-09,GBIF,NA
+"Himantura uarnak (Gmelin, 1789)",34.732,32.076,20,present,1954,GBIF,"[10,30)"
+"Raja miraletus Linnaeus, 1758",34.7863,32.1227,NA,present,1953-05-30,GBIF,NA
+"Taeniura lymma (Forsskål, 1775)",34.5458,31.6798,NA,present,1936-01-05,GBIF,NA
+"Myliobatis aquila (Linnaeus, 1758)",34.5458,31.6798,NA,present,1936-03-13,GBIF,NA
+"Squatina africana Regan, 1908",34.5458,31.6798,NA,present,1936-03-17,GBIF,NA
+Carcharhinidae,34.5458,31.6798,NA,present,1934-03-19,GBIF,NA
+"Torpedo Duméril, 1806",34.9981,32.8195,NA,present,1926-01-04,GBIF,NA
+"Torpedo Duméril, 1806",34.9981,32.8195,NA,present,1926-01-04,GBIF,NA
+Carcharhinidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+"Dasyatis Rafinesque, 1810",33.42352,32.79112,NA,present,NA,GBIF,NA
+"Rhinobatos Linck, 1790",33.42352,32.79112,NA,present,NA,GBIF,NA
+Squalidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+Rajidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+"Myliobatis Cuvier, 1816",33.42352,32.79112,NA,present,NA,GBIF,NA
+Rajidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+"Scyliorhinus Blainville, 1816",33.42352,32.79112,NA,present,NA,GBIF,NA
+Rajidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+Rajidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+Carcharhinidae,33.42352,32.79112,NA,present,NA,GBIF,NA
+"Oxynotus centrina (Linnaeus, 1758)",33.42352,32.79112,NA,present,NA,GBIF,NA
+Elasmobranchii,34.965783,32.67288,NA,present,NA,GBIF,NA
+"Squalicorax Whitley, 1939",35.196442,31.375494,NA,present,NA,GBIF,NA
+"Squatina squatina (Linnaeus, 1758)",34.7863,32.1227,NA,present,NA,GBIF,NA
+"Myliobatis aquila (Linnaeus, 1758)",34.7863,32.1227,NA,present,NA,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.7549,32.0595,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7334,32.1225,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7863,32.1227,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7863,32.1227,NA,present,NA,GBIF,NA
+"Myliobatis aquila (Linnaeus, 1758)",34.7863,32.1227,NA,present,NA,GBIF,NA
+Rajidae,34.7863,32.1227,NA,present,NA,GBIF,NA
+"Rhinobatos cemiculus Geoffroy Saint-Hilaire, 1817",34.7334,32.1225,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7334,32.1225,NA,present,NA,GBIF,NA
+"Pristis pectinata Latham, 1794",34.7496,32.0549,NA,present,NA,GBIF,NA
+Rajidae,34.7334,32.1225,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7863,32.1227,NA,present,NA,GBIF,NA
+Rajidae,34.7863,32.1227,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7863,32.1227,NA,present,NA,GBIF,NA
+"Etmopterus spinax (Linnaeus, 1758)",34.7863,32.1227,800,present,NA,GBIF,"[500,1e+03]"
+"Raja clavata Linnaeus, 1758",34.7863,32.1227,NA,present,NA,GBIF,NA
+Carcharhinidae,34.7334,32.1225,NA,present,NA,GBIF,NA
+"Raja miraletus Linnaeus, 1758",34.7863,32.1227,NA,present,NA,GBIF,NA
+Rajidae,34.7334,32.1225,NA,present,NA,GBIF,NA
+"Torpedo torpedo (Linnaeus, 1758)",34.7334,32.1225,NA,present,NA,GBIF,NA

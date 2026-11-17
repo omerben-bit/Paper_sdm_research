@@ -1,0 +1,1618 @@
+MEDITS    Code,Scientific Name  valid,Authorship ,Source,Reference,Remarks,CATFAU,CODLON,GSAs,Year
+ABRAVER,Abralia veranyi,"(R?ppell, 1844)",FP,"ENOP, 121",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ABRIMOR,Abraliopsis morisii,"(V?rany, 1839)",FP,"ENOP, 123s",,C,0,19,2011 (19)
+ABRRALB,Abra alba,"(Wood, 1802)",R,p. 339 Tav. 129,,Emb,0,"1, 6, 16, 19",
+ABRRLON,Abra longicallus,"(Scacchi, 1835)",,,,Emb,,"1, 19",2013 (1)
+ABRRPRI,Abra prismatica,"(Montagu, 1808)",,,,Emb,0,"7, 8",2017
+ACANEXI,Acanthephyra eximia,"Smith, 1884",Z,84,,B,m,"1, 2, 5, 6, 7, 9, 11, 16, 19",
+ACANPEL,Acanthephyra pelagica,"(Risso, 1816)",Z,86,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 19, 22",
+ACANSPP,Acanthephyra spp.,"A. Milne-Edwards, 1881",Z,83,,B,m,"5, 7, 10, 11, 15, 16, 19","2011 (10, 19)"
+ACATPAL,Acantholabrus palloni,"(Risso, 1810)",C,145.2.1,,Ao,0,"7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+ACROPRE,Acrothamnion preissii,"Wollaston, 1968 ",,,,V,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ACTARIC,Actinauge richardi,"(Marion, 1882)",F,HORM,,Ecn,0,"1, 2, 10, 15, 16, 18, 19","2011 (10, 18, 19)"
+ACTASPP,Actinauge spp.,"Verrill, 1883",,,,Ecn,0,7,2013 (7)
+ACTICAR,Actinia cari,"Delle Chiaje, 1822",R,163 Tav 59,,Ecn,0,16,2013 (16)
+ACTIEQU,Actinia equina,"(Linnaeus, 1758)",F,ACT,,Ecn,0,19,2011 (19)
+ACTIRIA,Actinaria,,R,161,,Ecn,0,"7, 8",
+ACTISPP,Actinia spp.,"Linnaeus, 1767",F,ACT,,Ecn,0,"2, 6, 19",2011 (19)
+ACTNDAE,Actiniidae,"Rafinesque, 1815",R,161,,Ecn,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ADAMCAR,Adamsia palliata,"(Fabricius, 1779)",R,"164, 165",e1,Ecn,0,"5, 16, 19",2011 (19)
+ADAMSPP,Adamsia spp.,"Forbes, 1840",R,165,,Ecn,0,"5, 18",2013 (18)
+AEGIDAE,Aegidae,"White, 1850",,,,Bis,0,5,2013 (5)
+AEODMAR,Nemastoma marginatum,"J. Agardh, 1842",,,v1,V,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+AEQOFOR,Aequorea forskalea,"P?ron & Lesueur, 1810",R,139 Tav 48,,Ecn,0,5,2013 (5)
+AEQOSPP,Aequorea spp.,"P?ron & Lesueur, 1810",R,139,,Ecn,0,7,2015
+AEQUCOM,Aequipecten commutatus,"(Monterosato, 1875)",,,,Dmb,0,10,2013 (10)
+AEQUOPE,Aequipecten opercularis,"(Linnaeus, 1758)",F,PECT Aeq 1,d1,Dmb,0,"1, 5, 6, 9, 16, 17, 18, 19",
+AGELORO,Agelas oroides,"(Schmidt, 1864)",R,p. 116 Tav. 39,,Esp,0,19,2011 (19)
+AGLAPLU,Aglaophenia pluma,"(Linnaeus, 1758)",R,133 Tav 46,,Ecn,0,16,2013 (16)
+AGLJTRI,Aglaja tricolorata,"Renier, 1807",,,,Emo,0,16,2013 (16)
+ALCDSPP,Alcyonidium spp.,"Lamouroux, 1813",R,531,,Ebr,0,7,2013 (7)
+ALCODAE,Alcyoniidae,"Lamouroux, 1812",R,170,,Ecn,0,15,2012 (15)
+ALCYACA,Alcyonium acaule,"Marion, 1878",R,170 Tav 62,,Ecn,0,"1, 5, 10, 16","2013 (1, 5)"
+ALCYGLO,Alcyonium glomeratum,"(Hassal, 1843)",,,?,Ecn,0,6,2013 (6)
+ALCYPAL,Alcyonium palmatum,"Pallas, 1766",R,p. 170 Tav. 62,,Ecn,0,"1, 2, 5, 6, 9, 10, 16, 17, 18, 19",
+ALCYSPP,Alcyonium spp.,"Linnaeus, 1758",R,170,,Ecn,0,"7, 8","2013 (7, 8)"
+ALEPDAE,Alepocephalidae,"Bonaparte, 1846",C,"30, 29, 31",,Ao,1,"7, 8",2017
+ALEPROS,Alepocephalus rostratus,"Risso, 1820",C,30.1.1,,Ao,0,"1, 2, 5, 6, 7, 9, 11, 16",
+ALLOMED,Alloteuthis media,"(Linnaeus, 1758)",FP,"LOLIG Allot 3, 112",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ALLOSPP,Alloteuthis spp.,"W?lker, 1920",FP,"LOLIG Allot, 111",,C,0,"2, 6, 7, 8, 9, 15, 16, 17, 22, 23",
+ALLOSUB,Alloteuthis subulata,"(Lamarck, 1798)",FP,"LOLIG Allot 2, 113",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+ALOPVUL,Alopias vulpinus,"(Bonnaterre, 1788)",C,9.1.1,,Ae,0,19,
+ALOSALO,Alosa alosa,"(Linnaeus, 1758) ",C,33.6.1,?,Ao,0,6,2013 (6)
+ALOSFAL,Alosa fallax,"(Lacep?de, 1803)",C,33.6.3,,Ao,0,"1, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22",
+ALPEDAE,Alpheidae,"Rafinesque, 1815",Z,136,,B,,1,2013 (1)
+ALPHGLA,Alpheus glaber,"(Olivi, 1792)",F,ALPH Alph 5,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+ALPHMAC,Alpheus macrocheles,"(Hailstone, 1835)",Z,144,,B,,1,2013 (1)
+ALPHPLA,Alpheus platydactylus,"Couti?re, 1897",,WoRMS,,B,m,1,
+ALPHSPP,Alpheus spp.,"Fabricius, 1798 ",Z,143,,B,,"1, 7, 8, 22",2013 (1)
+AMATSEM,Amathia semiconvoluta,"Lamouroux, 1824",R,p. 531 Tav. 211,,Ebr,0,"10, 18, 19","2011 (10, 18, 19)"
+AMPADOH,Amphianthus dohrnii,"(Koch, 1878)",R,165 Tav 60,,Ecn,0,"10, 16",2013 (16)
+AMPBAMP,Amphibalanus amphitrite amphitrite,"(Darwin, 1854)",,,,Bci,0,16,2013 (16)
+AMPHDAE,Ampharetidae,,R,383,,Epo,0,7,2018
+AMPHSQU,Amphipholis squamata,"(Delle Chiaje, 1828)",RT,"p. 573 Tav. 226, 231",,Eec,0,"1, 18",2011 (18)
+AMPIODA,Amphipoda,"Latreille, 1816",R,487,,Bam,m,"1, 5, 6, 25","2013 (1, 5, 6)"
+AMPUCHI,Amphiura chiajei,"Forbes, 1843",T,224,,Eec,0,"16, 18",2013 (16)
+AMPUSPP,Amphiura spp.,"Forbes, 1843",T,222,,Eec,0,5,2013 (5)
+AMYGLUT,Amygdalum politum,"(Verrill & Smith, 1880)",,,e2,Emb,0,"1, 2, 19",
+ANADCOR,Anadara corbuloides,"(Monterosato, 1878)",F,396,,Dmb,0,"5, 9, 18","2011 (9, 18)"
+ANADDIL,Anadara transversa,"(Say, 1822)",F,ARC Anad 3,d2,Dmb,0,"1, 6, 9, 18",
+ANADINA,Anadara inaequivalvis,"(Brugui?re, 1789)",F,396,d3,Dmb,0,1,2013 (1)
+ANADPOL,Anadara gibbosa,"(Reeve, 1844)",,,d38,Emb,0,"8, 16",2013 (16)
+ANAMRIS,Anamathia rissoana,"(Roux, 1828)",Z,465,,B,m,"6, 10, 11, 15, 16, 18, 19",
+ANAPBIC,Anapagurus bicorniger,"A. Milne-Edwards & Bouvier, 1892",Z,259,,B,m,"1, 6",
+ANAPCHI,Anapagurus chiroacanthus,"(Lilljeborg, 1856)",Z,257,,B,,"1, 2, 5, 6 ","2013 (1, 2, 5, 6) "
+ANAPLAE,Anapagurus laevis,"(Bell, 1846)",Z,256,,B,m,"1, 5, 6, 9, 16",
+ANAPSPP,Anapagurus spp.,"Henderson, 1886 ",Z,255,,B,,7,2015 (7)
+ANCINIC,Ancistroteuthis lichtensteinii,"(F?russac, 1835)",FP,"ONYCHO, 139",,C,0,"1, 2, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 19, 22",
+ANCOLES,Ancistrocheirus lesueurii,"(d'Orbigny, 1842)",FP,"ENOP, 130",,C,0,19,2011 (19)
+ANDRPAR,Andresia parthenopea,"(Andr?s, 1883)",R,p. 161 Tav. 59,,Ecn,0,10,2011 (10)
+ANGUANG,Anguilla anguilla,"(Linnaeus, 1758)",C,71.1.1,,Ao,0,"1, 7, 22",
+ANNEIDA,Annelida,"Lamarck, 1809",R,359,,Ean,0,"1, 5","2013 (1, 5)"
+ANOMDAE,Anomiidae,"Rafinesque, 1815",R,326,,Emb,0,7,2015
+ANOMEPH,Anomia ephippium,"Linnaeus, 1758",F,ANOM,,Emb,0,"1, 5, 6, 10, 16, 18, 19","2011 (10, 18)"
+ANOMSPP,Anomia spp.,"Linnaeus, 1758",R,326,,Emb,0,7,2015
+ANSEPLA,Anseropoda placenta,"(Pennant, 1777)",RT,"p. 567 Tav. 224, 176",,Eec,0,"1, 2, 5, 6, 7, 8, 9, 11, 15, 16, 18, 19","2011 (9, 18)"
+ANTAENT,Antalis entalis,"(Linnaeus, 1758)",,,?,Esc,m,7,2015 (7)
+ANTAINA,Antalis inaequicostata,"(Dautzenberg, 1891)",R,p 310,,Esc,m,16,2013 (16)
+ANTAPAN,Antalis panorma,"(Chenu, 1843)",,,,Esc,m,16,2013 (16)
+ANTASPP,Antalis spp.,"H. Adams & A. Adams, 1854",R,p 310,,Esc,m,7,2015
+ANTEMED,Antedon mediterranea,"(Lamarck, 1816)",RT,"p. 545 Tav. 217, 29",,Eec,0,"1, 5, 6, 9, 10, 11, 15, 16, 18, 19","2011 (9, 10, 18, 19)"
+ANTESPP,Antedon spp.,"De Fr?minville, 1811",T,27,,Eec,0,"7, 8","2013 (7, 8)"
+ANTHANT,Anthias anthias,"(Linnaeus, 1758)",C,124.2.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22",
+ANTISUB,Antipatella subpinnata,"(Ellis & Solander, 1786)",,,,Ecn,1,16,2017
+ANTIPAT,Antipatharia,,R,159,,Ecn,1,25,2018
+ANTOMEG,Gaidropsarus biscayensis,"(Collett, 1890)",C,101.19.2,a1,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19",
+ANTOSPP,Gaidropsarus spp.,"Rafinesque, 1810",C,101.19,a2,Ao,0,"1, 6, 7, 8, 15, 16, 17, 18, 20, 22, 23",
+ANTOZOA,Anthozoa ,"Ehrenberg, 1834",R,156,,Ecn,0,7,
+APERADR,Pseudosimnia adriatica,"(G.B. Sowerby I, 1828)",R,252 Tav 96,e3,Emg,0,10,2011 (10)
+APHIMIN,Aphia minuta,"(Risso, 1810)",C,162.2.1,,Ao,0,"1, 5, 6, 8, 9, 10, 11, 16, 17, 18, 19, 22, 25",
+APHODAE,Aphroditidae,"Malmgren, 1867",R,p 364,,Epo,0,"1, 2, 5, 6, 15","2013 (1, 2, 5, 6)"
+APHRACU,Aphrodita aculeata,"Linnaeus, 1758",R,p. 364 Tav. 140,,Epo,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19","2011 (9, 10, 18, 19)"
+APHRIDA,Aphroditiformia,"Levinsen, 1883",,,,Epo,0,"7, 8",2017
+APHRSPP,Aphrodita spp.,"Linnaeus, 1758",R,364 Tav 140,,Epo,0,"1, 2, 5, 6, 7, 8, 10","2013 (1, 2, 5, 6)"
+APLAAER,Aplysina aerophoba,"Nardo, 1833",R,121 s,,Esp,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+APLEDAE,Aplysiidae,"Lamarck, 1809",R,279,,Emo,0,7,2015 (7)
+APLICON,Aplidium conicum,"(Olivi, 1792) ",R,588 Tav 234,,Etu,m,"5, 6, 16","2013 (5, 6)"
+APLIELE,Aplidium elegans,"(Giard, 1872)",,,,Etu,m,5,2013 (5)
+APLIHAO,Aplidium haouarianum,"(P?r?s, 1956)",,,,Etu,m,5,2013 (5)
+APLINOR,Aplidium nordmanni,"(Milne-Edwards, 1841)",R,588 Tav 234,,Etu,m,5,2013 (5)
+APLIPAL,Aplidium pallidum,"(Verrill, 1871)",,,,Etu,m,"1, 2, 5, 6 ","2013 (1, 2, 5, 6)"
+APLIPRO,Aplidium proliferum,"(Milne-Edwards, 1841)",R,588 Tav 234,,Etu,,16,2013 (16)
+APLISPP,Aplidium spp.,"Savigny, 1816 ",,,,Etu,,"1, 5, 16","2013 (1, 5)"
+APLYDEP,Aplysia depilans,"Gmelin, 1791",R,280 Tav 108,,Emo,0,16,2013 (16)
+APLYFAS,Aplysia fasciata,"Poiret, 1789",R,p. 281 Tav. 108,,Emo,0,"5, 16, 18",2011 (18)
+APLYPAR,Aplysia parvula,"M?rch, 1863",R,280 Tav 108,,Emo,0,16,2013 (16)
+APLYPUN,Aplysia punctata,"(Cuvier, 1803)",R,279 Tav 108,,Emo,0,"5, 6, 16","2013 (5, 6)"
+APLYSPP,Aplysia spp.,"Linnaeus, 1767",R,p. 279,,Emo,0,"5, 6, 9, 16, 18",2011 (18)
+APOGIMB,Apogon imberbis,"(Linnaeus, 1758)",C,127.1.1,,Ao,0,"7, 9, 11, 15, 25",
+APORPES,Aporrhais pespelecani,"(Linnaeus, 1758)",F,APOR Apor 1,,Dmg,0,"1, 6, 7, 8, 9, 10, 16, 17, 18, 19",
+APORSER,Aporrhais serresianus,"(Michaud, 1828)",F,APOR Apor 2,,Dmg,0,"1, 2, 5, 6, 8, 9, 10, 16, 18, 19",
+APORSPP,Aporrhais spp.,"Da Costa, 1778 ",F,APOR,,Dmg,0,"1, 2, 5, 6, 7, 8, 16","2013 (1, 2, 5, 6)"
+APTECAE,Apterichtus caecus,"(Linnaeus, 1758)",C,86.2.1,,Ao,0,"6, 7, 9",
+ARCANOA,Arca noae,"Linnaeus, 1758",F,394 ARC Arc 2,,Dmb,0,"1, 2, 5, 6 ","2013 (1, 2, 5, 6)"
+ARCATET,Arca tetragona,"Poli, 1795",,,,Dmb,0,"1, 2, 5, 16","2013 (1, 2, 5)"
+ARCOBAL,Arcopagia balaustina,"(Linnaeus, 1758)",,,,Emb,,7,2015 (7)
+ARENMAR,Arenicola marina,"(Linnaeus, 1758)",R,380 Tav 147,,Ean,0,16,2017
+ARGESPY,Argentina sphyraena,"Linnaeus, 1758",C,46.1.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ARGOOLE,Ranella olearium,"(Linnaeus, 1758)",F,CYM Argo 1,d4,Dmg,0,"1, 2, 5, 6, 9, 11, 16, 18, 19",
+ARGRHEM,Argyropelecus hemigymnus,"Cocco, 1829",C,38.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ARGUARG,Argonauta argo,"Linnaeus, 1758",FP,"ARGO Argo 1, 261",,C,0,"16, 19",2011 (19)
+ARIOBAL,Ariosoma balearicum,"(Delaroche, 1809)",C,82.2.1,,Ao,0,"8, 9, 10, 11, 17, 18, 19",
+ARISFOL,Aristaeomorpha foliacea,"(Risso, 1827)",F,ARIST Aris 1,,B,m,"5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+ARITANT,Aristeus antennatus,"(Risso, 1816)",F,ARIST Arist 1,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+ARMILOV,Armina loveni,"(Bergh, 1866)",,,?,Emo,0,7,2013 (7)
+ARMIMAC,Armina maculata,"Rafinesque, 1814",F,NAT Natic 1,,Dmo,0,"5, 6, 11",
+ARMINEA,Armina neapolitana,"(Delle Chiaje, 1824)",,,,Emo,,16,2013 (16)
+ARMISPP,Armina spp.,"Rafinesque, 1814",,,,Emo,,"5, 6","2013 (5, 6)"
+ARMITIG,Armina tigrina,"Rafinesque, 1814",R,p. 292 Tav. 112,,Dmo,0,"6, 9, 10, 16, 18, 19",
+ARNOIMP,Arnoglossus imperialis,"(Rafinesque, 1810)",C,196.2.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 20, 22",
+ARNOKES,Arnoglossus kessleri,"Schmidt, 1915",C,196.2.3,,Ao,0,"10, 19, 20, 22","2011 (10, 19)"
+ARNOLAT,Arnoglossus laterna,"(Walbaum, 1792)",C,196.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ARNORUP,Arnoglossus rueppelii,"(Cocco, 1844)",C,196.2.4,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ARNOSPP,Arnoglossus spp.,"Bleeker, 1862",C,196.2,,Ao,0,"7, 8, 11, 17, 19",2011 (19)
+ARNOTHO,Arnoglossus thori,"Kyle, 1913",C,196.2.5,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ASCDDAE,Ascidiidae,"Herdman, 1882",R,590,,Etu,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ASCEASP,Ascidiella aspersa,"(O.F. M?ller, 1776)",R,p. 590 Tav. 236,,Etu,0,"1, 5, 6, 16, 18, 19",2011 (19)
+ASCESCA,Ascidiella scabra,"(O.F. M?ller, 1776)",,,,Etu,0,"1, 5, 6, 19",2011 (19)
+ASCESPP,Ascidiella spp.,"Roule, 1884",R,p. 590,,Etu,0,"18, 19",2011 (18)
+ASCIINV,Ascidia involuta,"Heller, 1875 ",R,p 591 Tav 236,,Etu,,5,2013 (5)
+ASCIMEN,Ascidia mentula,"O.F. M?ller, 1776",R,p. 591 Tav. 236,,Etu,0,"1, 2, 5, 6, 9, 10, 16, 18, 19","2011 (9, 10, 18, 19)"
+ASCISPP,Ascidia spp.,"Linnaeus, 1767",R,590,,Etu,,"1, 2, 5, 6, 9, 22, 23","2013 (1, 2, 5, 6)"
+ASCIVIR,Ascidia virginea,"O.F. M?ller, 1776",R,p. 591 Tav. 236,,Etu,0,"1, 5, 6, 10, 16, 18","2011 (10, 18)"
+ASCOFLA,Ascidonia flavomaculata,"(Heller, 1864)",Z,175s,,B,,5,2013 (5)
+ASDOMUE,Aspidosiphon muelleri muelleri,"Diesing, 1851",R,p. 216 Tav. 82,,Esi,0,18,2011 (18)
+ASPATAX,Asparagopsis taxiformis,"Trevisan de Saint-L?on, 1845 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ASPICUC,Chelidonichthys cuculus,"(Linnaeus, 1758)",C,185.2.1,a3,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ASPIOBS,Chelidonichthys obscurus,"(Walbaum, 1792)",C,185.2.2,a4,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 19, 20, 22",
+ASTASUL,Astarte sulcata,"(Da Costa, 1778)",F,383,,Emb,m,8,
+ASTEDEA,Asteroidea,"Blainville, 1830",T,111,,Eec,0,1,2013 (1)
+ASTNGIB,Asterina gibbosa,"(Pennant, 1777)",T,169,,Eec,0,2,2014 (2)
+ASTRARA,Astropecten aranciacus,"(Linnaeus, 1758)",RT,"p. 563 Tav. 223, 137",,Eec,0,"5, 7, 8, 9, 11, 16, 18, 19","2011 (9, 18, 19)"
+ASTRBIS,Astropecten bispinosus,"(Otto, 1823)",RT,"p. 565 Tav. 223, 140",,Eec,0,"9, 10, 11, 16, 18, 19","2011 (9, 10, 18, 19)"
+ASTRIRR,Astropecten irregularis pentacanthus,"(Delle Chiaje, 1827)",RT,"p. 565 Tav. 223, 132",,Eec,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19","2011 (9, 10, 18, 19)"
+ASTRJON,Astropecten jonstoni,"(Delle Chiaje, 1827)",T,135,,Eec,0,19,2011 (19)
+ASTRPLA,Astropecten platyacanthus,"(Philippi, 1837)",T,p 142 fig 63,,Eec,1,25,2018
+ASTRSPI,Astropecten spinulosus,"(Philippi, 1837)",RT,"p. 565 Tav. 223, 143",,Eec,0,"5, 6, 9, 11, 19","2011 (9, 19)"
+ASTRSPP,Astropecten spp.,"Gray, 1840",RT,"p. 563, 130",,Eec,0,"5, 6, 7, 8, 9, 15, 17, 18, 19",
+ASTSMED,Astrospartus mediterraneus,"(Risso, 1826)",RT,"p. 570 Tav. 225, 212",,Eec,0,"1, 6, 10, 15, 16",2011 (10)
+ATECDAE,Atelecyclidae,"Ortmann, 1893",Z,341,,B,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ATELROT,Atelecyclus rotundatus,"(Olivi, 1792)",,342,,B,m,"1, 2, 5, 6, 9, 11, 18, 19",
+ATHANIT,Athanas nitescens,"(Leach, 1813)",Z,137,,B,,19,2014 (19)
+ATHEBOY,Atherina boyeri,"Risso, 1810",C,183.1.2,,Ao,0,"11, 25",2012 (25)
+ATOLSPP,Atolla spp.,"Haeckel, 1880",,,?,Ecn,,5,2014 (5)
+ATRIFRA,Atrina fragilis,"(Linnaeus, 1767)",F,PINN Atr 4,,Dmb,0,"9, 16, 17, 18, 19",
+AULOFIL,Aulopus filamentosus,"(Bloch, 1792)",C,50.1.1,,Ao,0,"1, 5, 6, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+AUREAUR,Aurelia aurita,"(Linnaeus, 1758)",R,p 155 Tav 57,,Ecn,0,"1, 5","2013 (1, 5)"
+AURESPP,Aurelia spp.,"Lamarck, 1816",,,,Ecn,0,7,
+AUXIROC,Auxis rochei ,"(Risso, 1810)",C,157.2.1,,Ao,0,11,2014 (11)
+AXINCAN,Axinella cannabina,"(Esper, 1794)",R,p. 112 Tav. 38,,Esp,0,"16, 19",2011 (19)
+AXINDAE,Axinellidae,,R,p 112,,Esp,,7,2018
+AXINDAM,Axinella damicornis,"(Esper, 1794)",R,112,,Esp,0,5,2013 (5)
+AXINPOL,Axinella polypoides,"Schmidt, 1862",R,112,,Esp,0,"2, 5, 16, 19","2013 (2, 5)"
+AXINSPP,Axinella spp.,"Schmidt, 1862",R,112,,Esp,0,"1, 5, 10, 16, 18","2013 (1, 5)"
+AXINVER,Axinella verrucosa,"(Esper, 1794) ",R,112,,Esp,0,"1, 2, 5, 6, 19","2013 (1, 2, 5, 6)"
+AZORCHA,Azorinus chamasolen,(Da Costa 1778),,,,Dmb,0,7,
+BALATRI,Balanus trigonus,"Darwin, 1854",R,421 Tav 163,,Bci,m,22,2015 (22)
+BALICAR,Balistes capriscus,"Gmelin, 1789",C,201.1.2,a5,Ao,0,"9, 16, 19, 25",
+BALOEUR,Balanophyllia europaea,"(Risso, 1826)",,,,Ecn,m,22,2015 (22)
+BARBBAR,Barbatia barbata,"(Linnaeus, 1758)",R,319 Tav 122,,Emb,m,5,2013 (5)
+BASOPRO,Bathysolea profundicola,"(Vaillant, 1888)",C,198.2.1,,Ao,0,"1, 2, 6, 15",
+BATHDUB,Bathypterois dubius,"Vaillant, 1888",F,CHLOR,a6,Ao,0,"5, 6, 9, 10, 15, 16, 19, 22",
+BATHMED,NO                Bathypterois dubius," Vaillant, 1888",F,CHLOR,a6,Ao,0,"5, 6, 9, 10, 15, 16, 19, 22",
+BATHPHE,Bathypterois phenax,"Parr, 1928",C,C suppl 53.1.4,,Ao,0,7,2017
+BATISPO,Bathypolypus sponsalis,"(P. Fischer & H. Fischer, 1892)",FP,"OCT Bath 2, 249",,C,0,"1, 2, 5, 6, 7, 9, 11, 15, 16, 20, 22",
+BATONIG,Bathophilus nigerrimus,"Giglioli, 1882",C,42.2.1,,Ao,0,"1, 6, 9, 10, 19, 25","2011 (9, 10, 19)"
+BATYLON,Bathynectes longipes,"(Risso, 1816)",Z,382,,B,m,20,2014 (20)
+BATYMAR,Bathynectes maravigna,"(Prestandrea, 1839)",F,PORT,b1,B,m,"1, 2, 5, 6, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+BATYSUP,NO             Bathynectes maravigna,"(Prestandrea, 1839)",F,PORT,b1,B,m,"1, 2, 5, 6, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+BEANCYL,Beania cylindrica,"(Hincks, 1886) ",,,,Ebr,m,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+BELLAPO,Bellottia apoda,"Giglioli, 1883",C,172.3.1,,Ao,0,"1, 6, 9, 16, 20, 22, 25",
+BELOBEL ,Belone belone,"(Linnaeus, 1761)",C,90.1.1,,Ao,0,17,2014 (17)
+BENSGLA,Benthosema glaciale,"(Reinhardt, 1837)",C,58.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 17, 19, 20, 22, 23, 25",
+BENTROB,Benthocometes robustus,"(Goode & Bean, 1886)",C,172.4.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22",
+BERTAUR,Berthella aurantiaca,"(Risso, 1818)",R,p. 289 Tav. 111,,Emo,0,"5, 18, 19",2011 (18)
+BERTSPP,Berthella spp.,"Blainville, 1824",R,289 288,,Emo,m,18,2013 (18)
+BIDDEAE,Biddulphiaceae,"K?tzing, 1844",,,,V,,1,2014 (1)
+BITTRET,Bittium reticulatum,"(Da Costa, 1778)",R,248 Tav 94,,Emg,m,16,2013 (16)
+BIVAVIA,Bivalvia,"Linnaeus, 1758",F,371,,Emb,m,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+BLEIDAE,Blenniidae,"Rafinesque, 1810",C,164,a7,Ao,0,"11, 17, 20, 22, 23, 25",
+BLENGAT,Parablennius gattorugine,"(Linnaeus, 1758)",C,164.1.8,a8,Ao,0,"11, 17",
+BLENINC,Parablennius incognitus,"(Bath, 1968)",C,164.1.9,a9,Ao,0,25,2012 (25)
+BLENOCE,Blennius ocellaris,"Linnaeus, 1758",C,164.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+BLENPAV,Salaria pavo,"(Risso, 1810)",C,164.1.12,a10,Ao,0,"9, 17",
+BLENROU,Parablennius rouxi,"(Cocco, 1833)",C,164.1.14,a11,Ao,0,25,2012 (25)
+BLENSPP,NO                       Blenniidae,,C,164,a7,Ao,0,"11, 17, 20, 22, 23, 25",
+BLENTEN,Parablennius tentacularis,"(Br?nnich, 1768)",C,164.1.18,a12,Ao,0,"1, 5, 11, 17, 22, 25",
+BOLMRUG,Bolma rugosa,"(Linnaeus, 1767)",F,628 Turb Art 1,,Emg,m,"5, 16",2013 (5)
+BONEDAE,Bonellidae,"Lacaze-Duthiers, 1858",,,,Ech,0,7,
+BONNSPP,Bonnemaisonia spp.,"C. Agardh, 1822",R,51,,V,0,5,2013 (5)
+BOOPBOO,Boops boops,"(Linnaeus, 1758)",C,139.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+BOROANT,Borostomias antarcticus,"(L?nnberg, 1905)",C,39.2.1,,Ao,0,"1, 5, 6",
+BOTHPOD,Bothus podas,"(Delaroche, 1809)",C,196.1.1,,Ao,0,"1, 5, 6, 9, 10, 11, 15, 16, 18, 19, 20, 22, 23, 25",
+BOTOLEA,Botrylloides leachii,"(Savigny, 1816) ",,,,Etu,,18,2013 (18)
+BOTRSCH,Botryllus schlosseri,"(Pallas, 1766)",R,p. 594 Tav. 238,,Etu,0,"1, 5, 6, 9, 10, 11, 18, 19","2011 (9, 10, 18, 19)"
+BOTRSPP,Botryllus spp.,"Gaertner, 1774",R,p. 594,,Etu,0,"6, 9, 10, 17",2011 (9)
+BOTYBOT,Botryocladia botryoides,"Feldmann, 1941",R,54 62,,V,0,5,2013 (5)
+BOTYMAD,Botryocladia madagascariensis,"Feldmann, 1945 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+BRACRII,Brachioteuthis riisei,"(Steenstrup, 1882)",FP,"BRACHIO Bra. 2, 163",,C,0,"1, 2, 6, 19, 22",
+BRAHSPP,Branchiomma spp.,"K?lliker, 1858 ",R,589,,Epo,,5,2013 (5)
+BRAMBRA,Brama brama,"(Bonnaterre, 1788)",C,133.2.1,,Ao,0,"10, 11, 15, 16, 22, 23",2011 (10)
+BRANSEX,Brachynotus sexdentatus,"(Risso, 1827)",Z,431,,B,m,"10, 18",2011 (10)
+BRAOODA,Brachiopoda,"Dum?ril, 1805",R,537,,Eba,,"2, 5","2013 (2, 5)"
+BRINCOR,Hymenodiscus coronata,"(G.O. Sars, 1872)",RT,"p. 563 Tav. 223, 194s",e4,Eec,0,"1, 2, 15, 16, 19",2011 (19)
+BRIOATL,Brissopsis atlantica,"Mortensen, 1907",T,374,?,Eec,0,"1, 2, 5, 6","2014 (1, 2, 5, 6)"
+BRIOLYR,Brissopsis lyrifera,"(Forbes, 1841)",T,372,,Eec,0,"1, 6, 7, 8, 16, 19",2011 (19)
+BRIOMED,Brissopsis atlantica mediterranea,"Mortensen, 1913",T,374,,Eec,0,19,2014 (19)
+BRISUNI,Brissus unicolor,"(Leske, 1778)",RT,"p. 561 Tav. 222, 375",,Eec,0,9,2011 (9)
+BRYOZOA,Bryozoa,,R,519,,Ebr,,"1, 2, 5, 6","2014 (1, 2, 5, 6)"
+BUBAVER,Bubaris vermiculata,"(Bowerbank, 1866)",,,,Esp,,18,2013 (18)
+BUCCCOR,Euthria cornea,"(Linnaeus, 1758)",F,BUCC Buc 1,d5,Dmg,0,"1, 6, 16",
+BUCCHUN,Buccinum humphreysianum,"Bennet, 1824",F,BUCC,?,Dmg,0,"1, 2, 6, 16",
+BUGLLUT,Buglossidium luteum,"(Risso, 1810)",C,198.3.1,,Ao,0,"6, 7, 8, 9, 11, 16, 17, 19, 22",
+BUGUNER,Bugula neritina,"(Linnaeus, 1758)",R,524,,Ebr,,16,2013 (16)
+BUGUSIM,Bugula simplex,"Hinks, 1886",,,,Ebr,,18,2015
+BUGUSPP,Bugula spp.,"Oken, 1815 ",,,,Ebr,,18,2014 (18)
+BULLSTR,Bulla striata,"Brugui?re, 1792",R,272 Tav 106,,Emo,,"1, 2, 5, 6, 16","2013 (1, 2, 5, 6)"
+BUNOVER,Aulactinia verrucosa,"(Pennant, 1777)",R,p. 161 Tav. 59,e5,Ecn,0,"6, 16, 18",2011 (18)
+BURSLEA,Bursatella leachi,"Blainville, 1817",R,p. 281 Tav. 108,AL,Emo,0,18,2011 (18)
+CALAGRA,Calappa granulata,"(Linnaeus, 1758)",F,CAL Cal 2,,B,m,"1, 2, 5, 6, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+CALAPEL,Calappa pelii,"Herklots, 1851",Y,84,AL,B,m,"20, 22","2014 (20, 22)"
+CALATUE,Calappa tuerkayana,"Pastore, 1995",,WoRMS,,B,m,19,2011 (19)
+CALCTUB,Calcinus tubularis,"(Linnaeus, 1767)",,WoRMS,,B,m,"1, 6, 15",
+CALGVER,Callogorgia verticillata,"(Pallas, 1766)",R,p. 174 Tav. 63,,Ecn,0,"6, 10, 11, 16",2011 (10)
+CALICHI,NO              Calyptraea chinensis,"(Linnaeus, 1758)",R,p. 250 Tav. 95,e6,Emg,0,"1, 2, 5, 6, 15",
+CALLRIS,NO                Callionymus risso,"Lesueur, 1814",C,163a.1.7,a13,Ao,0,"1, 6, 7, 9, 16, 17, 19, 20, 22, 23, 25",
+CALLRUB,Callanthias ruber,"(Rafinesque, 1810)",C,124.3.1,,Ao,0,"1, 2, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+CALMFAS,Callionymus fasciatus,"Valenciennes, 1837",C,163a.1.3,,Ao,0,"17, 19, 22, 23",2011 (19)
+CALMLYR,Callionymus lyra,"Linnaeus, 1758",C,163a.1.1,,Ao,0,"1, 2, 6, 7, 8, 11, 16, 17, 19, 20, 22",
+CALMMAC,Callionymus maculatus,"Rafinesque, 1810",C,163a.1.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+CALMPHA,Synchiropus phaeton,"(G?nther, 1861)",C,163a.1.4,a14,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CALMPUS,Callionymus pusillus,"Delaroche, 1809 ",C,163.1.5,,Ao,0,1,2013 (1)
+CALMRIS,                 Callionymus risso,"Lesueur, 1814",C,163a.1.7,a13,Ao,0,"1, 6, 7, 9, 16, 17, 19, 20, 22, 23, 25",
+CALMSPP,Callionymus spp.,"Linnaeus, 1758",C,163a.1,,Ao,0,"5, 6, 7, 8, 9, 11, 15, 17, 20, 22, 23, 25",
+CALOCOR,Calocarides coronatus,"(Trybom, 1904)",,,?,B,m,"1, 2, 6",
+CALOMAC,Calocaris macandreae,"Bell, 1853",Z,225,,B,m,"1, 2, 5, 6, 9, 20, 22",
+CALPNOB,Calpensia nobilis,"(Esper, 1796)",,,,Ebr,0,18,2011 (18)
+CALSCHI,Callista chione,"(Linnaeus, 1758)",R,333 338,,Dmb,,16,2013 (16)
+CALTPAR,Calliactis parasitica,"(Couch, 1842)",F,HORM,,Ecn,0,"1, 2, 5, 9, 10, 16, 18, 19","2011 (10, 18, 19)"
+CALUSUT,Callumbonella suturalis,"(Philippi, 1836) ",,,,Emg,,"2, 5","2013 (2, 5)"
+CALXNIC,Calyx nicaeensis,"(Risso, 1826)",R,116 Tav 40,,Esp,1,16,2017
+CALYCHI,Calyptraea chinensis,"(Linnaeus, 1758)",R,p. 250 Tav. 95,e6,Emg,0,"1, 2, 5, 6, 15, 16","2013 (1, 2, 5, 6)"
+CAMPHIN,Campanularia hincksii,"Alder, 1856 ",R,129 Tav 45,,Ecn,,6,2013 (6)
+CANCCAN,Bivetiella cancellata,"(Linnaeus, 1767)",F,GASTEROPODA F14,d6,Dmg,0,"1, 5, 6",
+CANIGRA,Calliostoma granulatum,"(Born, 1778)",F,TROCH,,Emg,0,"1, 5, 6, 9, 10, 16, 18, 19",
+CANILAU,Calliostoma laugieri,"(Payraudeau, 1826)",R,p. 234 Tav. 88,,Emg,0,10,2011 (10)
+CANISPP,Calliostoma spp.,"Swainson, 1840 ",R,234,,Emg,,"1, 5, 6","2013 (1, 5, 6)"
+CANIZIZ,Calliostoma zizyphinum,"(Linnaeus, 1758)",R,p. 234 Tav. 88,,Emg,0,"5, 9, 19",2011 (9)
+CAPOAPE,Capros aper,"(Linnaeus, 1758)",C,123.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CAPUUNG,Capulus ungaricus,"(Linnaeus, 1758) ",R,250,,Emg,,"5, 16",2013 (5)
+CARARHO,Caranx rhonchus,"Geoffroy Saint-Hilaire, 1817",C,131.1.5,,Ao,0,"1, 6, 11, 20",
+CARASPP,Caranx spp.,"Lacep?de, 1801",C,131.1,,Ao,0,22,2014 (22)
+CARDACU,Acanthocardia aculeata,"(Linnaeus, 1758)",F,CARD Acan 1,d7,Dmb,0,"1, 5, 6, 9, 10, 16, 18, 19",
+CARDDES,Acanthocardia deshayesii,"(Payraudeau, 1826)",,,,Dmb,0,16,2017
+CARDECH,Acanthocardia echinata,"(Linnaeus, 1758)",F,CARD Acan 2,d8,Dmb,0,"1, 6, 7, 8, 9, 16",
+CARDPAU,Acanthocardia paucicostata,"(G. B. Sowerby II, 1834)",R,333 Tav 127,d9,Dmb,m,"1, 9, 10, 16",2013 (1)
+CARDSPI,Acanthocardia spinosa,"(Lightfoot, 1786)",,,d10,Dmb,0,"6, 16",
+CARDSPP,Acanthocardia spp.,"Gray, 1851",R,333,d11,Dmb,m,"9, 16",2013 (16)
+CARDTUB,Acanthocardia tuberculata,"(Linnaeus, 1758) ",,,d12,Dmb,m,"1, 5, 16","2013 (1, 5)"
+CARECAR,Caretta caretta,"(Linnaeus, 1758) ",F,1429 CHEL Car 1,,R,1,17,2014 (17)
+CARISPP,Cardiomya spp.,"Adams, 1864",R,p. 348,,Emb,0,"6, 17",
+CARISTE,Caridion steveni,"Lebour, 1930",F,HIPPOL,?,B,m,6,
+CARPACU,Carapus acus,"(Br?nnich, 1768)",C,175.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+CARRDAE,Cardiidae,"Lamarck, 1809",,,,Emb,,5,2013 (5)
+CARYCAL,Caryophyllia calveri,"Ducan, 1873",,,,Ecn,0,25,2018
+CARYSMI,Caryophyllia smithii,"Stokes & Broderip, 1828",R,p. 169 Tav. 61,,Ecn,0,"5, 6, 9, 16, 18",2011 (18)
+CARYSPP,Caryophyllia spp.,"Lamarck, 1801 ",,,,Ecn,,"5, 19",2013 (5)
+CASSECH,Galeodea echinophora,"(Linnaeus, 1758)",F,CASS Cass 1,d13,Dmg,0,"1, 2, 6, 7, 9, 10, 11, 15, 16, 17, 18, 19",
+CASSSAB,Semicassis saburon,"(Brugui?re, 1792)",F,CAS Phal 2,d14,Dmg,0,"1, 2, 6, 10, 16",
+CASSSPP,Galeodea spp.,"Link, 1807",,,d15,Dmg,,"16, 17",2013 (16)
+CASSTYR,Galeodea rugosa,"(Linnaeus, 1771)",F,CASS Cass 2,d16,Dmg,0,"1, 2, 5, 6, 9, 10, 11, 15, 16, 17, 18",
+CATAALL,Cataetyx alleni,"(Byrne, 1906)",C,172.6.1,,Ao,0,"1, 5, 6, 7, 9, 11",
+CAULPRO,Caulerpa prolifera,"Lamouroux, 1809 ",R,27,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CAULRAC,Caulerpa racemosa,"J. Agardh, 1873 ",R,27,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CAULTAX,Caulerpa taxifolia,"(M. Vahl) C. Agardh, 1817",,,,V,1,25,2018
+CAVEPUS,Cavernularia pusilla,"(Philippi, 1835)",,,,Ecn,0,7,
+CAVOTRI,Cavolinia tridentata,"(Forssk?l, 1775)",,,,Emo,0,"9, 16, 19",2011 (9)
+CEATEAE,Ceratiaceae,"Kofoid, 1907",,,,V,,1,2014 (1)
+CECACIR,Centracanthus cirrus,"Rafinesque, 1810",C,141.1.1,,Ao,0,"2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CELLHAS,Celleporina caliciformis,"(Lamouroux, 1816)",,,e7,Ebr,0,"10, 18",2011 (18)
+CELPPUM,Cellepora pumicosa,"(Pallas, 1766)",R,529 536,,Ebr,m,18,2013 (18)
+CELRFIS,Cellaria fistulosa,"(Linnaeus, 1758) ",,,,Ebr,m,5,2013 (5)
+CELRSAL,Cellaria salicornioides,"Lamouroux, 1816",R,526,,Ebr,m,"10, 18","2013 (10, 18)"
+CELRSPP,Cellaria spp.,"Ellis & Solander, 1786",,,,Ebr,m,7,
+CENONIG,Centrolophus niger,"(Gmelin, 1789)",C,176.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22",
+CENSLON,Centrostephanus longispinus,"(Philippi, 1845)",RT,"p. 556 Tav. 221, 311",,Eec,0,"1, 2, 5, 7, 8, 15, 16, 18",2011 (18)
+CENTGRA,Centrophorus granulosus,"(Bloch & Schneider, 1801)",C,16.1.2,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 25",
+CENTUYA,Squalus uyato,"Rafinesque, 1810",C,16.2.4,a15,Ae,0,"7, 8, 10, 15, 16, 20, 25",
+CEPAEGG,Eggs capsules of Cephalopoda,,,,,G,,20,2015 (20)
+CEPHVOL,Dactylopterus volitans,"(Linnaeus, 1758)",C,193.1.1,a16,Ao,0,"1, 5, 6, 11, 15, 16, 19, 20, 22, 25",
+CEPOMAC,Cepola macrophthalma,"(Linnaeus, 1758)",C,128.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CERAMAD,Ceratoscopelus maderensis,"(Lowe, 1839)",C,58.4.1,,Ao,0,"1, 2, 5, 6, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22, 25",
+CEREPED,Cereus pedunculatus,"(Pennant, 1777)",R,167 Tav 60,,Ecn,,16,2013 (16)
+CERIMEM,Cerianthus membranaceus,"(Spallanzani, 1784) ",R,159 Tav 58,,Ecn,,"1, 6","2013 (1, 6)"
+CERISPP,Cerianthus spp.,"Delle Chiaje, 1830",R,159,,Ecn,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CERMGRE,Ceramaster grenadensis,"(Perrier, 1881)",,,,Eec,0,"16, 19",2011 (19)
+CERSEDU,Cerastoderma edule ,"(Linnaeus, 1758)",F,407,,Dmb,,16,2013 (16)
+CERTVUL,Cerithium vulgatum,"Brugui?re, 1792",R,248,d17,Dmg,,"9, 16",2013 (16)
+CERUSPP,Ceratium spp.,"Schrank, 1793",,,,V,,1,2014 (1)
+CHAELON,Chaetaster longipes,"(Retzius, 1805)",RT,"p. 565 Tav. 223, 154",,Eec,0,"1, 2, 5, 6, 16, 18, 19",2011 (18)
+CHAMGAL,Chamelea gallina,"(Linnaeus, 1758) ",F,505 Ven cham 1,,Dmb,,"1, 5, 16","2013 (1, 5)"
+CHAPNUD,Champsodon nudivittis,(Ogilby 1895),,,? AL,Ao,1,25,2015
+CHATDAE,Chaetopteridae,,R,378,,Epo,,7,2018
+CHATVAR,Chaetopterus variopedatus,"(Renier, 1804) ",R,378 Tav 145,,Epo,,5,2013 (5)
+CHAUSLO,Chauliodus sloani,"Bloch & Schneider, 1801",C,40.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+CHELAFR,Chelidonura africana,"Pruvot-Fol, 1953",,,,Emo,,10,2013 (10)
+CHELMYD,Chelonia mydas,"(Linnaeus, 1758)",F,1431 CHEL chel 1,,R,1,25,2018
+CHEOLAB,Chelon labrosus,"(Risso, 1827)",C,181.2.1,,Ao,0,"1, 6",
+CHIMMON,Chimaera monstrosa,"Linnaeus, 1758",C,26.1.1,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+CHIRVER,Chiroteuthis veranii,"(F?russac, 1835)",FP,"CHIRO Chiro 1, 185",,C,0,"11, 19",2011 (19)
+CHLAOPE,NO                Aequipecten opercularis,"(Linnaeus, 1758)",F,PECT Aeq 1,d1,Dmb,0,"1, 5, 6, 9, 17, 18, 19",
+CHLASPP,Mimachlamys spp.,"Iredale, 1929",,,,Dmb,,"5, 6, 16","2014 (5, 6)"
+CHLAVAR,Mimachlamys varia,"(Linnaeus, 1758)",F,PECT Chlam 1,d18,Dmb,0,"1, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 19",
+CHLEVEN,Chloeia venusta,"Quatrefages, 1866",,,,Epo,,5,2013 (5)
+CHLOGRA,Chlorotocus crassicornis,"(A. Costa, 1871)",Z,98,b2,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CHMAGRY,Chama gryphoides,"Linnaeus, 1758",F,382 Tab 1,,Emb,,16,2013 (16)
+CHMAPAC,Chama pacifica,"Broderip, 1834",Zn,262,AL,Emb,0,25,2018
+CHODNUC,Chondrilla nucula,"Schmidt, 1862",R,109,,Esp,0,19,2014 (19)
+CHONREN,Chondrosia reniformis,"Nardo, 1847",R,p. 109 Tav. 36,,Esp,0,"5, 10, 18, 19","2011 (10, 18)"
+CHROCHR,Chromis chromis,"(Linnaeus, 1758)",C,144.1.1,,Ao,0,"8, 9, 11, 16, 22, 25",
+CHRYHYS,Chrysaora hysoscella,"(Linnaeus, 1767)",R,155 Tav 57,,Ecn,,6,2013 (6)
+CHTESIC,Chtenopteryx sicula,"(V?rany, 1851)",FP,"CTENO Cteno 1, 115",,C,0,"9, 11, 19","2011 (9, 19)"
+CHYLVER,Chylocladia verticillata,"Bliding, 1928 ",,,,V,,"1, 2, 5, 6 ","2013 (1, 2, 5, 6)"
+CIDACID,Cidaris cidaris,"(Linnaeus, 1758)",RT,"p. 555 Tav. 221, 303",,Eec,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19","2011 (9, 10, 18, 19)"
+CIONEDW,Ciona edwardsi,"Roule, 1884 ",,,,Etu,,5,2013 (5)
+CIONINT,Ciona intestinalis,"(Linnaeus, 1767)",F,CION Cion 1,,Etu,0,"2, 5, 6, 9, 16, 18",2011 (18)
+CIONSPP,Ciona spp.,"Fleming, 1822 ",,,,Etu,,5,2013 (5)
+CIRCCAS,Venus casina,"Linnaeus, 1758",F,VEN,d19,Dmb,0,"1, 5, 6, 19",
+CIROBOR,Natatolana borealis,"(Lilljeborg, 1851)",R,p. 484 Tav. 193,b3,Bis,0,"1, 2, 5, 6, 19",
+CITHMAC,Citharus linguatula,"(Linnaeus, 1758)",C,194.1.1,a17,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CLADSPP,Cladophora spp.,"K?tzing, 1843",R,21,,V,,20,2015 (20)
+CLATCOR,Clathria coralloides,"(Scopoli, 1772)",R,116 Tav. IV 118,,Esp,0,"1, 2, 5, 6, 16","2013 (1, 2, 5, 6)"
+CLAUFAS,Clausinella fasciata,"(Da Costa, 1778)",,,,Emb,,"7, 8","2013 (1, 2, 5, 6, 7, 8)"
+CLIBERY,Clibanarius erythropus,"(Latreille, 1818)",Z,239,,B,,20,2015 (20)
+CLIOCEL,Cliona celata,"Grant, 1826",R,112,,Esp,m,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CLIOVIR,Cliona viridis,"(Schmidt, 1862)",R,112,,Esp,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CLOPBIC,Chlopsis bicolor,"Rafinesque, 1810",C,77.1.1,,Ao,0,"1, 5, 6, 7, 9, 18, 19",
+CLORAGA,Chlorophthalmus agassizi,"Bonaparte, 1840",C,55.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CNIDRIA,Cnidaria,"Hatschek, 1888",R,123,,Ecn,,"1, 5, 6","2014 (1, 5, 6)"
+COBLGAL,Coryphoblennius galerita,"(Linnaeus, 1758)",C,164.2.1,,Ao,0,7,
+CODIADH,Codium adhaerens,"C. Agardh, 1822",R,26 Tav 9,,V,,19,2014 (19)
+CODIBUR,Codium bursa,"C. Agardh, 1817 ",R,p. 26 Tav. 9,,V,,"1, 5, 6, 7, 8, 9, 11, 18, 19","2011 (9, 18)"
+CODISPP,Codium spp.,"Stackhouse, 1797",R,26,,V,,"7, 8","2013 (7, 8)"
+CODIVER,Codium vermilara,"Delle Chiaje, 1829",R,p. 26 Tav. 9,,V,,"1, 5, 6, 9, 11, 18",2011 (18)
+COELCOE,Coelorinchus caelorhincus,"(Risso, 1810)",C,99.12.1,a18,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+COELMED,Coelorinchus mediterraneus,"Iwamoto & Ungaro, 2002",,FishBase,,Ao,0,11,2014 (11)
+COELOCC,Coelorinchus occa,"(Goode & Bean, 1885)",C,99.12.2,,Ao,0,"1, 2, 6, 15",
+COLPSIN,Colpomenia sinuosa,"Derb?s & Solier, 1851 ",R,39 Tav 13,,V,,"1, 6","2013 (1, 6)"
+COLUGRA,Colus gracilis,"(Da Costa, 1778) ",,,?,Emg,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+COLUJEF,Colus jeffreysianus,"(P. Fischer, 1868) ",,,?,Emg,,"1, 2","2013 (1, 2)"
+COLUSPP,Colus spp.,"R?ding, 1798 ",,,?,Emg,,5,2013 (5)
+CONGCON,Conger conger,"(Linnaeus, 1758)",C,82.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+CORAMEY,Coralliophila meyendorffii,"(Calcara, 1845)",R,263 Tav 101,,Emg,,16,2013 (16)
+CORASPP,Coralliophila,"H. Adams & A. Adams, 1853",R,261,,Emg,0,16,2016
+CORASQU,Hirtomurex squamosus,"(Bivona, 1838) ",,,e8,Emg,,"5, 16",2013 (5)
+CORIJUL,Coris julis,"(Linnaeus, 1758)",C,145.4.1,,Ao,0,"1, 2, 5, 6, 8, 9, 11, 15, 16, 20, 22, 25",
+CORLEAE,Corallinaceae,"Lamouroux, 1812",R,57 Tav 19,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CORSCAS,Corystes cassivelaunus,"(Pennant, 1777)",Z,340,,B,m,9,2011 (9)
+COSCTEN,Coscinasterias tenuispina,"(Lamarck, 1816) ",,186,,Eec,0,5,2013 (5)
+CRAICRA,Craniella cranium,"(M?ller, 1776)",,,,Esp,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CRANSPP,Crangon,"Fabricius, 1798",F,CRANG,,B,m,"9, 11, 22, 25",
+CRASGIG,Crassostrea gigas,"(Thunberg, 1793)",F,OSTR Crass 1,AL,Dmb,0,"5, 6",
+CRASSPP,Crassostrea,"Sacco, 1897",F,OSTR,,Dmb,0,"1, 6",
+CREPGIB,Crepidula moulinsii,"Michaud, 1829",F,551,e9,Emg,,16,2013 (16)
+CREPUNG,Crepidula unguiformis,"Lamarck, 1822",F,551,,Emg,,16,2013 (16)
+CRISDEN,Crisia denticulata,"(Lamarck, 1816) ",,,,Ebr,m,8,
+CRYPTUN,Cryptonemia tunaeformis,Zanardini ,,,,V,,5,2013 (5)
+CTENORA,Ctenophora,"Eschscholtz, 1829",R,175,,Ect,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CTEORUP ,Ctenolabrus rupestris ,"(Linnaeus, 1758)",C,145.5.2,,Ao,0,17,2014 (17)
+CUBIGRA,Cubiceps gracilis,"(Lowe, 1843)",C,177.2.1,,Ao,0,"10, 15, 16, 19, 22",
+CUSPCUS,Cuspidaria cuspidata,"(Olivi, 1792)",R,p. 348 Tav. 133,,Emb,0,"1, 6",
+CUSPROS,Cuspidaria rostrata,"(Spengler, 1793)",,,,Emb,,16,2013 (16)
+CUSPSPP,Cuspidaria spp.,"Nardo, 1840",,,,Emb,,1,2013 (1)
+CUTLCHI,Cutleria chilosa,"Silva, 1957",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CUTLSPP,Cutleria spp.,"Greville, 1830",R,33,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+CYCLBRA,Cyclothone braueri,"Jespersen & T?ning, 1926",C,37.4.3,,Ao,m,"1, 5, 6, 9",2011 (9)
+CYCLPIG,Cyclothone pygmaea,"Jespersen & T?ning, 1926",C,37.4.8,,Ao,m,"1, 6, 9",
+CYCLSPP,Cyclothone spp.,"Goode & Bean, 1883",C,37.4,,Ao,m,"6, 22",
+CYLICYL,Cylichna cylindracea,"(Pennant, 1777)",R,p. 275 Tav. 106,,Emo,0,18,2011 (18)
+CYMACOR,Monoplex corrugatus,"(Lamarck, 1816)",F,CYM Cym 1,d20,Dmg,0,"1, 6, 16",
+CYMASPP,Monoplex spp.,"Perry, 1810",F,565,,Dmg,,"7, 8",2017
+CYMBOLL,Cymbium olla,"(Linnaeus, 1758)",,,?,Dmg,0,1,
+CYMONOD,Cymodocea nodosa,"Ascherson, 1870",F,131,,V,,"18, 19",2013 (18)
+CYMUPER,Cymbulia peronii,"Blainville, 1818",R,p. 279 Tav. 107,,Emo,0,"1, 5, 6, 9, 11, 18",2011 (9)
+CYSSCOM,Cystoseira compressa,"Gerloff & Nizamuddin, 1975",R,92,,V,0,18,2011 (18)
+CYSSMED,Cystoseira mediterranea,"Sauvageau, 1912",R,44 Tav 15,,V,1,25,2018
+CYSSSPI,Cystoseira spinosa,"Sauvageau, 1912",R,94,,V,0,5,2013 (5)
+CYSSSPP,Cystoseira spp.,"C. Agardh, 1820 ",R,93,,V,0,5,2013 (5)
+CYSSZOS,Cystoseira zosteroides,"C. Agardh, 1820 ",R,95,,V,0,5,2013 (5)
+CYSTDEL,Cystodytes dellechiajei,"(Della Valle, 1877)",,,,Etu,0,"1, 5, 18",2011 (18)
+DALOIMB,Dalophis imberbis,"(Delaroche, 1809)",C,86.3.1,,Ao,0,"7, 8, 9, 10, 11, 15, 16, 17, 18, 19",
+DARDARR,Dardanus arrosor,"(Herbst, 1796)",Z,241,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19",
+DARDCAL,Dardanus calidus,"(Risso, 1827)",Z,242,,B,m,"5, 6, 9, 16",
+DARDSPP,Dardanus spp.,"Paulson, 1875",Z,240,,B,m,9,2011 (9)
+DASICEN,Dasyatis centroura,"(Mitchill, 1815)",C,22.1.2,,Ae,0,"5, 15, 17, 19, 22, 23, 25",
+DASIPAS,Dasyatis pastinaca,"(Linnaeus, 1758)",C,22.1.1,,Ae,0,"5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 19, 20, 22, 23, 25",
+DASISPP,Dasyatis spp.,"Rafinesque, 1810",C,22.1,,Ae,0,16,2014 (16)
+DASITOR,Dasyatis tortonesei,"Capap?, 1975",C,22.1.4,,Ae,0,"7, 8, 15, 22, 25",
+DASIVIO,Pteroplatytrygon violacea,"(Bonaparte, 1832)",C,22.1.3,a19,Ae,0,"1, 6, 7, 9, 10, 16, 17",
+DASYSPP,Dasya spp.,"C. Agardh, 1824 ",C,22.1,,V,0,5,2014 (5)
+DECAODA,Decapoda,"Latreille, 1803",Z,2.21,,B,,"1, 9",2013 (1)
+DELEEAE,Delesseriaceae,"Bory, 1828",R,65,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+DENDGRA,Dendrodoris grandiflora,"(Rapp, 1827)",R,"288, 306",,Emo,,16,2013 (16)
+DENDLIM,Dendrodoris limbata,"(Cuvier, 1804)",R,306,,Emo,,5,2013 (5)
+DENDSPP,Dendrodoris spp.,"Ehrenberg, 1831",R,p. 306,,Emo,0,18,2011 (18)
+DENOGRO,Dendrodoa grossularia,"(Van Beneden, 1846)",,,?,Etu,,5,2013 (5)
+DENRCOR,Dendrophyllia cornigera,"(Lamarck, 1816)",R,169 Tav 61,,Ecn,,"1, 6, 16","2013 (1, 6)"
+DENRRAM,Dendrophyllia ramea,"(Linnaeus, 1758)",R,169 Tav 61,,Ecn,,16,2013 (16)
+DENTDEN,Dentex dentex,"(Linnaeus, 1758)",C,139.3.1,,Ao,0,"1, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+DENTGIB,Dentex gibbosus,"(Rafinesque, 1810)",C,139.3.3,,Ao,0,"15, 16, 17, 18, 19, 20, 22",
+DENTMAC,Dentex macrophthalmus,"(Bloch, 1791)",C,139.3.4,,Ao,0,"10, 15, 16, 17, 18, 20, 22, 25",
+DENTMAR,Dentex maroccanus,"Valenciennes, 1830",C,139.3.5,,Ao,0,"1, 6, 18, 20, 22, 23, 25",
+DENTSPP,Dentaliidae,"Children, 1834",R,p. 310,,Esc,0,"1, 6",
+DEOSARA,Sergestes arachnipodus,"(Cocco, 1832)",,WoRMS,b4,B,m,"19, 20, 22",2011 (19)
+DERBTEN,Derbesia tenuissima,"P.L. Crouan & H.M. Crouan, 1867",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+DESCANN,Desmacella annexa,"Schmidt, 1870",,,,Esp,,18,2013 (18)
+DESMCRI,Desmophyllum dianthus,"(Esper, 1794)",,,e10,Ecn,,"15, 16, 19",2013 (16)
+DIAHMIN,Diaphana minuta,"Brown, 1827",R,272 Tav 106,,Emo,,16,2013 (16)
+DIAPHOL,Diaphus holti,"T?ning, 1918",C,58.6.5,,Ao,0,"1, 5, 6, 7, 8, 9, 16, 19, 20, 22, 25",
+DIAPMET,Diaphus metopoclampus,"(Cocco, 1829)",C,58.6.7,,Ao,0,"9, 10, 11, 15, 16, 19, 20, 22, 25",
+DIAPRAF,Diaphus rafinesquii,"(Cocco, 1838)",C,58.6.9,,Ao,0,"5, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+DIAPSPP,Diaphus spp.,"Eigenmann, 1890",C,58.6,,Ao,0,"1, 6, 8, 9, 11, 15, 16, 20, 22",
+DIAZVIO,Diazona violacea,"Savigny, 1816",R,p. 590 Tav. 235,,Etu,0,"1, 2, 5, 6, 10, 16, 18","2011 (10, 18)"
+DICAMAY,Dicranodromia mahieuxii,"A. Milne-Edwards, 1883",Z,297,b5 ? ?,B,m,1,
+DICELAB,Dicentrarchus labrax,"(Linnaeus, 1758)",C,124.4.1,,Ao,0,"6, 7, 8, 9, 10, 16, 17, 19",
+DICOCUN,Dicologlossa cuneata,"(Moreau, 1881)",C,198.4.2,,Ao,0,"1, 15, 19?",
+DICOHEX,Dicologlossa hexophthalma,"(Bennett, 1831)",C,198.4.2,,Ao,0,6,2013 (6)
+DICSLES,Dictyotales,"Bory, 1828",R,44,,V,,5,2014 (5)
+DICTDIC,Dictyota dichotoma,"Lamouroux, 1809",R,44 Tav 12,,V,,"5, 6","2013 (5, 6)"
+DICYPOL,Dictyopteris polypodioides,"Lamouroux, 1809 ",R,44 Tav 12,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+DIDELAH,Didemnum lahillei,"Hartmeyer, 1909",,,,Etu,,18,2013 (18)
+DIDEMAC,Didemnum maculosum,"(Milne-Edwards, 1841)",R,p. 588 Tav. 234,,Etu,0,18,2011 (18)
+DIDESPP,Didemnum spp.,"Savigny, 1816",R,p. 588,,Etu,0,18,2011 (18)
+DIDMEAE,Didemnidae,"Giard, 1872",R,588,,Etu,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+DIODGIB,Diodora gibberula,"(Lamarck, 1822)",R,233 Tav 87,,Emg,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+DIODGRA,Diodora graeca,"(Linnaeus, 1758) ",R,233 Tav 87,,Emg,,5,2013 (5)
+DIODITA,Diodora italica,"(Defrance, 1820)",R,233 Tav. 87,,Emg,0,"5, 6, 18",
+DIODSPP,Diodora spp.,"Gray, 1821",R,233,,Emg,,"5, 6","2013 (5, 6)"
+DIOPNEA,Diopatra neapolitana,"Delle Chiaje, 1841",,,,Epo,,7,2013 (7)
+DIPGBIM,Diplecogaster bimaculata bimaculata,"(Bonnaterre, 1788)",C,208.2.1,,Ao,0,"1, 2, 5, 6, 9, 16, 17, 22",
+DIPLANN,Diplodus annularis,"(Linnaeus, 1758)",C,139.4.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22, 23, 25",
+DIPLCER,Diplodus cervinus cervinus,"(Lowe, 1838)",C,139.4.2.,,Ao,0,"1, 6",
+DIPLPUN,Diplodus puntazzo,"(Walbaum, 1792)",C,139.8.1,a20,Ao,0,"1, 6, 8, 9, 11, 16, 17, 22, 23",
+DIPLSAR,Diplodus sargus sargus,"(Linnaeus, 1758)",C,139.4.3,,Ao,0,"6, 7, 8, 9, 11, 16, 17, 19, 22, 23",
+DIPLSPP ,Diplodus spp.,"Rafinesque, 1810",C,139.4,,Ao,0,17,2014 (17)
+DIPLVUL,Diplodus vulgaris,"(Geoffroy Saint-Hilaire, 1817)",C,139.4.4,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+DIPOLIS,Diplosoma listerianum,"(Milne-Edwards, 1841) ",R,589 Tav 234,,Etu,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+DISCLOB,Discomedusa lobata,"Claus, 1877",,,,Ecn,m,7,
+DISMVAR,Distomus variolosus,"Gaertner, 1774",R,p. 594 Tav. 238,,Etu,0,"16, 18",2011 (18)
+DISOMAL,Distolambrus maltzami,"(Miers, 1881) ",Z,442,,B,,"5, 6, 16",2013 (5)
+DISTMAG,Distaplia magnilarva,"(Della Valle, 1881)",,,,Etu,0,18,2011 (18)
+DONASPP,Donax spp.,"Linnaeus, 1758 ",F,412 Donac,,Dmb,,7,2015 (7)
+DORHTHO,Dorhynchus thomsoni,"Wyville Thomson, 1873",Z,467,b6,B,m,"1, 2, 5, 6",
+DORILAN,Medorippe lanata,"(Linnaeus, 1767)",Z,312,b7,B,m,"1, 2, 6, 7, 9, 10, 15, 16, 18, 19, 20, 22, 25",
+DORITHO,NO            Dorhynchus thomsoni,"Wyville Thomson, 1873",Z,467,b6,B,m,"1, 2, 5, 6",
+DORSPSE,Doris pseudoargus,"Rapp, 1827",R,304,,Emo,0,"1, 5, 18",2011 (18)
+DORSSPP,Doris spp.,"Linnaeus, 1758",R,304,,Emo,,"1, 5, 6, 10, 18","2013 (1, 5, 6)"
+DORSSTI,Doris sticta,"(Iredale & O'Donoghue, 1923)",,,,Emo,0,18,2011 (18)
+DORSVER,Doris verrucosa,"Linnaeus, 1758",R,p. 304 Tav. 116,,Emo,0,"1, 6",
+DOSISPP,Dosinia spp.,"Scopoli, 1777",F,VEN Dos,,Dmb,0,6,
+DROMPER,Dromia personata,"(Linnaeus, 1758)",F,DROM Drom 1,,B,m,"1, 2, 5, 6, 15, 16, 17, 18, 20, 22, 25",
+DUSSELO,Dussumieria elopsoides,"Bleeker, 1849",G,48,? AL,Ao,0,25,
+DYSIAVA,Dysidea avara,"(Schmidt, 1862)",R,120 Tav 41,,Esp,0,25,2018
+EBALCRA,Ebalia cranchii,"Leach, 1817",Z,329,,B,m,"1, 5, 6",
+EBALDES,Ebalia deshayesi,"Lucas, 1846",Z,333,,B,,16,2013 (16)
+EBALGRA,Ebalia granulosa,"H. Milne Edwards, 1837",Z,331,,B,m,20,2014 (20)
+EBALNUX,Ebalia nux,"A. Milne-Edwards, 1883",Z,328,,B,m,"1, 6, 19",
+EBALSPP,Ebalia spp.,"Leach, 1817 ",Z,322,,B,,"1, 5, 6","2013 (1, 5, 6)"
+EBALTUB,Ebalia tuberosa,"(Pennant, 1777)",Z,326,,B,,"5, 6","2013 (5, 6)"
+ECHASEP,Echinaster sepositus,"(Retzius, 1783)",RT,"p. 567 Tav. 224, 181",,Eec,0,"1, 2, 5, 6, 7, 8, 9, 11, 16, 18, 19","2011 (9, 18, 19)"
+ECHCCOR,Echinocardium cordatum,"(Pennant, 1777)",RT,"p. 560 Tav. 222, 360",,Eec,0,9,2011 (9)
+ECHCMED,Echinocardium mediterraneum,"(Forbes, 1844)",T,365,,Eec,0,18,2011 (18)
+ECHDDAE,Echinidae,"Gray, 1825",T,327,,Eec,0,"1, 2, 5, 6, 19","2013 (1, 2, 5, 6) "
+ECHEMIR,Echelus myrus,"(Linnaeus, 1758)",C,84.1.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ECHIDEN,Echiodon dentatus,"(Cuvier, 1829)",C,175.2.2,,Ao,0,"1, 5, 6, 9, 15, 17, 18, 19, 25",
+ECHNACU,Gracilechinus acutus,"Lamarck, 1816",RT,"p. 558 Tav. 221, 328s",e11,Eec,0,"1, 2, 5, 6, 9, 10, 16, 17, 18, 19","2011 (9, 18)"
+ECHNMEL,Echinus melo,"Lamarck, 1816",RT,"p. 558 Tav. 221, 332",,Eec,0,"1, 2, 5, 6, 9, 10, 11, 18, 19","2011 (9, 10, 18, 19)"
+ECHRURA,Echiura,"Newby, 1940",R,212,,Ech,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ECHTVIP,Echiichthys vipera,"(Cuvier, 1829) ",C,148.1.4,,Ao,0,6,2013 (6)
+ELECRIS,Electrona risso,"(Cocco, 1829)",C,58.8.1,,Ao,0,"1, 2, 6, 9, 10, 16, 18, 19, 22, 25",
+ELEDCIR,Eledone cirrhosa,"(Lamarck, 1798)",FP,"OCT Eled 1, 245",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ELEDMOS,Eledone moschata,"(Lamarck, 1798)",FP,"OCT Eled 2, 247",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ELEDSPP,Eledone spp.,"Leach, 1817",FP,"OCT Eled, 245",,C,0,"7, 8",
+ELYSVIR,Elysia viridis,"(Montagu, 1804)",R,285 Tav 110,,Emo,,16,2013 (16)
+ENGRENC,Engraulis encrasicolus,"(Linnaeus, 1758)",C,35.1.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+EPIAMAC,Epigamia macrophtalma,"(Marenzeller, 1874)",,,,Epo,,2,2013 (2)
+EPIGCON,Epigonus constanciae,"(Giglioli, 1880)",C,127.2.3,,Ao,0,"1, 5, 6, 7, 8, 9, 15, 16, 19, 20, 22, 25",
+EPIGDEN,Epigonus denticulatus,"Dieuzeide, 1950",C,127.2.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+EPIGSPP,Epigonus spp.,"Rafinesque, 1810",C,127.2,,Ao,0,"7, 8, 9, 22, 23",2011 (9)
+EPIGTEL,Epigonus telescopus,"(Risso, 1810)",C,127.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+EPINAEN,Epinephelus aeneus,"(Geoffroy Saint-Hilaire, 1817)",C,124.5.1,,Ao,0,"10, 15, 16, 18, 19, 20, 22, 23, 25",
+EPINALE,Epinephelus costae,"(Steindachner, 1878)",C,124.5.2,a21,Ao,0,"16, 20",
+EPINGUA,Epinephelus marginatus,"(Lowe, 1834)",C,124.5.4,a22,Ao,0,"8, 15, 16, 20",
+EPITCLA,Epitonium clathratulum,"(Kanmacher, 1798)",,,,Emg,,10,2014 (10)
+EPITCLU,Epitonium clathrus,"(Linnaeus, 1758)",R,257 Tav 99,?,Emg,,7,2015 (7)
+EPITTUR,Epitonium turtonis,"(Turton, 1819)",,,,Emg,m,7,
+EPIZARE,Epizoanthus arenaceus,"Delle Chiaje, 1823",R,p. 161 Tav. 58,,Ecn,0,18,2011 (18)
+EPIZPAG,Epizoanthus paguricola,"Roule, 1900",,,?,Ecn,,6,2013 (6)
+EPIZSPP,Epizoanthus spp.,"Gray, 1867",R,p. 160 Tav. 58,,Ecn,0,"1, 6, 19",2011 (19)
+ERETKLE,Eretmophorus kleinenbergi,"Giglioli, 1889",C,103.1.1,,Ao,0,6,
+ERGACLO,Ergasticus clouei,"A. Milne-Edwards, 1882",Z,463,,B,m,"1, 2, 6, 20, 22",
+ERIPVER,Eriphia verrucosa,"(Forssk?l, 1775)",Z,393,,B,,"15, 16, 19, 22, 25",2013 (16)
+EROSSPU,Erosaria spurca,"(Linnaeus, 1758) ",,,,Emg,,22,2015 (22)
+ERUGMAS,Erugosquilla massavensis,"(Kossmann, 1880)",,,,B,,25,2014 (25)
+ERYLPAP,Erylus papulifer,"Pulitzer-Finali, 1983",,,,Esp,,19,2014 (19)
+ETEOSIP,Eteone siphodonta,"(Delle Chiaje, 1830)",R,369 Tav 141,,Epo,,10,2014 (10)
+ETHUMAS,Ethusa mascarone,"(Herbst, 1785)",Z,309,,B,m,"1, 5, 6, 9, 16, 17, 19, 20, 22",
+ETMOSPI,Etmopterus spinax,"(Linnaeus, 1758)",C,16.6.1,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ETRUGOL,Etrumeus golanii,Di Battista Randall & Bowen  2012,G,p 50,? AL,Ao,0,25,2018
+EUCHLIG,Euchirograpsus liguricus,"H. Milne-Edwards, 1853",Z,429,,B,m,1,
+EUDERAC,Eudendrium racemosum,"(Cavolini, 1785)",R,129 Tav 44,,Ecn,0,16,2016
+EUDESPP,Eudendrium spp.,"Ehrenberg, 1834 ",R,128,,Ecn,m,16,2013 (16)
+EUDIBAN,Eudistoma banyulense,"(Br?ment, 1912) ",,,?,Etu,,5,2013 (5)
+EUDIMUC,Eudistoma mucosum,"(Drasche, 1883) ",,,,Etu,,5,2013 (5)
+EUDISPP,Eudistoma spp.,"Caullery, 1909 ",,,,Etu,,5,2013 (5)
+EUDITRI,Eudistoma tridentatum,"(Heiden, 1894) ",,,?,Etu,,5,2013 (5)
+EUNCTOR,Leodice torquata,"(Quatrefages, 1866)",,,e12,Epo,,5,2013 (5)
+EUNDDAE,Eunicida,,R,371,,Epo,m,"7, 8",
+EUNICAV,Eunicella cavolini,"(Koch, 1887)",R,173 Tav 63,,Ecn,0,16,2013 (16)
+EUNIFIL,Eunicella filiformis,"(Studer, 1879) ",,,?,Ecn,0,"1, 2","2014 (1, 2)"
+EUNISIN,Eunicella singularis,"(Esper, 1791)",R,173 Tav 63,,Ecn,0,5,2014 (5)
+EUNISPP,Eunicella spp.,"Verrill, 1869",,,,Ecn,0,"1, 5, 6","2013 (1, 5, 6)"
+EUNIVER,Eunicella verrucosa,"(Pallas, 1766)",,,,Ecn,0,"1, 6, 9, 16",2011 (9)
+EUPADAE,Euphausiidae,"Dana, 1852",R,p. 428,b8,Beu,m,"1, 6, 11, 17, 20",
+EUPHKRO,Euphausia krohni,"(Brandt, 1851)",R,p. 429 Tav. 170,,Beu,m,19,2011 (19)
+EUPHSPP,NO                     Euphausiidae,"Dana, 1852",R,p. 428,b8,Beu,m,"1, 6, 11, 17, 20",
+EUPOPLA,Eupogodon planus,"K?tzing, 1845 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+EUPRFOL,Euphrosine foliosa,"Audouin & Milne-Edwards, 1833 ",R,367 Tav 141,,Epo,m,6,2013 (6)
+EUPUCEA,Euphausiacea," Dana, 1852",R,428,,Beu,m,"1, 5, 6","2013 (1, 5, 6)"
+EURYASP,Eurynome aspera,"(Pennant, 1777)",Z,462,,B,m,"1, 2, 5, 6, 16, 20, 22",
+EURYSPP,Eurynome spp.,"Leach, 1814 ",Z,461,,Ben,,6,2013 (6)
+EUSPFUS,Euspira fusca,"(de Blainville, 1825)",F,605,e18,Emg,m,7,
+EUSPGRO,Euspira grossularia,"(Marche-Marchad, 1957)",,,,Emg,,1,2013 (1)
+EUSPMAC,Euspira macilenta,"(Philippi, 1844)",,,,Emg,,19,2014 (19)
+EUSPNIT,Euspira nitida,"(Donovan, 1804)",,,,Dmg,,20,2015 (20)
+EUSPSPP,Euspira spp.,"Agassiz, 1837",F,605,e20,Emg,,5,2013 (5)
+EUTRGUR,Eutrigla gurnardus,"(Linnaeus, 1758)",C,185.3.1,,Ao,0,"5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+EVERBAL,Evermannella balbo,"(Risso, 1820)",C,60.1.1,,Ao,0,"1, 5, 6, 9, 11, 16, 19, 22",
+FACCOXY,Facciolella oxyrhyncha,"(Bellotti, 1883) ",C,80.2.1,,Ao,0,"5, 15, 16, 25",2013 (5)
+FILISPP,Filicrisia spp.,"d'Orbigny, 1853",,,,Ebr,,18,2014 (18)
+FILOIMP,Filograna implexa,"Berkeley, 1835",,,,Epo,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+FISSDAE,Fissurellidae,"Fleming, 1822",R,233,,Emg,,"5, 6","2013 (5, 6)"
+FISTCOM,Fistularia commersonii,"R?ppell, 1838",G,80,AL,Ao,0,25,2014 (25)
+FLABPET,Flabellia petiolata ,"Nizamuddin, 1987",,,,V,,5,2013 (5)
+FLEXFLE,Flexopecten flexuosus,"(Poli, 1795)",F,PECT Flex,,Dmb,0," 5, 6, 15",
+FLEXGLA,Flexopecten glaber glaber,"(Linnaeus, 1758)",F,PECT Flex 1,,Dmb,0,19,2011 (19)
+FLEXPRO,Flexopecten glaber proteus,"(Dillwyn, 1817)",,,,Emb,,16,2013 (16)
+FLEXSPP,Flexopecten spp.,"Sacco, 1897",F,PECT,,Dmb,0,16,2017
+FRONVER,Frondipora verrucosa,"(Lamouroux, 1821)",R,p. 531 Tav. 210,,Ebr,0,"16, 18",2011 (18)
+FUNCWOO,Funchalia woodwardi,"Johnson, 1868",F,PEN,,B,m,"5, 6, 9, 10",
+FUNIQUA,Funiculina quadrangularis,"(Pallas, 1766)",R,p. 174 Tav. 64,,Ecn,0,"1, 2, 5, 6, 7, 8, 9, 10, 15, 16, 18","2011 (9, 10, 18)"
+FUSIROS,Fusinus rostratus,"(Olivi, 1792)",F,FASC Fus 1,e13,Emg,0,"1, 6, 9, 16, 17, 18, 19",
+FUSISPP,Fusinus spp.,"Rafinesque, 1815 ",,,,Emg,,"5, 16",2013 (16)
+FUSISYR,Fusinus syracusanus,"(Linnaeus, 1758)",R,p. 264 Tav. 102,,Emg,0,"10, 18","2011 (10, 18)"
+FUSTUND,Fusiturris undatiruga,"(Bivona, 1838)",,,,Emg,0,"1, 6",
+GADAMAR,Gadella maraldi,"(Risso, 1810)",C,103.3.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+GADIARG,Gadiculus argenteus,"Guichenot, 1850",C,101.5.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+GADUMER,Merlangius merlangus,"(Linnaeus, 1758)",C,101.7.1,a23,Ao,0,"17, 18, 20, 22",
+GAIDMED,Gaidropsarus mediterraneus,"(Linnaeus, 1758)",C,101.20.1,,Ao,0,"7, 8, 9, 10, 11, 15, 16, 17, 20, 22, 23, 25",
+GAIDSPP,Gaidropsarus spp.,"Rafinesque, 1810",C,101.19,a2,Ao,0,"1, 6, 7, 8, 15, 16, 17, 18, 20, 22, 23","2013 (7, 8)"
+GAIDVUL,Gaidropsarus vulgaris,"(Cloquet, 1824)",C,101.20.4,,Ao,0,"7, 8, 11, 16, 22",
+GALADIS,Galathea dispersa,"Bate, 1859",Z,278,,B,m,"1, 2, 6, 8, 11, 16, 22",
+GALAINT,Galathea intermedia,"Liljeborg, 1851",Z,279,,B,m,"1, 2, 6, 9, 11, 16, 19",
+GALANEX,Galathea nexa,"Embleton, 1834",Z,277,,B,m,"1, 6",
+GALASPP,Galathea spp.,"Fabricius, 1793",Z,271,,B,,"1, 5, 6, 16","2013 (1, 5, 6)"
+GALASTR,Galathea strigosa,"(Linnaeus, 1761)",Z,274,,B,,"5, 16, 25",2013 (16)
+GALEGAL,Galeorhinus galeus,"(Linnaeus, 1758)",C,13.3.1,,Ae,0,"1, 8, 10, 16, 20, 22, 23",
+GALTARM,Galiteuthis armata,"Joubin, 1898",P,211,,C,0,19,2014 (19)
+GALUATL,Galeus atlanticus,"(Vaillant, 1888)",F,SCYL Gal 11,?,Ae,0,"1, 2, 15",
+GALUMEL,Galeus melastomus,"Rafinesque, 1810",C,11.3.1,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+GASREGG,Eggs capsules of Gastropoda,,,,,G,,"20, 22","2015 (20, 22)"
+GASRODA,Gastropoda,"Cuvier, 1795",R,227,,Emg,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+GASTRUB,Gastropteron rubrum," (Rafinesque, 1814)",R,276 Tav 106,,Emo,,"1, 2, 5, 6, 16","2013 (1, 2, 5, 6, 16)"
+GELISPP,Gelidium spp.,"Lamouroux, 1813",R,52,,V,,"1, 6","2013 (1, 6)"
+GENNELE,Gennadas elegans,"(Smith, 1882)",F,ARIST,,B,m,"1, 2, 5, 6, 9, 11, 15, 16, 19, 20, 22",
+GENOMAC,Genocidaris maculata,"Agassiz, 1869",RT,"p. 558 Tav. 221, 321",,Eec,0,"16, 19",2011 (19)
+GEODCYD,Geodia cydonium,"(Jameson, 1811)",R,108 118 Tav. IV,,Esp,0,16,2013 (16)
+GEODSPP,Geodia spp.,"Lamarck, 1815",R,108,,Esp,0,18,2014 (18)
+GERYLON,Geryon longipes,"A. Milne-Edwards, 1882",F,GER Ger 2,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+GERYTRI,Geryon trispinosus,"(Herbst, 1803)",,WoRMS,?,B,,7,2015 (7)
+GIBBMAG,Gibbula magus,"(Linnaeus, 1758)",F,622,,Emg,,16,2013 (16)
+GIBBSPP,Gibbula spp.,"Risso, 1826",R,p. 234,,Dmg,0,"5, 6, 9, 16",
+GLANTAL,Glandiceps talaboti,"Marion, 1876",R,577 Tav 229,,Een,0,7,
+GLOIFUR,Gloiocladia furcata,"J. Agardh, 1842",,,,V,,5,2013 (5)
+GLOIMIC,Gloiocladia microspora,"S?nchez & Rodr?guez-Prieto et al., 2009",,,?,V,,5,2013 (5)
+GLOIREP,Gloiocladia repens,"S?nchez & Rodr?guez-Prieto, 2007 ",,,,V,,5,2013 (5)
+GLOSLEI,Glossanodon leioglossus,"(Valenciennes, 1848)",C,46.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19",
+GLOSVAL,Felimare picta,"(Philippi, 1936)",R,p. 304 Tav. 116,e14,Emo,0,1,
+GLOUHUM,Glossus humanus,"(Linnaeus, 1758)",F,GLOSS Gloss 1,,Emb,0,"6, 7, 9, 16, 17, 18",
+GLYCDAE,Glyceridae,"Grube, 1850",R,369,,Epo,,"7, 8",2017
+GLYCGLY,Glycymeris glycymeris,"(Linnaeus, 1758)",F,422,,Emb,,"5, 16",2013 (5)
+GLYCSPP,Glycimeris spp.,"Da Costa, 1778",F,418 GLY,,Dmb,,16,2013 (16)
+GNATMYS,Gnathophis mystax,"(Delaroche, 1809)",C,82.3.1,,Ao,0,"1, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+GOBICOB,Gobius cobitis,"Pallas, 1814",C,162.1.5,,Ao,0,16,2014 (16)
+GOBICOL,Deltentosteus collonianus,"(Risso, 1820)",C,162.10.2,a24,Ao,0,"5, 9, 11, 15, 22, 25",
+GOBICRU,Gobius cruentatus,"Gmelin, 1789",C,162.1.6,,Ao,0,"11, 16, 25","2014 (11, 25)"
+GOBIFAL,Gobius fallax,"Sarato, 1889",C,162.1.7,,Ao,0,"1, 6","2013 (1, 6)"
+GOBIFRI,Lesueurigobius friesii,"(Malm, 1874)",C,162.16.2,a25,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 15, 17, 16, 18, 19, 20, 22, 23, 25",
+GOBIGEN,Gobius geniporus,"Valenciennes, 1837",C,162.1.8,,Ao,0,"1, 5, 6, 9, 16, 19",
+GOBILIN,Crystallogobius linearis,"(D?ben, 1845)",C,162.9.1,a26,Ao,0,"1, 5, 6, 9",
+GOBINIG,Gobius niger,"Linnaeus, 1758",C,162.1.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22, 23, 25",
+GOBIPAG,Gobius paganellus,"Linnaeus, 1758",C,162.1.9,,Ao,0,"20, 22","2014 (20, 22)"
+GOBIQUA,Deltentosteus quadrimaculatus,"(Valenciennes, 1837)",C,162.10.1,a27,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+GOBISAN,Lesueurigobius sanzi,"(De Buen, 1918)",C,162.16.4,a28 ?,Ao,0,"1, 5, 6, 7, 15, 16",
+GOBISPP,Gobius spp.,"Linnaeus, 1758",C,162,,Ao,0,"1, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+GOBISUE,Lesueurigobius suerii,"(Risso, 1810)",C,162.16.1,a29,Ao,0,"1, 6, 7, 9, 10, 15, 16, 17, 18, 19, 22, 25",
+GOBIVIT ,Gobius vittatus ,"Vinciguerra, 1883",C,162.1.12,,Ao,0,17,2014 (17)
+GOLFDAE,Golfingiidae,"Stephen & Edmonds, 1972",,,,Esi,,"7, 8",2017
+GOLFVUL,Golfingia vulgaris vulgaris,"(Blainville, 1827)",R,216 Tav 82,,Esi,,7,2015 (7)
+GONERHO,Goneplax rhomboides,"(Linnaeus, 1758)",Z,414,,B,m,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+GONICOC,Gonichthys cocco,"(Cocco, 1829)",C,58.9.1,,Ao,0,"1, 10, 16, 19, 22",
+GONODEN,Gonostoma denudatum,"Rafinesque, 1810",C,37.1.1,,Ao,0,"6, 8, 9, 10, 16, 19, 22, 25",
+GONOSPP,Gonostoma spp.,"Rafinesque, 1810",C,37.1,,Ao,0,9,2011 (9)
+GORGDAE,Gorgoniidae,"Lamouroux, 1812",R,173,,Ecn,,"1, 2, 6, 15","2013 (1, 2, 6)"
+GOUAWIL,Gouania willdenowi,"(Risso, 1810)",C,208.3.1,,Ao,0,22,2014 (22)
+GRACCOR,Gracilaria corallicola,"Zanardini, 1865 ",,,,V,,5,2013 (5)
+GRACSPP,Gracilaria spp.,"Greville, 1830",,,,V,,5,2013 (5)
+GRALLON,Gracilariopsis longissima,"Steentoft, Irvine & Farnham, 1995",,,,V,,2,2013 (2)
+GRAIELE,Gracilechinus elegans," (D?ben & Koren, 1844)",,,? ?,Eec,0,8,2016
+GRAPDAE,Grapsidae,"MacLeay, 1838",Z,420,,B,0,20,2015 (20)
+GRYPDAE,Gryphaeidae,"Vyalov, 1936",,,,Emb,0,8,2015
+GRYPVIT,Gryphus vitreus,"(Born, 1778)",R,p. 539 Tav. 215,,Eba,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 18, 19","2011 (9, 10, 18, 19)"
+GYMACIC,Gymnammodytes cicerelus,"(Rafinesque, 1810)",C,147.2.1,,Ao,0,"5, 11, 19, 22",
+GYMNALT,Gymnura altavela,"(Linnaeus, 1758)",C,22.2.1,,Ae,0,"19, 22",
+GYMNATA,Gymnolaemata,,,,,Ebr,m,8,2015
+HACEATT,Hacelia attenuata,"Gray, 1840",T,"fig 78, 164",,Eec,0,"2, 5, 6, 15, 16","2013 (2, 5, 6)"
+HADRCRA,Hadriania craticulata,"Bucquoy, Dautzenberg & Dollfus, 1882",F,MUR,d21,Dmg,0,"6, 7",
+HALCDAE,Halichondriidae,,R,114,,Esp,m,7,2018
+HALEHAL,Halecium halecinum,"(Linnaeus, 1758)",R,129 Tav 45,,Ecn,m,16,2013 (16)
+HALESPP,Halecium spp.,"Oken, 1815",R,129,,Ecn,m,16,2013 (16)
+HALIANG,Haliclona angulata,"(Bowerbank, 1866)",,,,Esp,0,18,2013 (18)
+HALIFUL,Haliclona fulva,"(Topsent, 1893)",,,,Esp,0,16,2013 (16)
+HALISIM,Haliclona simulans,"(Johnston, 1842) ",,,,Esp,0,5,2013 (5)
+HALISPP,Haliclona spp.,"Grant, 1836 ",R,119,,Esp,0,"1, 2, 5, 6, 18","2013 (1, 2, 5, 6)"
+HALOPAP,Halocynthia papillosa,"(Linnaeus, 1767)",R,p. 597 Tav. 238,,Etu,0,"5, 6, 9, 10, 16, 18 ","2011 (9, 10, 18)"
+HALPFIL,Halopteris filicina,"K?tzing, 1843 ",R,33 Tav 11,,V,,5,2013 (5)
+HALPSPP,Halopteris spp.,"Allman, 1877",R,33,,Ecn,,18,2013 (18)
+HALSINC,Halopithys incurva,"Batters, 1902 ",,,,V,,5,2013 (5)
+HALTLAM,Haliotis tuberculata lamellosa,"Lamarck, 1822",F,578,?,Dmg,,5,2014 (5)
+HALTTUB,Haliotis tuberculata tuberculata,"Linnaeus, 1758",F,579 Hal,,Dmg,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+HALYFLO,Halymenia floresii,"C. Agardh, 1817 ",,,,V,,18,2014 (18)
+HALYSPP,Halymenia spp.,"C. Agardh, 1817 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+HAMIHYD,Haminoea hydatis,"(Linnaeus, 1758)",,,,Emo,,16,2013 (16)
+HAMINAV,Haminoea navicula,"(Da Costa, 1778)",R,p. 274 Tav. 106,,Emo,0,19,2011 (19)
+HARMEXT,Harmothoe extenuata,"(Grube, 1840)",,,,Epo,,16,2013 (16)
+HARMIMB,Harmothoe imbricata,"(Linnaeus, 1767) ",R,366 Tav 140,,Epo,,19,2014 (19)
+HAVEINE,Havelockia inermis ,"(Heller, 1868)",T,90,,Eec,0,7,2013 (7)
+HEBESCA,Hebella scandens,"(Bale, 1888)",,,,Ecn,,2,2013 (2)
+HEDIDIV,Hediste diversicolor,"(O.F. M?ller, 1776)",R,p. 375 Tav. 144,,Epo,0,"9, 18","2011 (9, 18)"
+HELIDAC,Helicolenus dactylopterus,"(Delaroche, 1809)",C,184.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+HEPTPER,Heptranchias perlo,"(Bonnaterre, 1788)",C,3.2.1,,Ae,0,"1, 2, 9, 11, 15, 16, 18, 19, 20, 22, 25",
+HERMCAR,Hermodice carunculata,"(Pallas, 1776)",R,367 Tav 141,,Epo,0,25,2018
+HESISPL,Hesione splendida,"Savigny, 1818",,,,Epo,,16,2013 (16)
+HETAMIN,Paralepas minuta,"(Philippi, 1836)",,,b9,Bci,,16,2013 (16)
+HETEDIS,Heteroteuthis dispar,"(R?ppell, 1844)",FP,SEPIOL,87,C,m,"1, 5, 6, 9, 10, 11, 16, 17, 18, 19, 20, 22, 23",
+HETOSCU,Heteranomia squamula,"(Linnaeus, 1758)",,,,Emb,,22,2015 (22)
+HEXAGRI,Hexanchus griseus,"(Bonnaterre, 1788)",C,3.1.1,,Ae,0,"6, 7, 8, 9, 10, 11, 15, 16, 22",
+HIATARC,Hiatella arctica,"(Linnaeus, 1767)",R,342 Tav. 131,,Emb,0,"5, 18",2011 (18)
+HIATRUG,Hiatella rugosa,"(Linnaeus, 1767)",R,342 Tav. 131,,Emb,,16,2013 (16)
+HIATSPP,Hiatella spp.,"Bosc, 1801",R,p. 342,,Emb,0,9,2011 (9)
+HIDINOR,Hydroides norvegicus,"Gunnerus, 1768",R,387 Tav 149,,Epo,,"20, 22","2015 (20, 22)"
+HINIINC,Nassarius incrassatus,"(Str?m, 1768)",F,NASS Hin,d22,Dmg,0,6,
+HINIRET,Nassarius reticulatus,"(Linnaeus, 1758)",F,NASS Hin 1,d23,Dmg,0,"1, 6, 17",
+HIPADEP,Hippaliosina depressa,"(Busk, 1854)",,,,Ebr,m,25,2018
+HIPODAE,Hippolytidae,"Bate, 1888",Z,117,,B,,20,2015 (20)
+HIPPGUT,Hippocampus guttulatus,"Cuvier, 1829",C,97.4.2,,Ao,0,"9, 11, 16, 19, 25",2011 (9)
+HIPPHIC,Hippocampus hippocampus,"(Linnaeus, 1758)",C,97.4.1,,Ao,0,"1, 6, 9, 16, 17, 18, 19, 20, 22, 25",
+HIPPSPP,Hippocampus spp.,"Rafinesque, 1810",C,97.4,,Ao,0,16,2014 (16)
+HIPSCOM,Hippospongia communis,"(Lamarck, 1814)",R,121,,Esp,0,22,2015 (22)
+HIRUNEA,Hirudinea,"Lamarck, 1818",R,394,,Ehi,,5,2014 (5)
+HISTBON,Histioteuthis bonnellii,"(F?russac, 1835)",FP,"HISTIO, 155",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+HISTREV,Histioteuthis reversa,"(Verrill, 1880)",FP,"HISTIO, 158",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+HISTSPP,Histioteuthis spp.,"d'Orbigny, 1841",FP,"HISTIO, 153",,C,0,"1, 2, 5, 6, 7, 8, 15, 16, 17, 19",
+HOLOFOR,Holothuria forskali,"Delle Chiaje, 1823",RT,"p. 548 Tav. 218, 64",,Eec,0,"1, 5, 6, 7, 10, 16, 17, 18","2011 (10, 18)"
+HOLOHEL,Holothuria helleri,"Marenzeller, 1877",RT,"p. 550 Tav. 218, 63",,Eec,0,19,2011 (19)
+HOLOMAM,Holothuria mammata,"Grube, 1840",T,57,,Eec,0,"7, 8, 9, 18","2013 (7, 8)"
+HOLOPOL,Holothuria poli,"Delle Chiaje, 1824",RT,"p. 550 Tav. 218, 58",,Eec,0,"1, 5, 9, 10, 18, 19","2011 (9, 10, 18, 19)"
+HOLOSAN,Holothuria sanctori,"Delle Chiaje, 1823",T,61,,Eec,0,5,2013 (5)
+HOLOSPP,Holothuria spp.,"Linnaeus, 1767 ",T,52,,Eec,0,"1, 2, 5, 6, 9, 17, 22, 23","2013 (1, 2, 5, 6)"
+HOLOTUB,Holothuria tubulosa,"Gmelin, 1791",FT,HOL Hol 1,53,Eec,0,"1, 5, 6, 9, 10, 11, 16, 18 ","2011 (9, 10, 18)"
+HOMAVUL,Homarus gammarus,"(Linnaeus, 1758)",F,NEPH Hom 1,b10,B,m,"6, 7, 11, 16, 17, 18, 19, 22",
+HOMOBAR,Homola barbata,"(Fabricius, 1793)",Z,304,,B,m,"1, 2, 5, 6, 9, 15, 16, 18, 19, 20, 22, 25",
+HOPLMED,Hoplostethus mediterraneus mediterraneus,"Cuvier, 1829",C,115.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+HORMALB,Hormathia alba,"(Andr?s, 1880)",,,?,Ecn,,1,2014 (1)
+HORMCOR,Hormathia coronata,"(Gosse, 1858)",,,,Ecn,,18,2013 (18)
+HYALSPP,Hyalinoecia spp.,"Malmgren, 1867 ",,,,Epo,,5,2013 (5)
+HYALTUB,Hyalinoecia tubicola,"(O.F. M?ller, 1776) ",,,,Epo,,"1, 2, 5, 6, 16","2013 (1, 2, 5, 6)"
+HYDAECH,Hydractinia echinata ,"(Fleming, 1828)",,,,Ecn,,7,2015 (7)
+HYDOINA,Hydroidolina,"Collins & Marques, 2004",,,,Ecn,,1,2014 (1)
+HYDRZOA,Hydrozoa,"Owen, 1843",R,123,,Ecn,,"1, 2, 5, 6, 15","2013 (1, 2, 5, 6)"
+HYGOBEN,Hygophum benoiti,"(Cocco, 1838)",C,58.10.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19, 20, 22",
+HYGOHIG,Hygophum hygomii,"(L?tken, 1892)",C,58.10.1,,Ao,0,"1, 5, 6, 8, 9, 10, 16, 18, 19, 22, 25",
+HYGOSPP,Hygophum spp.,"Bolin, 1939",C,58.1,,Ao,0,"5, 6, 8, 10, 22","2011 (8, 10)"
+HYMDSPP,Hymedesmia spp.,"Bowerbank, 1864",R,111,,Esp,m,22,2015 (22)
+HYMEITA,Hymenocephalus italicus,"Giglioli, 1884",C,99.5.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+HYMPDEB,Hymenopenaeus debilis,"Smith, 1882 ",Z,47,?,B,,"1, 2","2013 (1, 2)"
+HYMPSPP,Hymenopenaeus spp.,"Smith, 1882",Z,47,?,B,m,1,
+HYPESPP,Hyperiidae,"Dana, 1852",R,p. 492,,Bam,0,"5, 6, 10",
+HYPSSPP,Hypselodoris spp.,"Stimpson, 1855",,,,Emo,0,"5, 10",2011 (10)
+ICHTOVA,Ichthyococcus ovatus,"(Cocco, 1838)",C,37.6.1,,Ao,0,"1, 6, 9, 10, 19, 22, 25",
+IDOTSPP,Idotea spp.,"Fabricius, 1798",R,484,,Bis,,1,2013 (1)
+ILIANUC,Ilia nucleus,"(Linnaeus, 1758)",Z,322,,B,m,"6, 9, 11, 16, 25",2011 (9)
+ILLECOI,Illex coindetii,"(V?rany, 1839)",FP,"OMMAS Ill 1, 168",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+INACAGU,Inachus aguiarii,"Brito Capello, 1876",Z,473,?,B,,"1, 2","2013 (1, 2)"
+INACCOM,Inachus communissimus,"Rizza, 1839",Z,470,,B,m,"1, 6, 9, 11, 15, 18, 19, 20, 22",
+INACDOR,Inachus dorsettensis,"(Pennant, 1777)",Z,472,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19, 20, 22",
+INACLEP,Inachus leptochirus,"Leach, 1817",Z,472,,B,,"5, 6, 7, 8","2013 (7, 8)"
+INACPAR,Inachus parvirostris,"(Risso, 1816)",,WoRMS,,B,m,"5, 9, 11, 16",2011 (9)
+INACPHA,Inachus phalangium,"(Fabricius, 1775)",Z,472,,B,m,"7, 8","2013 (7, 8)"
+INACSPP,Inachus spp.,"Weber, 1795",Z,467,,B,m,"9, 15, 16, 17, 18, 19, 20, 22, 25","2011 (9, 18, 19)"
+INACTHO,Inachus thoracicus,"Roux, 1830",Z,473,,B,m,"1, 5, 6, 9, 16, 19, 20, 22",
+IRCIORO,Ircinia oros,"(Schmidt, 1864) ",,,,Esp,0,"5, 6","2014 (5, 6)"
+IRCISPP,Ircinia spp.,"Nardo, 1833",R,p. 121,,Esp,0,"5, 16, 18",2011 (18)
+IRCIVAR,Ircinia variabilis,"(Schmidt, 1862) ",R,121 Tav 42,,Esp,0,25,2018
+ISIDELO,Isidella elongata,"(Esper, 1788)",R,p. 174 Tav. 63,,Ecn,0,"1, 2, 7, 8, 9, 10, 16, 18, 19","2011 (10, 18, 19)"
+ISOPODA,Isopoda,"Latreille, 1817",R,479,,Bis,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+JANIRUB,Jania rubens,"Lamouroux, 1816",F,63 RH Jan 1,,V,,1,2013 (1)
+JANTPAL,Janthina pallida,"Thompson, 1840",,,,Emg,,16,2013 (16)
+JAXENOC,Jaxea nocturna,"Nardo, 1847",Z,226,,B,m,22,
+JORUTOM,Jorunna tomentosa,"(Cuvier, 1804)",R,p. 306 Tav. 117,,Emo,0,18,2011 (18)
+KALLPAT,Kallymenia patens,"Codomier, 1980",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+KALLSPP,Kallymenia spp.,"J. Agardh, 1842",,,,V,,5,2013 (5)
+KALMEAE,Kallymeniaceae,"Kylin, 1928",,,,V,,5,2013 (5)
+KALORAM,Kaloplocamus ramosus,"(Cantraine, 1835)",,,,Emo,,"7, 8","2013 (7, 8)"
+KOPHSPP,Kophobelemnon spp.,"Asbjoernsen, 1866",,,,Ecn,0,16,2016
+LABIDIG,Labidoplax digitata,"(Montagu, 1815)",RT,"p. 552 Tav. 219, 106s",e15,Eec,0,10,2011 (10)
+LABITHO,Labidoplax thomsoni," (Herapath, 1865)",,,e15,Eec,0,18,2015
+LABODAE,Labridae,"Cuvier, 1816",C,37,,Ao,0,17,2014 (17)
+LABRMER,Labrus merula ,"Linnaeus, 1758",C,145.1.3,,Ao,0,11,2014 (11)
+LABRVIR,Labrus viridis,"Linnaeus, 1758",C,145.1.4,,Ao,0,"7, 8, 11, 15, 22, 23",
+LABSBIM,Labrus mixtus,"Linnaeus, 1758",C,145.1.1,a30,Ao,0,"5, 11, 16, 17, 22",
+LAETHYS,Laetmonice hystrix,"(Savigny, 1818)",R,p. 365 Tav. 140,,Epo,0,"1, 5, 6, 9, 16, 18, 19","2011 (9, 18, 19)"
+LAETSPP,Laetmonice spp.,"Kinberg, 1856",,,,Epo,,"7, 8","2013 (7, 8)"
+LAEVCAR,Laevicardium oblongum,"(Gmelin, 1791)",F,CARD Laev 1,,Dmb,0,"1, 5, 6, 16, 17, 18, 19",
+LAEVCRA,Laevicardium crassum,"(Gmelin, 1791) ",,,,Dmb,,"1, 5","2013 (1, 5)"
+LAEVSPP,Laevicardium spp.,"Swainson, 1840",,,,Dmb,,"1, 17",2013 (1)
+LAGOLAG,Lagocephalus lagocephalus lagocephalus,"(Linnaeus, 1758)",C,204.2.1,,Ao,0,22,
+LAGOSCE,Lagocephalus sceleratus,"(Gmelin, 1789) ",G,CIESM Atlas,AL,Ao,0,25,2014 (25)
+LAGOSUE,Lagocephalus suezensis,"Clark & Gohar, 1953 ",G,206,? AL,Ao,0,25,2012 (25)
+LAMACRO,Lampanyctus crocodilus,"(Risso, 1810)",C,58.12.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LAMAPUS,Lampanyctus pusillus,"(Johnson, 1890)",C,58.12.10,,Ao,0,"8, 9, 16, 18, 22",
+LAMASPP,Lampanyctus spp.,"Bonaparte, 1840",C,58.12,,Ao,0,"1, 8, 9, 17, 22, 23",
+LAMEPER,Lamellaria perspicua,"(Linnaeus, 1758)",,,,Emg,,"6, 7, 16",2013 (6)
+LAMESPP,Lamellaria spp.,"Montagu, 1815 ",,,,Emg,,1,2013 (1)
+LAMIROD,Laminaria rodriguezii,"Bornet, 1888 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+LAMISPP,Laminaria spp.,"Lamouroux, 1813 ",,,,V,,"2, 6","2013 (2, 6)"
+LAMPGUT,Lampris guttatus,"(Br?nnich, 1788)",C,105.1.1,,Ao,0,18,
+LAPPFAS,Lappanella fasciata,"(Cocco, 1833)",C,145.7.1,,Ao,0,"1, 6, 7, 8, 9, 11, 16, 18, 22",
+LATRELE,Latreillia elegans,"Roux, 1830",Z,307,,B,m,"7, 8, 9, 10, 11, 15, 16, 19, 20, 22, 25","2011 (9, 10, 19)"
+LATRSPP,Latreillia,"Roux, 1830",Z,307,,B,m,"9, 18, 22, 23",
+LAURCHO,Laurencia chondrioides,"B?rgesen, 1918",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+LEIOGLA,Leiopathes glaberrima,"(Esper, 1788)",,,,Ecn,,16,2013 (16)
+LEPALEP,Lepadogaster lepadogaster,"(Bonnaterre, 1788)",C,208.4.1,,Ao,0,"9, 15, 17",
+LEPASPP,Lepadogaster spp.,"Go?an, 1770",C,208.4,,Ao,0,"5, 8, 9, 17",2011 (9)
+LEPCPUG,Leptochela pugnax,"De Man, 1916",Y,54,? AL,B,m,22,2014 (22)
+LEPGSAR,Leptogorgia sarmentosa,"(Esper, 1789)",R,p. 174 Tav. 63,,Ecn,0,"10, 16, 18",2011 (18)
+LEPICAU,Lepidopus caudatus,"(Euphrasen, 1788)",C,155.4.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LEPMBOS,Lepidorhombus boscii,"(Risso, 1810)",C,195.2.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LEPMSPP ,Lepidorhombus spp.,"G?nther, 1862",C,195.2,,Ao,0,17,2014 (17)
+LEPMWHS,Lepidorhombus whiffiagonis,"(Walbaum, 1792)",C,195.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LEPOLEP,Lepidion lepidion,"(Risso, 1810)",C,103.6.1,,Ao,0,"5, 6, 7, 8, 9, 11, 17",
+LEPRPHA,Leptometra phalangium,"(M?ller, 1841)",RT,"p. 546 Tav. 217, 33",,Eec,0,"1, 2, 5, 6, 9, 10, 11, 16, 18","2011 (9, 10, 18)"
+LEPRSPP,Leptometra spp.,"Clark, 1908",T,33,,Eec,0,"7, 8","2013 (7, 8)"
+LEPSANA,Lepas anatifera,"Linnaeus, 1758",F,175 LEPAD Lep 1,,Bci,,16,2013 (16)
+LEPTCAV,Lepidotrigla cavillone,"(Lacep?de, 1801)",C,185.4.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LEPTDIE,Lepidotrigla dieuzeidei,"Blanc & Hureau, 1973",C,185.4.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 20, 22, 23, 25",
+LEPTSPP ,Lepidotrigla spp.,"G?nther, 1860 ",C,185.4,,Ao,0,17,2014 (17)
+LEPYINH,Leptosynapta inhaerens,"(O.F. M?ller, 1776)",T,104,,Eec,0,16,2013 (16)
+LESTJAY,Lestidiops jayakari jayakari,"(Boulenger, 1889)",C,63.2.3,,Ao,0,16,2014 (16)
+LESTSPD,Lestidiops sphyrenoides,"(Risso, 1820)",C,63.2.1,,Ao,0,"6, 7, 8, 17, 22",
+LESTSPP,Lestidiops spp.,"Hubbs, 1916",C,63.2,,Ao,0,"6, 10, 17, 22",
+LESUSPP,Lesueurigobius spp.,"Whitley, 1950",C,162.16,,Ao,0,5,2014 (5)
+LEUKSPP,Leuckartiara spp.,,R,137,,Ecn,m,7,2018
+LICHAMI,Lichia amia,"(Linnaeus, 1758)",C,131.5.1,,Ao,0,"6, 22",
+LIGUENS,Ligur ensiferus,"(Risso, 1816)",Z,133,,B,m,"1, 2, 5, 6, 7, 8, 9, 11, 15, 19, 22",
+LIMALIM,Lima lima,"(Linnaeus, 1758)",F,425,,Emb,,5,2013 (5)
+LIMASPP,Lima spp.,"Brugui?re, 1797 ",F,424 LIM,,Emb,,5,2014 (5)
+LIMRHIA,Limaria hians,"(Gmelin, 1791) ",,,,Emb,,5,2013 (5)
+LIOCPUS,Liocarcinus pusillus,"(Leach, 1816)",,,b37,B,,8,2016
+LIPOADR,Microlipophrys adriaticus,"(Steindachner & Kolombatovic, 1883)",C,164.1.2,a31,Ao,0,25,2012 (25)
+LISSCHI,Lissa chiragra,"(Fabricius, 1775)",Z,459,,B,m,"1, 2, 5, 6, 11, 16, 18",
+LITHMOR,Lithognathus mormyrus,"(Linnaeus, 1758)",C,139.5.1,,Ao,0,"6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 22, 23",
+LITOCOR,Lithothamnion corallioides,"P.L. Crouan & H.M. Crouan, 1867 ",,,,V,,5,2013 (5)
+LITOMIN,Lithothamnion minervae,"Basso, 1995 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+LITOSPP,Lithothamnion spp.,"Heydrich, 1897",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+LITOVAL,Lithothamnion valens,"Foslie, 1909 ",,,,V,,5,2013 (5)
+LITPRAC,Lithophyllum racemus,"Foslie, 1901",R,57 Tav 19,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+LITPSPP,Lithophyllum spp.,"Philippi, 1837 ",R,57,,V,,5,2013 (5)
+LITTNER,Melarhaphe neritoides,"(Linnaeus, 1758)",R,242 Tav 93,e16,Emg,,16,2013 (16)
+LIZAAUR,Liza aurata,"(Risso, 1810)",C,181.3.2,,Ao,0,"1, 6, 7, 9, 10, 11, 16, 17, 19, 22",
+LIZARAM,Liza ramada,"(Risso, 1827)",C,181.3.1,,Ao,0,"1, 6, 7, 9, 17, 18, 19, 22",
+LIZASAL,Liza saliens,"(Risso, 1810)",C,181.3.4,,Ao,0,"7, 9, 11",
+LOBAGIG,Lobatus gigas,"Linnaeus, 1758 ",,,?,Dmb,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+LOBIDOF,Lobianchia dofleini,"(Zugmayer, 1911)",C,58.14.12,,Ao,0,"1, 2, 5, 6, 8, 9, 10, 16, 18, 19, 20, 22, 23, 25",
+LOBIGEM,Lobianchia gemellarii,"(Cocco, 1838)",C,58.14.1,,Ao,0,"5, 10, 15, 16, 17, 19, 22",
+LOBISPP,Lobianchia spp.,"Gatti, 1904 ",C,58.14,,Ao,0,"5, 16",2014 (5)
+LOLIEGG,Eggs capsules of Loliginidae,,,,,G,,20,2015 (20)
+LOLIFOR,Loligo forbesii,"Steenstrup, 1857",FP,"LOLIG Lolig 2, 110",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LOLISPP,Loligo spp.,"Lamarck, 1798",FP,"LOLIG Lolig, 108",,C,0,"7, 8, 11, 22",
+LOLIVUL,Loligo vulgaris,"Lamarck, 1798",FP,"LOLIG Lolig 1, 108",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LOPEPER,Lophelia pertusa," (Linnaeus, 1758)",R,p. 169 Tav. 61,,Ecn,0,"9, 15, 16, 19","2011 (9, 19)"
+LOPHBUD,Lophius budegassa,"Spinola, 1807",C,210.1.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LOPHPIS,Lophius piscatorius,"Linnaeus, 1758",C,210.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+LOPHSPP,Lophius spp.,"Linnaeus, 1758",C,210.1,,Ao,0,"7, 8, 9, 22, 23",
+LOPOTYP,Lophogaster typicus,"M. Sars, 1857",R,p. 471 Tav. 189,,B,m,"1, 5, 6, 9, 17, 19, 20, 22",
+LUIDCIL,Luidia ciliaris,"(Philippi, 1837)",RT,"p. 565 Tav. 223, 148",,Eec,0,"1, 2, 5, 6, 9, 15, 16, 18, 19","2011 (9, 18)"
+LUIDSAR,Luidia sarsii,"(D?ben & Koren, 1846)",T,150,,Eec,0,"1, 2, 5, 6, 9, 10, 16, 18, 19","2011 (10, 18)"
+LUIDSPP,Luidia spp.,"Forbes, 1839 ",T,148,,Eec,0,"1, 2, 6, 16","2013 (1, 2, 6)"
+LUMBDAE,Lumbrineridae,"Schmarda, 1861",R,372,,Epo,0,"7, 8",2017
+LUMBLAT,Lumbrineris latreilli,"Audouin & Milne-Edwards, 1834",R,372,,Epo,m,18,2014 (18)
+LUMBSPP,Lumbrineris spp.,"Blainville, 1828",R,372,,Epo,m,10,2013 (10)
+LUNACAT,Euspira catena,"(Da Costa, 1778)",F,NAT,e17,Emg,0,"6, 16",
+LUNAFUS,NO                     Euspira fusca,"(Blainville, 1825)",F,NAT,e18,Emg,0,"1, 2, 5, 6, 9, 16, 19",
+LUNAGUI,Euspira guilleminii,"(Payraudeau, 1826)",,,e19,Emg,,16,2013 (16)
+LUNASPP,NO                      Euspira spp.,"Agassiz, 1837",,,e20,Emg,,"1, 5","2013 (1, 5)"
+LUTRSPP,Lutraria spp.,"Lamarck, 1799",R,p. 342,,Emb,0,"1, 6, 19",
+LYSMSET,Lysmata seticaudata,"(Risso, 1816)",Z,178,,B,m,"20, 22, 25","2014 (20, 22, 25)"
+LYTOMYR,Lytocarpia myriophyllum,"(Linnaeus, 1758)",R,p. 133 Tav. 46,,Ecn,0,"1, 10, 16, 18, 19","2011 (18, 19)"
+MACOSCO,Macroramphosus scolopax,"(Linnaeus, 1758)",C,96.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+MACRLIN,Macropodia linaresi,"Forest & Zariquiey-Alvarez, 1964",Z,479,,B,m,"1, 2, 5, 6, 15",
+MACRLOG,Macropodia longirostris,"(Fabricius, 1775)",Z,481,,B,,"5, 10, 16, 18, 20, 22, 25",2013 (16)
+MACRLON,Macropodia longipes,"(A. Milne-Edwards & Bouvier, 1899)",Z,482,,B,m,"1, 2, 5, 6, 9, 10, 15, 16, 17, 18, 19, 20, 22, 25",
+MACRROS,Macropodia rostrata,"(Linnaeus, 1761)",F,MAJI,,B,m,"1, 5, 6, 9, 10, 16, 19, 20",
+MACRSPP,Macropodia spp.,"Leach, 1814",Z,476,,B,m,"9, 16",2011 (9)
+MACRTEN,Macropodia tenuirostris,"(Leach, 1814)",Z,482,?,B,m,7,2013 (7)
+MADROCU,Madrepora oculata,"Linnaeus, 1758",R,169 Tav 61,,Ecn,,"16, 19",2013 (16)
+MAJABRA,Maja brachydactyla,"Balss, 1922",,WoRMS,?,B,m,7,2013 (7)
+MAJACRI,Maja crispata,"Risso, 1827",F,MAJI Maja,,B,m,"1, 2, 5, 6, 9, 11, 16, 17, 18, 19, 20, 22, 25",
+MAJAGOL,Maja goltziana,"d'Oliveira, 1888",Z,447,,B,m,"11, 16, 18, 20, 22, 25",2011 (18)
+MAJASQU,Maja squinado,"(Herbst, 1788)",F,MAJI Maja 1,,B,m,"5, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MAJIDAE,Majidae,"Samouelle, 1819",Z,443,,B,0,"1, 25",2013 (1)
+MALDDAE,Maldanidae,"Malmgren, 1867 ",R,380,,Epo,0,"7, 8",2015
+MANUPES,Manupecten pesfelis,"(Linnaeus, 1758)",R,462,,Emb,0,16,2016
+MARGCER,Margaretta ceroides,"(Ellis & Solander, 1786)",R,"527, 536",,Ebr,m,25,2018
+MARIBLA,Marionia blainvillea,"(Risso, 1818) ",R,291 Tav 112,,Emo,m,"1, 5, 7","2013 (1, 5)"
+MARTGLA,Marthasterias glacialis,"(Linnaeus, 1758)",RT,"p. 563 Tav. 223, 188",,Eec,0,"1, 2, 5, 6, 9, 10, 11, 15, 16, 17, 18, 19","2011 (9, 10, 18, 19)"
+MAURMUE,Maurolicus muelleri,"(Gmelin, 1789)",C,37.8.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+MCPIARC,Liocarcinus navigator,"(Herbst, 1794)",F,PORT Lioc 3,b11,B,m,"1, 6, 25",
+MCPICOR,Liocarcinus corrugatus,"(Pennant, 1777)",Z,372,b12,B,m,"1, 5, 6, 9, 15, 16, 18, 22",
+MCPIDEP,Liocarcinus depurator,"(Linnaeus, 1758)",F,PORT Lioc 4,b13,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MCPIMAC,Liocarcinus maculatus,"(Risso, 1827)",F,PORT Lioc,b14,B,m,"1, 6, 9, 10",
+MCPIPUB,Necora puber,"(Linnaeus, 1767)",F,PORT Neco 1,b15 ?,B,m,7,
+MCPISPP,Liocarcinus spp.,"Stimpson, 1871",,WoRMS,b16,B,0,"1, 2, 5, 6, 22, 23","2013 (1, 2, 5, 6)"
+MCPITUB,Macropipus tuberculatus,"(Roux, 1830)",F,PORT Macro 1,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+MCPIVER,Liocarcinus vernalis,"(Risso, 1816)",Z,377,b17,B,m,"9, 10, 16, 18, 25","2011 (9, 10)"
+MEGANOR,Meganyctiphanes norvegica,"(M. Sars, 1857)",R,p. 429 Tav. 170,,Beu,m,"1, 5, 6, 9, 10, 11, 17",
+MEGETRU,Megerlia truncata,"(Linnaeus, 1767)",R,540 Tav 215,,Eba,,16,2013 (16)
+MELAATL,Melanostigma atlanticum,"Koefoed, 1952",C,170.6.1,,Ao,0,"5, 6, 7",
+MELIVIR,Melibe viridis,"(Kelaart, 1858)",,,AL,Emo,,20,2015 (20)
+MERLMER,Merluccius merluccius,"(Linnaeus, 1758)",C,100.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+MESOINT,Mesothuria intestinalis,"(Ascanius, 1805)",T,69,,Eec,0,"1, 6, 16, 19","2013 (1, 6)"
+METAMOG,Metapenaeopsis mogiensis consobrina,"Nobili, 1904",Y,38,AL,B,0,25,2018
+METRSEN,Metridium senile,"Linnaeus, 1761",,,?,Ecn,,7,2013 (7)
+METRSPP,Metridium spp.,,,,,Ecn,,7,2018
+MICDTEN,Microdictyon tenuius,"Gray, 1866",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+MICICOC,Microichthys coccoi,"R?ppell, 1852",C,127.4.1,,Ao,0,"9, 10, 18, 19","2011 (9, 10, 18)"
+MICMPOU,Micromesistius poutassou,"(Risso, 1827)",C,101.8.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23",
+MICOCLA,Microcosmus claudicans,"(Savigny, 1816)",R,597,,Dtu,,"5, 16",2013 (16)
+MICOPOL,Microcosmus polymorphus,"Heller, 1877",,,,Dtu,,"5, 18",2013 (18)
+MICOSAB,Microcosmus sabatieri,"Roule, 1885",F,PYUR Micr 2,,Dtu,0,"1, 2, 5, 6, 7, 8, 9, 17",
+MICOSPP,Microcosmus spp.,"Heller, 1877",F,PYUR Micr,,Dtu,0,"1, 5, 6, 8, 9, 11, 16, 18","2011 (9, 18)"
+MICOSQU,Microcosmus squamiger,"Michaelsen, 1927",,,AL,Dtu,0,18,2011 (18)
+MICOVUL,Microcosmus vulgaris,"Heller, 1877",F,PYUR Micr 3,,Dtu,0,"10, 11, 16, 18, 19","2011 (10, 18, 19)"
+MICUAZE,Microchirus azevia,"(Brito Capello, 1867)",C,198.5.2,a32 ?,Ao,0,1,
+MICUBOS,Microchirus boscanion,"(Chabanaud, 1926)",C,198.5.4,? ?,Ao,0,1,
+MICUOCE,Microchirus ocellatus,"(Linnaeus, 1758)",C,198.5.3,,Ao,0,"1, 5, 6, 9, 11, 15, 16, 17, 18, 19, 20, 22",
+MICUVAR,Microchirus variegatus,"(Donovan, 1808)",C,198.5.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MODIADR,Gibbomodiola adriatica,"(Lamarck, 1819)",F,MYTIL,d24,Dmb,,16,2013 (16)
+MODIBAR,Modiolus barbatus,"(Linnaeus, 1758)",F,MYTIL Modi 1,,Dmb,0,18,2011 (18)
+MODIMOD,Modiolus modiolus,"(Linnaeus, 1758)",,,?,Dmb,,5,2014 (5)
+MODOSUB,Musculus subpictus,"(Cantraine, 1835)",,,d25,Dmb,0,"18, 19",2011 (18)
+MOLAMOL,Mola mola,"(Linnaeus, 1758)",C,207.1.1,,Ao,0,"1, 5, 6, 7, 9, 17",
+MOLGAPP,Molgula appendiculata,"Heller, 1877 ",,,,Etu,,"1, 5, 6","2013 (1, 5, 6)"
+MOLGDAE,Molgulidae,"Lacaze-Duthiers, 1877",R,597,,Etu,0,7,
+MOLGMAN,Molgula manhattensis,"(De Kay, 1843)",R,597,,Etu ,,10,2014 (10)
+MOLGOCC,Molgula occulta,"Kupffer, 1875",,,,Etu,0,18,2011 (18)
+MOLGSOC,Molgula socialis,"Alder, 1863",,,,Etu,,16,2013 (16)
+MOLGSPP,Molgula spp.,"Forbes, 1848",R,p. 597,,Etu,0,"6, 19",2011 (19)
+MOLPMUC,Molpadia musculus,"Risso, 1826 ",T,98,,Eec,0,"1, 6, 16, 18, 19","2013 (1, 6)"
+MOLPSPP,Molpadia spp.,"Cuvier, 1817",T,97,,Eec,0,7,2015 (7)
+MOLVDYP,Molva dypterygia,"(Pennant, 1784)",C,101.14.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23",
+MOLVMAC,Molva macrophthalma,"(Rafinesque, 1810)",F,GADI Molv 1,,Ao,0,"1, 5, 6, 7, 8, 11","2013 (7, 8)"
+MOLVMOL,Molva molva,"(Linnaeus, 1758)",C,101.14.1,,Ao,0,"1, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 22, 23",
+MONIPAT,Monia patelliformis,"(Linnaeus, 1761) ",,,,Dmb,,19,2014 (19)
+MONISQU,Monia squama,"(Gmelin, 1791)",,,?,Dmb,,7,2015 (7)
+MONOHIS,Monochirus hispidus,"Rafinesque, 1814",C,198.6.1,,Ao,0,"1, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MORAMOR,Mora moro,"(Risso, 1810)",C,103.7.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22",
+MORIRUG,Galeodea rugosa,"(Linnaeus, 1771)",F,CASS Cass 2,d16,Dmg,0,"1, 2, 5, 6, 9, 10, 11, 15, 17, 18",
+MUGICEP,Mugil cephalus,"Linnaeus, 1758",C,181.1.1,,Ao,0,"6, 9, 10, 16, 17, 18, 19, 20",
+MUGISPP,NO                       Mugilidae,"Jarocki, 1822",C,181,a33,Ao,0,9,
+MUGLDAE,Mugilidae,,C,181,a33,Ao,0,9,
+MULLBAR,Mullus barbatus,"Linnaeus, 1758",C,138.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+MULLSUR,Mullus surmuletus,"Linnaeus, 1758",C,138.1.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+MUNICUR,Munida curvimana,"A. Milne-Edwards & Bouvier, 1894",Z,283,,B,m,"7, 8, 22",
+MUNIINT,Munida intermedia,"A. Milne-Edwards & Bouvier, 1899",Z,286,b18,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+MUNIIRI,Munida rutllanti,B. Zariquiey Alvarez. 1952,Z,283,b19,B,m,"1, 5, 6, 7, 10, 16, 19, 20, 22",
+MUNIPER,NO                Munida intermedia,"A. Milne-Edwards & Bouvier, 1899",Z,286,b18,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 19, 20, 22",
+MUNIRUG,Munida rugosa,"(Fabricius, 1775)",Z,285,,B,m,"1, 7, 9, 10, 17, 18, 19, 20, 22",
+MUNISPP,Munida spp.,"Leach, 1820",Z,281,,B,m,"7, 8, 9, 11, 16, 17, 18, 19, 20, 22, 23",
+MUNITEN,Munida tenuimana,"G.O. Sars, 1872",Z,288,,B,m,"1, 5, 6, 7, 8, 10, 15, 19, 22",
+MURAHEL,Muraena helena,"Linnaeus, 1758",C,73.1.1,,Ao,0,"1, 2, 5, 8, 11, 15, 16, 18, 20, 22, 25",
+MUREBRA,Bolinus brandaris,"(Linnaeus, 1758)",F,MUR Bol 1,d26,Dmg,0,"1, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19",
+MUREEGG,Eggs capsules of Muricidae,,,,,G,,"10, 18","2011 (10, 18)"
+MURETRU,Hexaplex trunculus,"(Linnaeus, 1758)",R,p. 259 Tav. 100,d27,Dmg,0,"1, 6, 8, 9, 10, 16, 17, 18",
+MURIDAE,Muricidae,"Rafinesque, 1815",,,,Dmg,0,7,2015
+MUSCCOS,Musculus costulatus,"(Risso, 1826)",R,"316, 317",,Dmb,,18,2013 (18)
+MUSCDIS,Musculus discoris,"(Linnaeus, 1758)",,,,Emb,m,7,2015
+MUSCSPP,Musculus spp.,,,,,Dmb,,7,2018
+MUSTAST,Mustelus asterias,"Cloquet, 1819",C,13c.5.2,,Ae,0,"5, 15, 16, 17, 18",
+MUSTMED,Mustelus punctulatus,"Risso, 1827",C,13c.5.3,a34,Ae,0,"1, 15, 16, 17",
+MUSTMUS,Mustelus mustelus,"(Linnaeus, 1758)",C,13c.5.1,,Ae,0,"1, 5, 6, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MYCAMAS,Mycale massa,"(Schmidt, 1862)",R,114,,Esp,0,18,2013 (18)
+MYCASPP,Mycale spp.,"Gray, 1867",R,114,,Esp,0,18,2013 (18)
+MYCOPUN,Myctophum punctatum,"Rafinesque, 1810",C,58.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+MYCOSPP,NO                    Myctophidae,"Gill, 1893",C,58,a35,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MYCPDAE,Myctophidae,,C,58,a35,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+MYCTSPP,Mycteroperca spp.,"Gill, 1862 ",C,124.6,,Ao,0,16,2014 (16)
+MYLIAQU,Myliobatis aquila,"(Linnaeus, 1758)",C,23.1.1,,Ae,0,"1, 5, 6, 9, 10, 11, 15, 16, 17, 18, 20, 22, 23",
+MYRITRU,Myriapora truncata,"(Pallas, 1766) ",,,,Ebr,,"5, 6, 16","2013 (5, 6)"
+MYSIUND,Mysia undata,"(Pennant, 1777)",,,,Emb,,16,2013 (16)
+MYTIEDU,Mytilus edulis,"Linnaeus, 1758",,,?,Dmb,,1,2013 (1)
+MYTIGAL,Mytilus galloprovincialis,"Lamarck, 1819",F,MYTIL Mytil 1,,Dmb,0,"1, 6, 7, 10, 16, 17, 18, 19",
+MYTISPP,NO                        Mytilidae,"Rafinesque, 1815",F,MYTIL,d28,Dmb,0,"1, 6",
+MYTLDAE,Mytilidae,"Rafinesque, 1815",F,MYTIL,d28,Dmb,0,"1, 6",
+MYXISPP,Myxilla spp.,"Schmidt, 1862",R,115,,Esp,0,18,2013 (18)
+NANSOBI,Nansenia oblita,"(Facciol?, 1887)",C,46.4.2,,Ao,0,"5, 6, 9, 16, 19",
+NASRDAE,Nassariidae,"Iredale, 1916",F,NASS,d29,Dmg,0,17,
+NASSLIM,Nassarius lima,"(Dillwyn, 1817)",R,p. 264 Tav. 101,,Dmg,0,"9, 16, 19",2011 (9)
+NASSMUT,Nassarius mutabilis,"(Linnaeus, 1758)",F,NASS Nass 1,,Dmg,0,"9, 16",2011 (9)
+NASSSPP,NO                       Nassariidae,"Iredale, 1916",F,NASS,d29,Dmg,0,17,
+NATCDAE,Naticidae,"Guilding, 1834",F,NAT,d30,Dmg,0,"1, 6, 9, 17, 19",
+NATIHEB,Naticarius hebraeus,"(Martyn, 1786)",,,d31,Dmg,,16,2013 (16)
+NATIMIL,Naticarius stercusmuscarum,"(Gmelin, 1791)",F,NAT Natic 2,d32,Dmg,0,"6, 9, 10, 16, 18, 19",
+NATISPP,NO                        Naticidae,"Guilding, 1834",F,NAT,d30,Dmg,0,"1, 6, 9, 17, 19",
+NAUCDUC,Naucrates ductor,"(Linnaeus, 1758)",C,131.6.1,,Ao,0,"16, 17",
+NEMAENS,Nematocarcinus ensifer,"(Smith, 1882)",Z,94,,B,m,22,2014 (22)
+NEMAEXI,Nematocarcinus exilis,"(Bate, 1888)",,WoRMS,,B,,19,2014 (19)
+NEMEANT,Nemertesia antennina,"(Linnaeus, 1758)",R,p. 133 Tav. 46,,Ecn,0,"16, 18, 19",2011 (18)
+NEMERAM,Nemertesia ramosa,"(Lamarck, 1816)",,,,Ecn,0,"16, 18, 19",2011 (18)
+NEMESPP,Nemertesia spp.,"Lamouroux, 1812",,,,Ecn,,16,2013 (16)
+NEMISCO,Nemichthys scolopaceus,"Richardson, 1848",C,76.1.1,,Ao,0,"1, 5, 6, 7, 9, 10, 11, 16, 18, 19",
+NEOGMAM,Neogoniolithon mamillosum,"Setchell & Mason, 1943",,,,V,,5,2013 (5)
+NEOPCOC,Neopycnodonte cochlear,"(Poli, 1795)",F,GRYPH Neop 1,,Emb,0,"1, 2, 5, 6, 9, 10, 15, 16, 18, 19","2011 (9, 10, 18, 19)"
+NEORCAR,Neorossia caroli,"(Joubin, 1902)",FP,"SEPIOL, 85",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+NEPRNOR,Nephrops norvegicus,"(Linnaeus, 1758)",F,NEPH Neph 1,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23",
+NEREDAE,Nereididae,"Fauchard, 1977",R,375,,Epo,,7,2018
+NERESPP,Nereis spp.,"Linnaeus, 1758",,,,Epo,,18,2014 (18)
+NEROMAC,Nerophis maculatus,"Rafinesque, 1810",C,97.2.1,,Ao,0,10,
+NERPPAR,Nereiphylla paretti,"Blainville, 1828",,,,Epo,,19,2014 (19)
+NETOBRE,Dysomma brevirostre,"(Facciol?, 1887)",C,81.1.1,a36,Ao,0,"6, 8, 19",
+NETTMEL,Nettastoma melanurum,"Rafinesque, 1810",C,80.1.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+NEURFOL,Neurocaulon foliosum,"Zanardini, 1843 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+NEVEJOS,Neverita josephinia,"Risso, 1826",F,NAT nev 1,,Emg,0,"9, 19",2011 (9)
+NEZUAEQ,Nezumia aequalis,"(G?nther, 1878)",C,99.9.1,,Ao,0,"1, 2, 5, 6, 7, 9, 11, 15, 16, 17, 22, 23",
+NEZUSCL,Nezumia sclerorhynchus,"(Valenciennes, 1838)",C,99.9.2,,Ao,0,"1, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+NITOFLA,Nitophyllum flabellatum,"Ercegovic, 1949",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+NITOPUN,Nitophyllum punctatum,"Greville, 1830",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+NOTABON,Notacanthus bonaparte,"Risso, 1840",C,89.1.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 25",
+NOTORIS,Arctozenus risso,"(Bonaparte, 1840)",C,63.4.1,a37,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 18",
+NOTRPUN,Notarchus punctatus,"Philippi, 1836",R,p. 281 Tav. 108,,Emo,0,18,2011 (18)
+NOTSBOL,Notoscopelus bolini,"Nafpaktitis, 1975",C,58.17.5,a38,Ao,0,"1, 6, 7, 8, 9, 19, 22, 25",
+NOTSELO,Notoscopelus elongatus,"(Costa, 1844)",C,58.17.3,,Ao,0,"1, 2, 5, 6, 8, 9, 10, 15, 16, 17, 18, 19, 20, 22, 25",
+NOTSKRO,NO              Notoscopelus bolini,"Nafpaktitis, 1975",C,58.17.5,a38,Ao,0,"1, 6, 7, 8, 9, 19, 22, 25",
+NOTSSPP,Notoscopelus spp.,"G?nther, 1864",C,58.17,,Ao,0,"5, 8, 10, 17",2011 (10)
+NUCUNUC,Nucula nucleus,"(Linnaeus, 1758)",R,p. 314 Tav. 120,,Emb,0,"9, 18, 19","2011 (9, 19)"
+NUCUSPP,Nucula spp.,"Lamarck, 1799",,,,Emb,m,7,
+NUCUSUL,Nucula sulcata,"Bronn, 1831 ",,,,Emb,,"1, 6, 16, 19","2013 (1, 6)"
+NUDIBRA,Nudibranchia,"Cuvier, 1817",,,,Emo,,"5, 6, 9, 15","2013 (5, 6)"
+OBLAMEL,Oblada melanura,"(Linnaeus, 1758)",C,139.6.1,,Ao,0,"6, 7, 9, 11, 17",
+OCENERI,Ocenebra erinaceus,"(Linnaeus, 1758)",R,p. 261 Tav. 100,,Dmg,0,"1, 2, 6, 10, 16",
+OCNUPLA,Ocnus planci,"(Brandt, 1835)",,81s,,Eec,0,"7, 8, 9, 10, 16, 18","2011 (9, 18)"
+OCTESIC,Octopoteuthis sicula,"R?ppell, 1844",FP,"OCTO Oct 1, 133",,C,0,19,2011 (19)
+OCTODEP,Macrotritopus defilippi,"(V?rany, 1851)",FP,"OCT Oct 10, 241s",c1,C,0,"1, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 22, 25",
+OCTOMAC,Callistoctopus macropus,"(Risso, 1826)",FP,"OCT Oct 2, 237s",c2,C,0,"5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 19, 20, 25",
+OCTOSAL,Octopus salutii,"V?rany, 1836",FP,"OCT Oct 23, 239",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23",
+OCTOSPP,Octopus spp.,"Cuvier, 1798",FP,"OCT Oct, 234",,C,0,"7, 8, 9, 16, 17, 22",
+OCTOTET,Pteroctopus tetracirrhus,"(Delle Chiaje, 1830)",FP,"OCT Pter 1, 243",c3,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 23",
+OCTOVUL,Octopus vulgaris,"Cuvier, 1797",FP,"OCT Oct 1, 235",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+OCYTTUB,Ocythoe tuberculata,"Rafinesque, 1814",FP,"OCY Ocy 1, 259",,C,0,6,
+ODOAMED,Odontaster mediterraneus,"(Marenzeller, 1893)",T,152,,Eec,0,"1, 2, 6, 16, 18, 19","2011 (18, 19)"
+ODODBAL,Odondebuenia balearica,"(Pellegrin & Fage, 1907) ",C,162.20.1,,Ao,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ODONTAU,Carcharias taurus,"Rafinesque, 1810",C,5.1.3,a39,Ae,0,5,
+OEDALAB,Oedalechilus labeo,"(Cuvier, 1829)",C,181.4.1,,Ao,0,10,
+OKENELE,Okenia elegans,"(Leuckart, 1828)",,,,Emg,,7,2013 (7)
+OLIGATE,Grammonus ater,"(Risso, 1810)",C,172.1.1,a40,Ao,0,"7, 8, 9, 11, 17",
+OMMABAR,Ommastrephes bartramii,"(Lesueur, 1821)",,p.175-9,,C,0,16,2005(16)
+OMMADAE,Ommastrephidae,"Steenstrup, 1857",P,165,,C,0,6,2013 (6)
+ONYCBAN,Onychoteuthis banksii,"(Leach, 1817)",FP,"ONYCHO, 137",,C,0,"1, 5, 6, 7, 8, 9, 10, 15, 16, 17, 19",
+OPDELON,Ophioderma longicauda,"(Bruzelius, 1805)",RT,"p. 573 Tav. 226, 259",,Eec,0,"1, 2, 5, 6, 10, 11, 16",2011 (10)
+OPDIBAR,Ophidion barbatum,"Linnaeus, 1758",C,173.1.1,,Ao,0,"1, 2, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22, 25",
+OPDIROC,Ophidion rochei,"M?ller, 1845",C,173.1.2+3,,Ao,0,"1, 5, 22",
+OPHANIG,Ophiocomina nigra,"(Abildgaard, 1789)",T,251,,Eec,0,"5, 7, 8, 16","2013 (7, 8, 16)"
+OPHCRUF,Ophichthus rufus,"(Rafinesque, 1810)",C,86.1.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 18, 19, 20, 22",
+OPHDOPH,Ophidiaster ophidianus,"(Lamarck, 1816)",RT,"p. 567 Tav. 224, 160",,Eec,0,"6, 18",2011 (18)
+OPHEDAE,Ophiuridae,"M?ller & Troschel, 1840",,265,,Eec,0,15,2012 (15)
+OPHISER,Ophisurus serpens,"(Linnaeus, 1758)",C,86.4.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 16, 18, 19, 22, 23",
+OPHNDAE,Ophiacanthidae,"(Ljungman, 1867)",,,,Eee,,8,2016
+OPHNSET,Ophiacantha setosa,"(Bruzelius, 1805)",T,218,,Eec,0,"1, 5, 6 ","2013 (1, 5, 6)"
+OPHOFRA,Ophiothrix fragilis,"(Abildgaard, 1789)",RT,"p. 572 Tav. 226, 242",,Eec,0,"1, 2, 5, 6, 7, 8, 9, 10, 16",
+OPHOLUT,Ophiothrix luetkeni,"Wyville Thomson, 1873",,,? ?,Eec,0,6,2013 (6)
+OPHOQUI,Ophiothrix quinquemaculata,"(Delle Chiaje, 1828)",T,249,,Eec,0,18,2013 (18)
+OPHOSPP,Ophiothrix spp.,"M?ller & Troschel, 1840",RT,"p. 571, 241",,Eec,0,"7, 8, 10, 16, 18",2011 (10)
+OPHRDEA,Ophiuroidea,"Gray, 1840",T,197,,Eec,0,"1, 2, 5, 6, 9","2013 (1, 2, 5, 6)"
+OPHSANN,Ophiopsila annulosa,"(M. Sars, 1859)",T,255,,Eec,0,16,2013 (16)
+OPHSARA,Ophiopsila aranea,"Forbes, 1843",T,253,,Eec,0,16,2013 (16)
+OPHSSPP,Ophiopsila spp.,"Forbes, 1843",T,253,,Eec,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+OPHTBAL,Ophiactis balli,"(Thompson, 1840) ",T,240,,Eec,0,6,2013 (6)
+OPHUALB,Ophiura albida,"Forbes, 1839 ",T,272,,Eec,0,19,2014 (19)
+OPHUOPH,Ophiura ophiura,"(Linnaeus, 1758)",T,268s,e41,Eec,0,"5, 6, 7, 8, 9, 10, 16, 18, 19","2011 (9, 10, 18, 19)"
+OPHUSPP,Ophiura spp.,"Lamarck, 1801",T,267,,Eec,0,5,2013 (5)
+OPHYPEN,Ophiomyxa pentagona,"(Lamarck, 1816)",T,217,,Eec,0,19,2014 (19)
+OPISSPP,Opisthobranchia,"Milne-Edwards, 1848",R,p. 269,,Emo,0,"1, 2, 5, 6, 19",
+OPLOSPP,Oplophoridae,"Dana, 1852",Z,83,,B,m,"7, 22",
+OPTOAGA,Opisthoteuthis calypso,"Villanueva, Collins, S?nchez and Voss, 2002",,WoRMS,c4,C,m,"1, 6",
+OPTOSPP,Opisthoteuthis spp.,"Verrill, 1883",P,226,,C,m,1,2014 (1)
+OSCALOB,Oscarella lobularis,"(Schmidt, 1862) ",R,108,,Esp,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+OSMNPEL,Osmundea pelagosae,"Nam, 1994 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+OSMUVOL,Osmundaria volubilis,"Norris, 1991",,,,V,,"5, 6, 11, 18",2011 (18)
+OSTEDAE,Ostreidae,"Rafinesque, 1815",,,,Emb,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+OSTREDU,Ostrea edulis,"Linnaeus, 1758",F,OSTR Ostr 1,,Dmb,0,"1, 5, 6, 7, 9, 10, 16, 17, 18, 19",
+OSTRSPP,Ostrea spp.,"Linnaeus, 1758",R,p. 326,,Dmb,0,"1, 6, 9, 10, 16, 18",
+OWENDAE,Oweniidae,"Rioja, 1917",,,,Epo,,5,2013 (5)
+OXYNCEN,Oxynotus centrina,"(Linnaeus, 1758)",C,15.1.1,,Ae,0,"1, 5, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+PACHMON,Pachastrella monilifera ,"Schmidt, 1868",,,,Esp,,18,2013 (18)
+PACMJOH,Pachymatisma johnstonia,"(Bowerbank, 1844)",,,,Esp,,7,2018
+PAGEACA,Pagellus acarne,"(Risso, 1827)",C,139.7.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PAGEBOG,Pagellus bogaraveo,"(Br?nnich, 1768)",C,139.7.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PAGEERY,Pagellus erythrinus,"(Linnaeus, 1758)",C,139.7.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PAGGDAE,Paguridae,"Latreille, 1802",Z,27/242,,B,,"1, 5, 9, 25","2013 (1, 5)"
+PAGIERE,Paguristes eremita,"(Linnaeus, 1767)",,WoRMS,,B,m,"1, 5, 6, 16",
+PAGOECH,Pagodula echinata ,"(Kiener, 1840)",,,,Emg,,16,2013 (16)
+PAGRCOE,Pagrus caeruleostictus,"(Valenciennes, 1830)",C,139.11.2,,Ao,0,16,2014 (16)
+PAGUALA,Pagurus alatus,"(Fabricius, 1775)",Z,247,,B,m,"1, 2, 5, 6, 7, 9, 10, 16, 18, 19",
+PAGUANA,Pagurus anachoretus,"Risso, 1827 ",Z,249,,B,,"1, 6, 9","2013 (1, 6)"
+PAGUCUA,Pagurus cuanensis,"Bell, 1846",Z,247,,B,m,"1, 6, 7, 9, 10, 16, 18",
+PAGUEXC,Pagurus excavatus,"(Herbst, 1791)",Z,247,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 18",
+PAGUFOR,Pagurus forbesii,"Bell, 1846",Z,246s,,B,m,"1, 5, 6, 18",
+PAGUPRI,Pagurus prideaux,"Leach, 1815",Z,250,,B,m,"1, 2, 5, 6, 7, 8, 9, 11, 16, 18, 19",
+PAGUPUB,Pagurus pubescentulus,"(A. Milne-Edwards & Bouvier, 1892)",,WoRMS,,B,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PAGUSPP,Pagurus spp.,"Fabricius, 1775",Z,243,,B,m,"5, 6, 9, 10, 15, 16, 18, 19","2011 (9, 10, 19)"
+PALASER,Palaemon serratus,"(Pennant, 1777)",Z,165,,B,,25,2014 (25)
+PALIELE,Palinurus elephas,"(Fabricius, 1787)",F,PALIN Palin 1,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22, 23",
+PALIMAU,Palinurus mauritanicus,"Gruvel, 1911",F,PALIN Palin 3,,B,m,"1, 2, 5, 6, 7, 8, 9, 11, 16, 22",
+PALISPP,Palinurus spp.,"Weber, 1795",F,PALIN,,B,m,5,
+PALLINC,Palliolum incomparabile,"(Risso, 1826) ",,,,Emb,,"5, 16",2013 (5)
+PALLSPP,Palliolum spp.,"Monterosato, 1884",,,,Emb,,5,2013 (5)
+PALLTIG,Palliolum tigerinum,"(O.F. M?ller, 1776)",,,?,Emb,,5,2014 (5)
+PALMCRA,Palmophyllum crassum,"Rabenhorst, 1868",,,,V,,5,2013 (5)
+PALNDAE,Palinuridae,"Latreille, 1802",Z,212,,B,,2,2013 (2)
+PALUCAR,Palicus caronii,"(Roux, 1828)",Z,411,,B,,"1, 2, 5, 6, 20, 22","2013 (1, 2, 5, 6)"
+PANDBRE,Pandalina brevirostris,"(Rathke, 1843) ",Z,115,,B,,5,2013 (5)
+PANDDAE,Pandalidae,"Haworth, 1825",,,,B,m,7,
+PANDPRO,Pandalina profunda,"Holthuis, 1946",F,PANDL,,B,m,"1, 5, 6, 20, 22",
+PAPANAR,Plesionika narval,"(Fabricius, 1787)",F,PANDL Parapnd,b20,B,m,"1, 2, 5, 6, 7, 9, 11, 17, 19, 22",
+PAPELON,Parapenaeus longirostris,"(Lucas, 1846)",F,PEN Parap 1,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PAPOOCT,Parapristipoma octolineatum,"(Valenciennes, 1833)",C,136.3.2,?,Ao,0,15,
+PARALEP,Eutelichthys leptochirus,"Tortonese, 1959",C,192.3.3,a41,Ao,0,"1, 5, 6",
+PARAMUR,Paraliparis murieli,"Matallanas, 1984",C,FishBase,?,Ao,0,"5, 6","2013 (5, 6)"
+PARCLIV,Paracentrotus lividus,"(Lamarck, 1816)",F,ECHIN Para 1,337,Dec,0,"1, 9, 10, 11, 16","2011 (9, 10)"
+PARDCRA,Paradrepanophorus crassus,"(Quatrefages, 1846)",,,,Ene,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PAREMON,Paractaea monodi,"Guinot, 1969",,WoRMS,,B,,25,2014 (25)
+PARHDAE,Parthenopidae,"MacLeay, 1838",Z,437,b21,B,m,"9, 10, 15, 17, 19","2011 (10, 19)"
+PARLCOR,Paralepis coregonoides,"Risso, 1820",C,63.1,a42,Ao,0,"1, 2, 5, 6, 7, 8, 9, 16, 19, 20",
+PARLSPE,NO             Paralepis coregonoides,"Risso, 1820",C,63.1,a42,Ao,0,"1, 2, 5, 6, 7, 8, 9, 16, 19, 20",
+PARMCLA,Paramuricea clavata,"(Risso, 1826)",,,,Ecn,,"1, 6, 16","2013 (1, 6)"
+PARNLAR,Parantipathes larix,"(Esper, 1788)",,,,Ecn,1,16,2017
+PAROCUV,Paromola cuvieri,"(Risso, 1816)",F,HOM Par 1,,B,m,"5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 25",
+PARSFER,Parasquilla ferussaci,"(Roux, 1828)",,,,Bst,m,"10, 16",2011 (10)
+PARTANG,Derilambrus angulifrons,"(Latreille, 1825)",Z,439,b22,B,m,"6, 11, 15, 19",
+PARTEXP,Parthenope expansa,"(Miers, 1879) ",,WoRMS,b23,B,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PARTMAC,Spinolambrus macrochelos,"(Herbst, 1790)",Z,439,b24,B,m,"2, 5, 6, 9, 10, 11, 15, 16, 18, 19, 20, 22",
+PARTMAS,Parthenopoides massena,"(Roux, 1830)",Z,441,b25,B,m,"1, 2, 5, 6, 9, 15, 16, 20, 22",
+PARTSPP,NO                   Parthenopidae,"MacLeay, 1838",Z,437,b21,B,m,"9, 10, 15, 17, 19","2011 (10, 19)"
+PARUHYN,Panningia hyndmani,"(Wyville Thomson, 1840)",,,e42,Eec,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PARYSPI,Paralcyonium spinulosum,"Delle Chiaje, 1822",,,,Ecn,,18,2015
+PARZAXI,Parazoanthus axinellae,"(Schmidt, 1862)",,,,Ecn,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PASIMUL,Pasiphaea multidentata,"Esmark, 1866",F,PASI Pasi 1,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22, 25",
+PASISIV,Pasiphaea sivado,"(Risso, 1816)",F,PASI Pasi 2,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+PASISPP,Pasiphaea spp.,"Savigny, 1816",Z,70,,B,m,"7, 8, 10, 16, 17, 19, 22","2011 (10, 19)"
+PAYRINT,Euspira intricata,"(Donovan, 1804)",,,e21,Emg,0,16,2013 (16)
+PECNDAE,Pectinidae,"Rafinesque, 1815",,,,Emb,,1,2013 (1)
+PECTJAC,Pecten jacobaeus,"(Linnaeus, 1758)",F,PECT Pect 1,,Dmb,0,"1, 5, 6, 7, 8, 9, 16, 17, 19",
+PECTMAX,Pecten maximus,"(Linnaeus, 1758)",F,PECT,?,Dmb,0,"1, 5, 6",
+PECTSPP,Pecten spp.,"O.F. M?ller, 1776",F,PECT,,Dmb,0,"5, 10, 16, 18",
+PELANOC,Pelagia noctiluca,"(Forssk?l, 1775)",R,p. 155 Tav. 57,,Ecn,0," 5, 6, 7, 9, 10, 11, 18","2011 (10, 18)"
+PELSPLA,Peltaster placenta,"(M?ller & Troschel, 1842)",T,"72, 157s",,Eec,0,"5, 9, 10, 15, 16, 18, 19","2011 (10, 18, 19)"
+PELTATR,Peltodoris atromaculata,"Bergh, 1880",R,p. 305 Tav. 117,e22,Emo,0,"1, 5, 6, 11, 16",
+PELTSTE,Discodoris stellifera,"(Vayssi?re, 1904)",,,e23,Emo,,18,2013 (18)
+PENAAZT,Penaeus aztecus,"Ives, 1891",,,b36,B,m,25,2017
+PENAJAP,Penaeus japonicus,"Bate, 1888",Y,32,AL,B,m,25,2014 (25)
+PENAKER,Penaeus kerathurus,"(Forssk?l, 1775)",F,PEN Pen 1,b26,B,m,"6, 9, 11, 16, 17, 18, 19, 20, 22",
+PENDDAE,Pennatulidae,"Ehrenberg, 1834",,,,Ecn,,"1, 15",2013 (1)
+PENNACU,Pennatula aculeata,"Danielssen, 1860 ",,,?,Ecn,,2,2013 (2)
+PENNPHO,Pennatula phosphorea,"Linnaeus, 1758",R,p. 175 Tav. 64,,Ecn,0,"1, 2, 5, 7, 9, 10, 11, 16, 17, 18, 19",
+PENNRUB,Pennatula rubra,"(Ellis, 1761)",R,p. 174 Tav. 64,,Ecn,0,"1, 2, 5, 6, 7, 8, 9, 10, 15, 16, 18, 19","2011 (10, 18, 19)"
+PENNSPP,Pennatula spp.,"Linnaeus, 1758",,,,Ecn,,"7, 9",2013 (7)
+PENOSER,Penaeopsis serrata,"Bate, 1881",,WoRMS,,B,,2,2013 (2)
+PENRHEL,Penares helleri,"(Schmidt, 1864)",R,108,,Esp,m,22,2015 (22)
+PENTFAS,Pentapora fascialis fascialis,"(Pallas, 1766)",,,,Ebr,,"1, 2, 5, 6, 16","2013 (1, 2, 5, 6)"
+PENTFOL,Pentapora foliacea,"(Ellis & Solander, 1786)",,,,Ebr,,5,2014 (5)
+PERCGRA,Periclimenes granulatus,"Holthuis, 1950",Z,182,,B,m,"1, 6",
+PERICAT,Peristedion cataphractum,"(Linnaeus, 1758)",C,186.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PERPPER,Periphylla periphylla,"(P?ron & Lesueur, 1810)",,,,Ecn,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PETOMAR ,Petromyzon marinus ,"Linnaeus, 1758",CF,1.1.1 p 765,,Aa,,17,2014 (17)
+PETRFIC,Petrosia ficiformis,"(Poiret, 1789)",R,p. 119 Tav. 40,,Esp,0,"16, 19",2011 (19)
+PEYSINA,Peyssonnelia inamoena,"Pilger, 1911 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PEYSROS,Peyssonnelia rosa-marina,"Boudouresque & Denizot, 1973",,,,V,,5,2013 (5)
+PEYSRUB,Peyssonnelia rubra,"J. Agardh, 1851",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PEYSSPP,Peyssonnelia spp.,"Decaisne, 1841",,,,V,,5,2013 (5)
+PEYSSQU,Peyssonnelia squamaria,"Decaisne, 1842 ",,,,V,,"5, 6","2013 (5, 6)"
+PEYSSTO,Peyssonnelia stoechas,"Boudouresque & Denizot, 1975",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PHACSTR,Phascolion strombus,"(Montagu, 1804)",R,216,,Esi,,"16, 19",2013 (16)
+PHAEEAE,Phaeophyceae,"Kjellman, 1891",R,28,,V,,1,2013 (1)
+PHALGRA,Semicassis granulata,"(Born, 1778)",F,CASS Phal 1,d33,Dmg,0,"1, 5, 16, 18",
+PHAMSPP,Phascolosoma spp.,,R,216,,Esi,0,25,2018
+PHASMAM,Phallusia mammillata,"(Cuvier, 1815)",R,p. 591 Tav. 236,,Etu,0,"1, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19","2011 (9, 18, 19)"
+PHILECH,Philocheras echinulatus,"(M. Sars, 1862)",FZ,CRANG 194,,B,m,"1, 2, 5, 6, 8, 9, 17, 19, 22",
+PHILSCU,Philocheras sculptus,"(Bell, 1847)",Z,195,,B,,"1, 6","2013 (1, 6)"
+PHINAPE,Philine aperta,"(Linnaeus, 1767)",R,p. 275 Tav. 106,e24,Emo,0,"1, 5, 9, 10, 16, 18, 19","2011 (10, 18, 19)"
+PHIPDEP,Philinopsis depicta,"(Renier, 1807)",,,,Emo,0,10,2011 (10)
+PHRNSEM,Phrosina semilunata,"Risso, 1882 ",,,,Bam,,"1, 6","2013 (1, 6)"
+PHROSED,Phronima sedentaria,"(Forssk?l, 1775)",R,p. 492 Tav. 195,,Bam,,"1, 5, 6, 17, 19, 25",2011 (19)
+PHROSPP,Phronima spp.,"Latreille, 1802",,,,Bam,m,7,2013 (7)
+PHRYREG,Zeugopterus regius,"(Bonnaterre, 1788)",C,195.3.1,a43,Ao,0,"5, 11, 17, 22",
+PHYIBLE,Phycis blennoides,"(Br?nnich, 1768)",C,101.15.2,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PHYIPHY,Phycis phycis,"(Linnaeus, 1766)",C,101.15.1,,Ao,0,"1, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 20, 22, 23",
+PHYLTRU,NO                 Hexaplex trunculus,"(Linnaeus, 1758)",R,p. 259 Tav. 100,d27,Dmg,0,"1, 6, 8, 9, 10, 17, 18",
+PHYMCAL,Phymatolithon calcareum,"Adey & McKibbin, 1970",,,,V,,5,2013 (5)
+PHYOURN,Phyllophorus urna,"Grube, 1840",RT,"p. 551 Tav. 218, 93",,Eec,0,"6, 9, 16, 18",2011 (9)
+PHYPCRI,Phyllophora crispa,"Dixon, 1964",,,,V,,5,2013 (5)
+PHYPHER,Phyllophora herediae,"J. Agardh, 1842 ",,,,V,,5,2013 (5)
+PHYRDAE,Phyllophoridae,"?stergren, 1907",T,92,,Eec,0,7,2015 (7)
+PHYSDAL,Physiculus dalwigki,"Kaup, 1858",C,103.8.1,,Ao,0,"7, 8, 9, 11, 22",
+PILUHIR,Pilumnus hirtellus,"(Linnaeus, 1761) ",Z,392,,B,,"1, 2, 5, 6, 9, 16, 17, 19, 25","2013 (1, 2, 5, 6)"
+PILUSPI,Pilumnus spinifer,"H. Milne-Edwards, 1834",Z,391,,B,m,"1, 5, 6, 11, 18, 19, 20, 22",
+PILUSPP,Pilumnus spp.,"Leach, 1816",Z,389,,B,,"1, 6, 22","2013 (1, 6)"
+PILUVIL,Pilumnus villosissimus,"(Rafinesque, 1814)",Z,392,,B,m,"1, 5, 18, 22",
+PINNNOB,Pinna nobilis,"Linnaeus, 1758",F,PINN Pinn 1,,Dmb,0,"1, 6, 16, 18, 19",
+PINNPEC,Atrina pectinata,"(Linnaeus, 1767)",R,p. 322 Tav. 123,d34,Dmb,0,"1, 6, 7",
+PINNRUD,Pinna rudis,"Linnaeus, 1758",F,473,,Dmb,,18,2013 (18)
+PINNSPP,Pinna spp.,"Linnaeus, 1758",F,470,,Dmb,,"17, 18",2013 (18)
+PINOPIN,Nepinnotheres pinnotheres,"(Linnaeus, 1758)",Z,409,b27,B,m,"1, 6",
+PINOPIS,Pinnotheres pisum,"(Linnaeus, 1767)",Z,408,,B,,"6, 16",2013 (6)
+PISAARN,Pisa armata,"(Latreille, 1803)",Z,454,,B,m,"1, 2, 5, 6, 7, 8, 9, 11, 16, 17, 18, 19, 20, 22",
+PISAHIR,Pisa hirticornis,"(Herbst, 1804)",,WoRMS,,B,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PISANOD,Pisa nodipes,"(Leach, 1815)",Z,454,,B,m,"5, 6, 10, 11, 16, 19",
+PISASPP,Pisa spp.,"Leach, 1814",Z,448,,B,m,"5, 9, 15, 16, 22, 25",2011 (9)
+PISILON,Pisidia longicornis,"(Linnaeus, 1767)",Z,293,,B,m,"1, 6",
+PITARUD,Pitar rudis,"(Poli, 1795)",F,512,,Emb,,"1, 5","2013 (1, 5)"
+PLADARG,Platydoris argo,"(Linnaeus, 1767)",,,,Emo,,6,2013 (6)
+PLAGCOS,Plagiobrissus costae,"(Gasco, 1876) ",T,379,,Eec,0,18,2014 (18)
+PLANMIN,Planes minutus,"(Linnaeus, 1758)",Z,427 fig 143,,B,0,16,2016
+PLATFLE,Platichthys flesus,"(Linnaeus, 1758)",C,197.8.1,,Ao,0,"17, 22",
+PLAYSPP,Platyscelus spp.,"Bate, 1861 ",,,,Bam,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PLEBMEM,Pleurobranchus membranaceus,"(Montagu, 1815)",,,,Emo,,7,2013 (7)
+PLEBTES,Pleurobranchus testudinarius,"Cantraine, 1835",,,,Emo,,"5, 16",2013 (5)
+PLERMEC,Pleurobranchaea meckeli,"(Blainville, 1825)",R,p. 289 Tav. 111,,Emo,0,"1, 5, 6, 7, 8, 9, 10, 16, 18, 19",
+PLERSPP,Pleurobranchaea spp.,"Leue, 1813",,,,Emo,,15,2012 (15)
+PLESACA,Plesionika acanthonotus,"(Smith, 1882)",Z,102,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 25",
+PLESANT,Plesionika antigai,"Zariquiey-Alvarez, 1955",Z,100,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 25",
+PLESEDW,Plesionika edwardsii,"(Brandt, 1851)",FZ,PANDL Plesio 2 109,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+PLESENS,Plesionika ensis,"(A. Milne-Edwards, 1881)",Z,106,?,B,,15,2012 (15)
+PLESGIG,Plesionika gigliolii,"(Senna, 1902)",Z,106,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 25",
+PLESHET,Plesionika heterocarpus,"(A. Costa, 1871)",FZ,PANDL Plesio 8/ 100,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PLESMAR,Plesionika martia,"(A. Milne-Edwards, 1883)",FZ,PANDL Plesio 1/105,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+PLESSPP,Plesionika spp.,"Bate, 1888",Z,99,,B,m,"7, 8, 9, 11, 15, 16, 17, 19, 22, 23, 25","2011 (9, 19)"
+PLEUDAE,Pleurobranchidae,"J.E. Gray, 1827",R,289,,Emg,0,7,
+PLEUPIL,Pleurobrachia pileus,"(O.F. M?ller, 1776)",R,p. 177 Tav. 66,,Ect,0,"1, 6",
+PLULDAE,Plumulariidae,"Agassiz, 1862",R,131,,Ecn,,"1, 6","2013 (1, 6)"
+PLUMSPP,Plumularia spp.,"Lamarck, 1816 ",,,,Ecn,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PLUTBIF,Plutonaster bifrons,"(Wyville Thomson, 1873)",T,129,?,Eec,0,"7, 8","2013 (7, 8)"
+PNEUMED,Pneumoderma mediterraneum,"Van Beneden, 1838",,,,Emo,,19,2014 (19)
+POANARI,Polyandrocarpa arianae,"Monniot F., 2016",,,,Etu,,"7, 8",2017
+POANSPP,Polyandrocarpa spp.,"Michaelsen, 1904",,,,Etu,0,7,
+POECCOM,Poecillastra compressa ,"(Bowerbank, 1866)",,,,Esp,,18,2013 (18)
+POLARIS,Polyacanthonotus rissoanus,"(De Filippi & V?rany, 1857)",C,89.2.1,,Ao,0,"1, 5, 6, 11",
+POLBHEN,Polybius henslowii,"Leach, 1820",FZ,PORT 380,,B,m,"1, 2, 11, 25",
+POLCTYP,Polycheles typhlops,"Heller, 1862",Z,209,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+POLDDAE,Polyclinidae,"Milne-Edwards, 1841",R,588,,Etu,,"1, 5","2013 (1, 5)"
+POLHETA,Polychaeta,"Grube, 1850",R,359,,Epo,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+POLIAZE,Polyclinella azemai,"Harant, 1930 ",R,588,,Etu,,5,2013 (5)
+POLMMAM,Polymastia penicillus,"(Montagu, 1814)",R,109 s,e25,Esp,0,"5, 6","2013 (5, 6)"
+POLNLAC,Polysyncraton lacazei,"(Giard, 1872) ",,,,Etu,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+POLOADR,Polycitor adriaticus,"(Drasche, 1883) ",,,,Etu,,"1, 5","2013 (1, 5)"
+POLOCRI,Polycitor crystallinus,"(Renier, 1804)",R,587,,Etu,,5,2013 (5)
+POLOSPP,Polycitor spp.,"Renier, 1804",,,,Etu,,5,2013 (5)
+POLPORA,Polyplacophora,"Gray, 1821",,,,Emp,,5,2013 (5)
+POLRFIB,Polycarpa fibrosa,"(Stimpson, 1852)",,,,Etu,0,7,
+POLRMAM,Polycarpa mamillaris,"(Gaertner, 1774)",,,,Etu,,"1, 5, 6","2013 (1, 5, 6)"
+POLRPOM,Polycarpa pomaria,"(Savigny, 1816) ",R,593,,Etu,,"1, 2, 5, 6, 10, 18",2013 (10)
+POLRSPP,Polycarpa spp.,"Heller, 1877 ",,,,Etu,,5,2013 (5)
+POLSELO,Polysiphonia elongata,"Sprengel, 1827 ",,,,V,,5,2013 (5)
+POLSNIG,Polysiphonia nigra,"Batters, 1902",,,?,V,,5,2013 (5)
+POLSSUB,Polysiphonia subulifera,"Harvey, 1834 ",,,,V,,5,2013 (5)
+POLYAME,Polyprion americanus,"(Bloch & Schneider, 1801)",C,124.7.1,,Ao,0,"5, 6, 7, 8, 9, 11, 17, 19, 22",
+POMOTRI,Spirobranchus triqueter,"(Linnaeus, 1758)",,,e26,Epo,,16,2013 (16)
+POMSMAR,Pomatoschistus marmoratus,"(Risso, 1810)",C,162.21.4,,Ao,0,"1, 5, 6, 7, 9, 18",
+POMSMIC,Pomatoschistus microps,"(Kr?yer, 1838)",C,162.21.5,,Ao,0,"1, 6",
+POMSMIN,Pomatoschistus minutus,"(Pallas, 1770)",C,162.21.1,,Ao,0,"6, 9, 16, 17, 18",
+POMSNOR,Pomatoschistus norvegicus,"(Collett, 1902)",C,162.21.6,,Ao,0,7,2015 (7)
+POMSSPP,Pomatoschistus spp.,"Gill, 1863",C,162.21,,Ao,0,"1, 17",2013 (1)
+POMTSAL,Pomatomus saltatrix,"(Linnaeus, 1766)",C,129.1.1,,Ao,0,"6, 9, 16",
+PONNPIN,Pontonia pinnophylax,"(Otto, 1821)",Z,174,,B,,5,2014 (5)
+PONOMUR,Pontobdella muricata,"(Linnaeus, 1758)",R,p. 396 Tav. 152,,Ehi,0,"1, 5, 9, 10, 11, 16",2011 (9)
+PONPNOR,Pontophilus norvegicus,"(M. Sars, 1861)",,WoRMS,,B,m,"5, 6, 9, 11, 19, 20",
+PONPSPI,Pontophilus spinosus,"(Leach, 1816)",FZ,CRANG Pontop 1/192,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22",
+PONTCAT,Aegaeon cataphractus,"(Olivi, 1792)",Z,188,b28,B,m,"1, 5, 6, 7, 8, 9, 10, 15, 16, 18, 19, 20, 22",
+PONTLAC,Aegaeon lacazei,"(Gourret, 1887)",FZ,CRANG Pont 1 188s,b29,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22, 25",
+PONTSPP,Aegaeon spp.,"Agassiz, 1846",Z,187s,b30,B,,"1, 2, 5, 6, 16","2013 (1, 2, 5, 6)"
+PORIERA,Porifera,"Grant, 1836",,,,Esp,,"1, 2, 5, 6, 9, 15","2013 (1, 2, 5, 6)"
+PORNHAS,Portunus hastatus,"(Linnaeus, 1767)",Z,384,,B,,10,2014 (10)
+PORTDAE,Portunidae ,"Rafinesque, 1815",Z,29 352,,B,,11,2014 (11)
+PORTLAT,Portumnus latipes,"(Pennant, 1777)",Z,357,,B,,25,2012 (25)
+POSIEGA,Sea ball of Posidonia oceanica,,,,,H,,"10, 11, 18","2011 (10, 18)"
+POSILEA,Leaves of Posidonia oceanica,,,,,H,,10,2011 (10)
+POSIOCE,Posidonia oceanica,"Delile, 1813 ",R,p. 76 Tav. 26,,V,,"1, 5, 6, 9, 11, 19",2011 (9)
+PRIADAE,Priapulidae,"Gosse, 1855",,,,Epr,,7,2015 (7)
+PROCEDU,Processa edulis edulis,"(Risso, 1816)",FZ,PROC Proc 2 153,,B,m,"7, 16, 17, 18",
+PROCELE,Processa elegantula,"Nouvel & Holthuis, 1957",Z,158,,B,m,22,2014 (22)
+PROCMED,Processa canaliculata,"Leach, 1815",FZ,PROC Proc 1 158,b31,B,m,"1, 2, 5, 6, 7, 9, 10, 11, 17, 18, 19, 20, 22",
+PROCNOU,Processa nouveli,"Al-Adhub & Williamson, 1975",F,PROC,,B,m,"1, 2, 5, 6, 22",
+PROCSPP,Processa spp.,"Leach, 1815",Z,151,,B,m,"7, 8, 9, 10, 17, 19, 22, 25","2011 (9, 10, 19)"
+PROPCAR,Protoptilum carpenteri,"K?lliker, 1872",,,,Ecn,,19,2014 (19)
+PROSSPP,Prosobranchia,"Milne-Edwards, 1848",R,p. 231,,Emg,0,"1, 5, 6, 7",
+PROTINT,Protula intestinum,"(Savigny, 1818)",,,,Epo,,16,2013 (16)
+PROTTUB,Protula tubularia,"(Montagu, 1803)",,,,Epo,,16,2013 (16)
+PSAMMIC,Psammechinus microtuberculatus,"(Blainville, 1825)",RT,"p. 558 Tav. 221, 333",,Eec,0,"1, 5, 6, 9, 11, 16, 19",
+PSEAFER,Pseudaphya ferreri,"(De Buen & Fage, 1908)",C,162.23.1,,Ao,m,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+PSECGRY,Pseudochama gryphina,"(Lamarck, 1819)",,,,Emb,,16,2013 (16)
+PSEDCER,Pseudosquillopsis cerisii,"(Roux, 1828)",R,p. 426 Tav. 167,,Bst,m,19,2011 (19)
+PSEMCLA,Pseudamussium clavatum,"(Poli, 1795)",,,,Emb,,16,2013 (16)
+PSENPEL,Psenes pellucidus,"L?tken, 1880",C / G,177.3.2 / 188,AL,Ao,0,5,
+PSEOCYR,Pseudodistoma cyrnusense,"P?r?s, 1952 ",,,,Etu,,5,2013 (5)
+PSEOSPP,Pseudodistoma spp.,"Michelsen, 1924",,,,Etu,0,8,
+PSEOVAL,Pseudodistoma valeriae,"Brunetti, 2009",,,,Etu,0,"7, 8",
+PSETMAX,Scophthalmus maximus,"(Linnaeus, 1758)",C,195.4.1,a44,Ao,0,"1, 6, 7, 8, 9, 10, 11, 16, 17, 18, 20, 22",
+PSEUSYR,Ocnus syracusanus,"Panning, 1949",T,80s,e27,Eec,0,"10, 16, 18",2011 (18)
+PSEVCAR,Pseudosimnia carnea,"(Poiret, 1789)",,,,Emg,m,"1, 6, 10, 16",
+PSEVSPP,Pseudosimnia spp.,"Schilder, 1927",R,252,,Emg,,"7, 8",2017
+PTEAPEL,Pteragogus pelycus,"Randall, 1981",G,162,? AL,Ao,0,25,
+PTEDSPI,Pteroeides spinosum,"(Ellis, 1764)",R,p. 174 Tav. 64,,Ecn,0,"1, 5, 6, 7, 8, 9, 10, 16, 18, 19","2011 (9, 10, 18, 19)"
+PTEDSPP,Pteroeides spp.,"Herklots, 1858",,,,Ecn,,"7, 8","2013 (7, 8)"
+PTEOBOV,Pteromylaeus bovinus,"(Geoffroy Saint-Hilaire, 1817)",C,23.2.1,,Ae,0,"10, 16, 17, 19",
+PTERHIR,Pteria hirundo,"(Linnaeus, 1758)",F,PTER,,Emb,0,"1, 2, 5, 6, 7, 9, 10, 16, 18, 19",
+PTROMIL,Pterois miles,"(Bennett, 1828)",G,94,AL,Ao,0,25,2017
+PUNTPUN,NO               Diplodus puntazzo,"(Walbaum, 1792)",C,139.8.1,a20,Ao,0,"1, 6, 8, 9, 11, 16, 17, 22, 23",
+PYROATL,Pyrosoma atlanticum,"P?ron, 1804",R,p. 599 Tav. 240,,Etu,0,"1, 2, 5, 6, 9, 11, 19","2011 (9, 19)"
+PYROSPP,Pyrosoma,"P?ron, 1804",R,p. 599,,Etu,0,"9, 11",2011 (9)
+PYRTMAR,Pyroteuthis margaritifera,"(R?ppell, 1844)",FP,"ENOP, 126",,C,0,"19, 22",2011 (19)
+PYURDAE,Pyuridae,,R,594,,Etu,1,25,2018
+PYURDUR,Pyura dura,"(Heller, 1877)",F,PYUR,,Etu,0,"1, 5, 18, 19",2011 (18)
+PYURMIC,Pyura microcosmus,"(Savigny, 1816)",F,PYUR,,Etu,0,"1, 5, 10, 16, 18, 19","2011 (18, 19)"
+PYURSPP,Pyura spp.,"Molina, 1782",F,PYUR,,Etu,0,18,2011 (18)
+PYURTES,Pyura tessellata,"(Forbes, 1848)",,,,Etu,,5,2013 (5)
+RAJAALB,Rostroraja alba,"(Lacep?de, 1803)",C,21.1.18,a45,Ae,0,"5, 8, 15, 16, 17, 22",
+RAJAAST,Raja asterias,"Delaroche, 1809",C,21.1.2,,Ae,0,"1, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22, 23, 25",
+RAJABAT,Dipturus batis,"(Linnaeus, 1758)",C,21.1.10,a46,Ae,0,"2, 8, 9, 16",
+RAJABRA,Raja brachyura,"Lafont, 1871",C,21.1.3,,Ae,0,"5, 7, 8, 11, 15, 16, 20, 22, 25",
+RAJACIR,Leucoraja circularis,"(Couch, 1838)",C,21.1.14,a47,Ae,0,"1, 2, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 19, 22, 25",
+RAJACLA,Raja clavata,"Linnaeus, 1758",C,21.1.4,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 20, 22, 23, 25",
+RAJAEGG,Eggs capsules of Rajidae,,,,,G,,"10, 11, 18","2011 (10, 18)"
+RAJAFUL,Leucoraja fullonica,"(Linnaeus, 1758)",C,21.1.13,a48,Ae,0,"7, 8, 9, 15, 16, 18, 19, 22, 25",
+RAJAMEL,Leucoraja melitensis,"(Clark, 1926)",C,21.1.21,a49,Ae,0,"1, 2, 15, 16, 17, 22",
+RAJAMIR,Raja miraletus,"Linnaeus, 1758",C,21.1.1,,Ae,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+RAJAMON,Raja montagui,"Fowler, 1910",C,21.1.7,,Ae,0,"1, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 20, 22, 25",
+RAJANAE,Leucoraja naevus,"(M?ller & Henle, 1841)",C,21.1.15,a50,Ae,0,"1, 2, 5, 6, 7, 8, 16, 20, 22",
+RAJANID,Dipturus nidarosiensis,"(Storm, 1881)",C,21.1.11,a51,Ae,0,"11, 18",2014 (11)
+RAJAOXY,Dipturus oxyrinchus,"(Linnaeus, 1758)",C,21.1.12,a52,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+RAJAPOL,Raja polystigma,"Regan, 1923",C,21.1.22,,Ae,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+RAJARDA,Raja radula,"Delaroche, 1809",C,21.1.23,,Ae,0,"1, 5, 6, 8, 15, 16, 20, 22, 23, 25",
+RAJASPP,Raja spp.,"Linnaeus, 1758",C,21.1.12,,Ae,0,"6, 7, 8, 9, 11, 16, 17, 19, 22, 25",
+RAJAUND,Raja undulata,"Lacep?de, 1802",C,21.1.25,,Ae,0,"15, 16, 20, 22",
+RASPSPP,Raspailia spp.,"Nardo, 1833",R,114,,Esp,0,18,2013 (18)
+RASPTYP,Raspailia viminalis,"Schmidt, 1862",R,114,e28,Esp,0,"1, 2, 5, 6, 18","2013 (1, 2, 5, 6)"
+REGAGLE,Regalecus glesne,"Ascanius, 1772",C,106.1.1,,Ao,0,7,
+RETEBEA,Reteporella beaniana,"(King, 1846)",,,?,Ebr,,"1, 2, 5",2014
+RETEGRI,Reteporella grimaldii ,"(Jullien, 1903)",,,,Ebr,,"1, 5, 16","2013 (1, 5)"
+RETESPP,Reteporella spp.,"Busk, 1884",,,,Ebr,,7,2013 (7)
+RHIPMAR,Rhinoptera marginata,"(Geoffroy Saint-Hilaire, 1817)",C,24.1.1,,Ae,0,17,
+RHIZPYR,Rhizaxinella pyrifera,"(Delle Chiaje, 1828)",R,p. 112 Tav. 37,,Esp,0,"9, 16, 18","2011 (9, 18)"
+RHODEAE,Rhodymeniaceae,"Harvey, 1849",R,62,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+RHOPSPP,Rhodophyllis spp.,"K?tzing, 1847 ",,,,V,,"1, 6","2013 (1, 6)"
+RHYNHEP,Rhynchogadus hepaticus,"(Facciol?, 1884)",C,103.9.1,,Ao,0,"6, 16",
+RHYSOLI,Chiton olivaceus,"Spengler, 1797",R,226,e29,Emp,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+RHYSSPP,Chiton spp.,"Thiele, 1893",R,226,e30,Emp,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+RICHFRE,Richardina fredericii,"Lo Bianco, 1903",Z,68,,B,m,"1, 6",
+RISSDES,Rissoides desmaresti,"(Risso, 1816)",F,"185, SQUIL",,Bst,m,"5, 6, 9, 10, 11, 16, 17, 18, 19, 20, 22",
+RISSPAL,Rissoides pallidus,"(Giesbrecht, 1910)",F,"185, SQUIL",,Bst,m,"1, 6, 9, 10, 11, 16, 17, 18, 19, 20, 22",
+RISSSPP,Rissoides spp.,"Manning & Lewinsohn, 1982",F,"185, 182",,Bst,,"6, 16",2013 (6)
+RIZOPUL,Rhizostoma pulmo,"(Macri, 1778)",R,p. 155 Tav. 57,,Ecn,0,"1, 9, 10, 18","2011 (9, 18)"
+ROCHCAR,Rochinia carpenteri,"(Wyville Thomson, 1873)",Z,464,?,B,m,"1, 2",
+RODRPIN,Rodriguezella pinnata,"Schmitz, 1901 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+RODRSPP,Rodriguezella spp.,"Schmitz, 1895 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+RODRSTR,Rodriguezella strafforelloi,"Schmitz, 1895 ",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+RONDMIN,Rondeletiola minor,"(Naef, 1912)",FP,"SEPIOL, 92",,C,0,"1, 2, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+ROPANEO,Rhopalaea neapolitana,Philippi 1843,,,,Etu,0,8,
+ROSSMAC,Rossia macrosoma,"(Delle Chiaje, 1830)",FP,"SEPIOL Ross 1, 83",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ROSSSPP,Rossia spp.,"Owen, 1834",P,83,,C,0,22,2014 (22)
+ROSTRUB,Rostanga rubra,"(Risso, 1818)",,,,Emo,0,7,2015
+RUVEPRE,Ruvettus pretiosus,"Cocco, 1833",C,153.7.1,,Ao,0,16,2014 (16)
+RYTITIN,Rytiphlaea tinctoria,"C. Agardh, 1824",R,68,,V,,5,2013 (5)
+SABEPAV,Sabella pavonina,"Savigny, 1822",R,389 Tav 150,,Epo,,5,2013 (5)
+SABESPA,Sabella spallanzanii,"(Gmelin, 1791)",R,389 Tav 150,,Epo,,"5, 6, 16",2013 (5)
+SABESPP,Sabella spp.,"Linnaeus, 1767",R,389,,Epo,,5,2013 (5)
+SABLDAE,Sabellidae,"Latreille, 1825",R,389,,Epo,,5,2013 (5)
+SADASAR,Sarda sarda,"(Bloch, 1793)",C,158.4.1,,Ao,0,"6, 9, 11, 17, 18",
+SAGAELE,Sagartia elegans,"(Dalyell, 1848)",R,p. 167 Tav. 60,,Ecn,0,"10, 18 ","2011 (10, 18)"
+SALOTRU,Salmo trutta trutta,"Linnaeus, 1758",C,45.1.2,,Ao,0,17,
+SALPDAE,Salpidae,,R,601,,Etu,0,7,2018
+SALPFUS,Salpa fusiformis,"Cuvier, 1804",R,601 Tav 241,,Etu,0,8,
+SALPMAX,Salpa maxima,"Forssk?l, 1775 ",R,601 Tav 241,,Etu,,"1, 5, 6","2013 (1, 5, 6)"
+SALPSPP,Salpa spp.,"Forssk?l, 1775 ",R,601 Tav 241,,Etu,,"5, 6, 16","2013 (5, 6)"
+SALVCLA,Salvatoria clavata,"(Clapar?de, 1863)",,,,Epo,,1,2013 (1)
+SARCFOE,Sarcotragus foetidus,"Schmidt, 1862",,,,Esp,0,"16, 19",2011 (19)
+SARCSPI,Sarcotragus spinosulus,"Schmidt, 1862",,,,Esp,0,25,2018
+SARCSPP,Sarcotragus spp.,"Schmidt, 1862",,,,Esp,0,25,2018
+SARDPIL,Sardina pilchardus,"(Walbaum, 1792)",C,33.3.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SARGHOR,Sargassum hornschuchii,"C. Agardh, 1820 ",,,,V,,18,2013 (18)
+SARGVUL,Sargassum vulgare,"C. Agardh, 1820 ",R,44 Tav 16,,V,1,25,2018
+SARIAUR,Sardinella aurita,"Valenciennes, 1847",C,33.4.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SARIMAD,Sardinella maderensis,"(Lowe, 1838)",C,33.4.2,,Ao,0,20,
+SARORUB,Sargocentron rubrum,"(Forssk?l, 1775)",G,92-93,? AL,Ao,0,25,2015
+SARPSAL,Sarpa salpa,"(Linnaeus, 1758)",C,139.9.1,,Ao,0,"7, 8, 9, 11, 22",
+SAURUND,Saurida undosquamis,"(Richardson, 1848) ",G,68,? AL,Ao,0,25,2012 (25)
+SAXIJEF,Saxicavella jeffreysi,"Winckworth, 1930",,,,Emb,,16,2013 (16)
+SCAEUNI,Scaeurgus unicirrhus,"(Delle Chiaje, 1841)",FP,"OCT Scae 1, 241",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCAHODA,Scaphopoda ,"Bronn, 1862",R,309,,Esc,,20,2015 (20)
+SCALSCA,Scalpellum scalpellum,"(Linnaeus, 1767)",R,p. 417 Tav. 162,,Bci,m,"1, 5, 6, 10, 16, 18, 19",
+SCAPNIG,Scaphander lignarius,"(Linnaeus, 1758)",R,p. 275 Tav. 106,,Dmg,0,"1, 2, 5, 6, 9, 10, 11, 16, 17, 18, 19",
+SCASSCA,Scalarispongia scalaris,"(Schmidt, 1862)",,,,Esp,,"18, 19",2013 (18)
+SCHEMED,Schedophilus medusophagus,"(Cocco, 1839)",C,176.3.1,,Ao,0,"2, 5, 9, 10, 16","2011 (9, 10)"
+SCHEOVA,Schedophilus ovalis,"(Cuvier, 1833)",C,176.3.2,,Ao,0,"1, 5, 8, 9, 11, 17",
+SCHICAN,Ova canaliferus,"(Lamarck, 1816)",RT,"p. 561 Tav. 222, 369s",e31,Eec,0,"6, 9, 10, 16, 18, 19","2011 (9, 18)"
+SCHOMAM,Schizomavella mamillata,"(Hincks, 1880)",,,,Ebr,,19,2014 (19)
+SCHOSPP,Schizomavella spp.,"Canu & Bassler, 1917",,,,Ebr,,18,2015
+SCHZSAN,Schizobrachiella sanguinea,"(Norman, 1868)",R,527 Tav 209,,Ebr,,16,2013 (16)
+SCIAUMB,Sciaena umbra,"Linnaeus, 1758",C,137.1.1,,Ao,0,"6, 15, 16, 19",
+SCOBSAU,Scomberesox saurus saurus,"(Walbaum, 1792)",C,91.1.1,,Ao,0,"9, 10, 22",
+SCOHRHO,Scophthalmus rhombus,"(Linnaeus, 1758)",C,195.1.1,,Ao,0,"1, 6, 7, 8, 9, 11, 15, 17, 18, 19, 20, 22",
+SCOMPNE,Scomber colias,"Gmelin, 1789",C,156.1.2,a53,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCOMSCO,Scomber scombrus,"Linnaeus, 1758",C,156.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCOMSPP,Scomber spp.,"Linnaeus, 1758",C,156.1,,Ao,0,"6, 15, 16, 17",2013 (6)
+SCORELO,Scorpaena elongata,"Cadenat, 1943",C,184.1.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCORLOP,Scorpaena loppei,"Cadenat, 1943",C,184.1.5,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 11, 16",
+SCORMAD,Scorpaena maderensis,"Valenciennes, 1833",C,184.1.6,,Ao,0,"7, 22",
+SCORNOT,Scorpaena notata,"Rafinesque, 1810",C,184.1.7,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCORPOR,Scorpaena porcus,"Linnaeus, 1758",C,184.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCORSCO,Scorpaena scrofa,"Linnaeus, 1758",C,184.1.8,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCORSPP,Scorpaena spp.,"Linnaeus, 1758",C,184.1,,Ao,0,"1, 7, 8, 10, 11, 15, 16, 17, 20, 22, 25",2011 (10)
+SCRUSCR,Scrupocellaria scrupea,"Busk, 1852",,,,Ebr,,"10, 18","2013 (10, 18)"
+SCYLARC,Scyllarus arctus,"(Linnaeus, 1758)",F,SCYL Scylr 1,,B,m,"1, 5, 6, 7, 9, 19, 22, 25",
+SCYLCAP,Scyllarus caparti,"Holthuis, 1952",Y,76,AL,B,m,25,2014 (25)
+SCYLLAT,Scyllarides latus,"(Latreille, 1803)",F,SCYL Scyld 1,,B,m,"5, 6, 9, 11, 16, 19, 20, 25",
+SCYLPYG,Scyllarus pygmaeus,"(Bate, 1888)",F,SCYL Scylr 2,,B,m,"2, 5, 6, 18, 19, 22",
+SCYMLIC,Dalatias licha,"(Bonnaterre, 1788)",C,16.4.3,a54,Ae,0,"1, 2, 5, 6, 7, 8, 9, 11, 10, 15, 16, 17, 18, 19, 20, 22",
+SCYOCAN,Scyliorhinus canicula,"(Linnaeus, 1758)",C,11.1.1,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SCYOEGG,Eggs capsules of Scyliorhinidae,,,,,G,,"10, 18","2013 (10, 18)"
+SCYOSTE,Scyliorhinus stellaris,"(Linnaeus, 1758)",C,11.1.2,,Ae,0,"6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22, 25",
+SEBDSPP,Sebdenia spp.,"Berthold, 1882",,,,V,,5,2013 (5)
+SEPENEG,Sepietta neglecta,"Naef, 1916",FP,"SEPIOL, 106",,C,0,"5, 6, 9, 10, 15, 16, 17, 20, 22",
+SEPEOBS,Sepietta obscura,"Naef, 1916",FP,"SEPIOL, 103",,C,0,"6, 10, 15, 16, 17, 18",
+SEPEOWE,Sepietta oweniana,"(d'Orbigny, 1841)",FP,"SEPIOL, 104",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+SEPESPP,Sepietta spp.,"Naef, 1912",FP,"SEPIOL, 103",,C,0,"5, 8, 9, 10, 11, 16, 17, 18, 20, 22, 25",
+SEPIEGG,Eggs capsules of Sepiidae,,,,,G,,"10, 18, 19","2013 (10, 18)"
+SEPIELE,Sepia elegans,"Blainville, 1827",FP,"SEP Sep 3, 79",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SEPIOFF,Sepia officinalis,"Linnaeus, 1758",FP,"SEP Sep 1, 77",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SEPIORB,Sepia orbignyana,"F?russac, 1826",FP,"SEP Sep 4, 80",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SEPISPP,Sepia spp.,"Linnaeus, 1758",FP,"SEP Sep 1, 76",,C,0,"1, 6, 7, 8, 9, 15, 16, 17",
+SEPLDAE,Sepiolidae,"Leach, 1817",P,82,,C,0,"1, 2, 5, 6, 15, 25","2013 (1, 2, 5, 6)"
+SEPOAFF,Sepiola affinis,"Naef, 1912",FP,"SEPIOL, 99",,C,0,"6, 10, 15, 16, 17, 18, 19, 20, 22",
+SEPOINT,Sepiola intermedia,"Naef, 1912",FP,"SEPIOL, 100",,C,0,"1, 6, 7, 9, 10, 16, 17, 18, 19, 20, 22",
+SEPOLIG,Sepiola ligulata,"Naef, 1912",FP,"SEPIOL, 97",,C,0,"6, 9, 10, 15, 16, 17, 19, 20, 22",
+SEPOROB,Sepiola robusta,"Naef, 1912",FP,"SEPIOL, 97",,C,0,"1, 5, 6, 7, 9, 17, 18, 19, 20, 22",
+SEPORON,Sepiola rondeletii,"Leach, 1817",FP,"SEPIOL, 99",,C,0,"7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 22",
+SEPOSPP,Sepiola spp.,"Leach, 1817",FP,"SEP, 92",,C,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SERAATR,Serranus atricauda,"G?nther, 1874",C,124.1.2,?,Ao,0,22,
+SERACAB,Serranus cabrilla,"(Linnaeus, 1758)",C,124.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SERAHEP,Serranus hepatus,"(Linnaeus, 1758)",C,124.1.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SERASCR,Serranus scriba,"(Linnaeus, 1758)",C,124.1.4,,Ao,0,"8, 9, 10, 11, 16, 17, 18, 20, 22, 25",
+SEREDAE,Sergestidae,"Dana, 1852",Z,59,,B,,"9, 17, 19, 20, 22, 25",2012 (25)
+SERGARC,Eusergestes arcticus,"(Kr?yer, 1855)",Z,61,b32,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 18, 20, 22",
+SERGROB,Sergia robusta,"(Smith, 1882)",Z,61,b33,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 16, 19, 20, 22",
+SERGSAR,Allosergestes sargassi,"(Ortmann, 1893) ",Z,62,b34,B,m,"1, 5, 6, 9, 10, 20",
+SERGSPP,Sergestes spp.,"Milne-Edwards, 1830",,,,B,0,"7, 8",
+SERIDUM,Seriola dumerili,"(Risso, 1810)",C,131.9.1,,Ao,0,"6, 9, 10, 11, 17, 19, 22",
+SERPSPP,Serpula spp.,"Linnaeus, 1758",R,387,,Epo,,10,2013 (10)
+SERPVER,Serpula vermicularis,"Linnaeus, 1767 ",R,387 Tav 149,,Epo,,"5, 16, 19",2013 (5)
+SERRDAE,Serranidae,"Swainson, 1839",C,124a,,Ao,0,16,2014 (16)
+SERTCRA,Sertularella crassicaulis,"(Heller, 1868)",,,,Ecn,,10,2013 (10)
+SERTGAY,Sertularella gayi,"(Lamouroux, 1821)",,,,Ecn,0,7,
+SERTSPP,Sertularella spp.,"Gray, 1848",R,131,,Ecn,,"16, 18",2013 (16)
+SERUDAE,Serpulidae,"Rafinesque, 1815",R,387,,Epo,,"5, 9",2013 (5)
+SHELDEB,Shell drebis,,,,,G,,10,2011 (10)
+SICYCAR,Sicyonia carinata,"(Br?nnich, 1768)",Z,57,,B,m,"11, 15, 16, 17, 19",2011 (19)
+SIGALUR,Siganus luridus,"(R?ppell, 1829)",G,178,AL,Ao,0,25,2012 (25)
+SIGARIV,Siganus rivulatus,"Forssk?l & Niebuhr, 1775",G,180,? AL,Ao,0,"22, 25",2012 (25)
+SIGLDAE,Sigalionidae,,R,366 Tav 82,,Epo,0,7,2018
+SIPHRAE,Siphonophorae,"Eschscholtz, 1829",,,,Ecn,0,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+SIPNDAE,Sipunculidae,"Rafinesque, 1814",R,216,,Esi,0,"1, 5, 6","2013 (1, 5, 6)"
+SIPUNUD,Sipunculus nudus,"Linnaeus, 1766 ",R,216,,Esi,0,5,2013 (5)
+SIPUPHY,Sipuncula,,R,214,,Esi,0,"7, 8",2017
+SIPUSPP,Sipunculus spp.,"Linnaeus, 1766",,,,Esi,,7,2015 (7)
+SMITCER,Smittina cervicornis,"(Pallas, 1766) ",,,,Ebr,,5,2014 (5)
+SOESZON,Soestia zonaria,"(Pallas, 1774)",,,,Etu,0,"7, 8",
+SOLCSCO,Solecurtus scopula,"(Turton, 1822)",,,,Emb,,16,2013 (16)
+SOLCSPP,Solecurtus spp.,"Blainville, 1824",,,,Dmb,0,7,
+SOLCSTR,Solecurtus strigilatus,"(Linnaeus, 1758)",,,,Emb,,10,2013 (10)
+SOLEIMP,Pegusa impar,"(Bennett, 1831)",C,198.1.2,a55,Ao,0,"5, 7, 9, 11, 16, 17, 18, 20",
+SOLEKLE,Synapturichthys kleinii,"(Risso, 1827)",C,198.1.3,a56,Ao,0,"5, 8, 11, 16, 17, 20, 22",
+SOLELAS,Pegusa lascaris,"(Risso, 1810)",C,198.1.4,a57,Ao,0,"1, 7, 9, 10, 11, 15, 16, 17, 22",
+SOLESEN,Solea senegalensis,"Kaup, 1858",C / G,198.1.6 / 194,?,Ao,0,"1, 6",
+SOLESPP,Solea spp.,"Quensel, 1806",C,198.1,,Ao,0,"7, 8, 15, 16, 17, 19, 20, 22",2011 (19)
+SOLEVUL,Solea solea,"(Linnaeus, 1758)",C,198.1.1,a58,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SOLOMEM,Solenocera membranacea,"(Risso, 1816)",F,SOLENO Soleno,,B,m,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22",
+SPARAUR,Sparus aurata,"Linnaeus, 1758",C,139.1.1,,Ao,0,"1, 6, 7, 9, 10, 11, 16, 17, 18, 19, 20, 22",
+SPARCAE,Pagrus caeruleostictus,"(Valenciennes, 1830)",C,139.11.2,a59,Ao,0,18,
+SPARPAG,Pagrus pagrus,"(Linnaeus, 1758)",C,139.11.3,a60,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SPASCRE,Sparisoma cretense,"(Linnaeus, 1758)",C,152.1.1,,Ao,0,25,2012 (25)
+SPATINE,Spatangus subinermis,"Pomel, 1887",T,357s,e32,Eec,0,18,2013 (18)
+SPATPUR,Spatangus purpureus,"O.F. M?ller, 1776",RT,"p. 559 Tav. 222, 352",,Eec,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19","2011 (9, 18)"
+SPHAGRA,Sphaerechinus granularis,"(Lamarck, 1816)",FT,"TOX Sphaer 1, 323",,Eec,0,"1, 5, 6, 11, 16, 18, 19",2011 (18)
+SPHENIT,Sphaerozius nitidus,"Stimpson, 1858",,WoRMS,?,B,,1,2013 (1)
+SPHOCUT,Sphoeroides pachygaster,"(M?ller & Troschel, 1848)",C / G,204.3.2 / 208,a61 AL,Ao,0,"1, 6, 15, 16, 18, 19, 20, 25",
+SPHRCOR,Sphaerococcus coronopifolius,"Stackhouse, 1797 ",,,,V,,5,2013 (5)
+SPHRRHI,Sphaerococcus rhizophylloides,"Rodr?guez & Femen?as, 1895 ",,,?,V,,5,2013 (5)
+SPHYCHR,Sphyraena chrysotaenia,"Klunzinger, 1884",G,156,,Ao,,25,2016
+SPHYSPY,Sphyraena sphyraena,"(Linnaeus, 1758)",C,180.1.1,? AL,Ao,0,"1, 6, 7, 9, 10, 16, 17, 18, 19, 20, 22, 23",
+SPICFLE,Spicara flexuosa,"Rafinesque, 1810 ",C,141.2.2,,Ao,0,"1, 2, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SPICMAE,Spicara maena,"(Linnaeus, 1758)",C,141.2.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SPICSMA,Spicara smaris,"(Linnaeus, 1758)",C,141.2.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SPICSPP,Spicara spp.,"Rafinesque, 1810",C,141.2,,Ao,0,"7, 8",
+SPISSOL,Spisula solida,"(Linnaeus, 1758)",,,?,Dmb,,"1, 2","2014 (1, 2)"
+SPISSPP,Spisula spp.,"Gray, 1837",F,MACTR,,Emb,0,"1, 6",
+SPISSUB,Spisula subtruncata,"(Da Costa, 1778)",F,MACTR,,Emb,0,6,
+SPOADAE,Spongiidae,"Gray, 1867",R,120,,Esp,0,5,2013 (5)
+SPODCAN,Spondyliosoma cantharus,"(Linnaeus, 1758)",C,139.10.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 22",
+SPOGFRU,Spongites fruticulosa,"K?tzing, 1841",,,,V,,5,2013 (5)
+SPONOFF,Spongia officinalis,"Linnaeus, 1759",F R,"SPONG Spong 1a, 120",,Esp,0,"5, 11, 16, 19",2011 (19)
+SPRASPR,Sprattus sprattus,"(Linnaeus, 1758)",C,33.5.1,,Ao,0,"6, 7, 8, 16, 17, 18, 19, 20, 22",
+SQUAACA,Squalus acanthias,"Linnaeus, 1758",C,16.1.1,,Ae,0,"1, 5, 6, 7, 8, 9, 10, 11, 16, 17, 18, 20, 22, 23, 25",
+SQUABLA,Squalus blainville,"(Risso, 1827)",C,16.1.2,,Ae,0,"5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+SQUIMAN,Squilla mantis,"(Linnaeus, 1758)",F,SQUIL Squil 5,,Bst,m,"1, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SQUTACU,Squatina aculeata,"Cuvier, 1829",C,17.1.2,,Ae,0,"8, 15, 22",
+SQUTOCL,Squatina oculata,"Bonaparte, 1840",C,17.1.3,,Ae,0,"15, 22",
+SQUTSPP,Squatina spp.,"Dum?ril, 1806",C,17.1,,Ae,0,8,
+SQUTSQU,Squatina squatina,"(Linnaeus, 1758)",C,17.1.1,,Ae,0,"7, 8, 15",
+STENSPI,Stenopus spinosus,"Risso, 1827",Z,66,,B,m,"9, 20, 22",2011 (9)
+STEPDIA,Stephanolepis diaspros,"Fraser-Brunner, 1940",C / G,202.1.2 / 200,AL,Ao,0,"22, 25",
+STERSCU,Sternaspis scutata,"(Ranzani, 1817)",R,p. 383 Tav. 147,,Epo,0,"1, 9, 10, 16, 18","2011 (9, 10)"
+STIBMOO,Stibarobdella moorei,"(Oka, 1910)",,,? ?,Ehi,0,25,2018
+STICREG,Parastichopus regalis,"(Cuvier, 1817)",FT,"STICH Stich 1, 66s",e33,Eec,0,"1, 2, 5, 6, 9, 10, 11, 15, 16, 17, 18, 19",
+STOLLEU,Stoloteuthis leucoptera,"(Verrill, 1878)",FP,"SEPIOL, 89",,C,0,"1, 6, 9",
+STOMBOA,Stomias boa boa,"(Risso, 1810)",C,41.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 25",
+STROFIA,Stromateus fiatola,"Linnaeus, 1758",C,179.1.1,,Ao,0,"6, 9, 16, 19",
+STYECAN,Styela canopus,"(Savigny, 1816)",,,,Etu,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+STYEPLI,Styela plicata,"(Lesueur, 1823)",R,593 Tav 237,,Etu,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+STYESPP,Styela spp.,"Fleming, 1822",F,STYEL,,Etu,0,18,2011 (18)
+STYLAFF,Stylocidaris affinis,"(Philippi, 1845)",RT,"p. 555 Tav. 221, 305",,Eec,0,"5, 9, 10, 11, 15, 16, 18","2011 (10, 18)"
+SUBECAR,Suberites carnosus,"(Johnston, 1842)",R,p. 111 Tav. 37,,Esp,0,7,
+SUBEDOM,Suberites domuncula,"(Olivi, 1792)",R,p. 111 Tav. 37,,Esp,0,"1, 2, 5, 6, 9, 10, 11, 16, 17, 18, 19",
+SUBEFIC,Suberites ficus,"(Johnston, 1842)",,,,Esp,,"7, 8, 22","2013 (7, 8)"
+SUBESPP,Suberites spp.,"Nardo, 1833",R,p. 111,,Esp,0,"9, 17, 18, 19",
+SUDIHYA,Sudis hyalina,"Rafinesque, 1810",C,63.5.1,,Ao,0,"10, 15, 16, 18, 19, 22, 25","2011 (10, 18, 19)"
+SYMBVER,Symbolophorus veranyi,"(Moreau, 1888)",C,58.19.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19, 20, 22",
+SYMDCIN,Symphodus cinereus,"(Bonnaterre, 1788)",C,145.9.3,,Ao,0,"1, 5, 8, 9, 10, 11, 15, 16, 17, 19, 22, 25",
+SYMDDOD,Symphodus doderleini ,"Jordan, 1890",C,145.9.5,,Ao,0,"11, 25","2014 (11, 25)"
+SYMDMED,Symphodus mediterraneus,"(Linnaeus, 1758)",C,145.9.6,,Ao,0,"8, 11, 16, 17, 22, 25",
+SYMDOCE,Symphodus ocellatus,"(Linnaeus, 1758)",C,145.9.9,,Ao,0,"8, 9, 11, 25",
+SYMDROI,Symphodus roissali,"(Risso, 1810)",C,145.9.11,,Ao,0,"9, 10, 11, 17","2011 (9, 10)"
+SYMDROS,Symphodus rostratus,"(Bloch, 1791)",C,145.9.1,,Ao,0,"8, 25",
+SYMDSPP,Symphodus spp.,"Rafinesque, 1810",C,145.9,,Ao,0,"11, 17, 20, 22","2014 (11, 17, 20, 22)"
+SYMDTIN,Symphodus tinca,"(Linnaeus, 1758)",C,145.9.12,,Ao,0,"8, 11, 22, 25",
+SYMPLIG,Symphurus ligulatus,"(Cocco, 1844)",C,199.2.2,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22",
+SYMPNIG,Symphurus nigrescens,"Rafinesque, 1810",C,199.2.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SYMPSPP,Symphurus spp.,"Rafinesque, 1810",C,199.2,,Ao,0,"11, 16, 20, 22","2014 (11, 20, 22)"
+SYNAGAM,Synalpheus gambarelloides,"(Nardo, 1847)",Z,141,,B,m,22,2014 (22)
+SYNDSAU,Synodus saurus,"(Linnaeus, 1758)",C,51.1.2,,Ao,0,"1, 5, 6, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 23, 25",
+SYNGABA,Syngnathus abaster,"Risso, 1827",C,97.1.2,,Ao,0,16,2014 (16)
+SYNGACU,Syngnathus acus,"Linnaeus, 1758",C,97.1.1,,Ao,0,"1, 5, 6, 7, 8, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+SYNGPHL,Syngnathus phlegon,"Risso, 1827",C,97.1.3,,Ao,0,"6, 17, 22",
+SYNGSPP,Syngnathus spp.,"Linnaeus, 1758",C,97.1,,Ao,0,"7, 11, 17, 18, 20, 22",2011 (18)
+SYNGTAE,Syngnathus taenionotus,"Canestrini, 1871",C,97.1.6,,Ao,0,"7, 22",
+SYNGTEN,Syngnathus tenuirostris,"Rathke, 1837  ",C,97.1.7,,Ao,0,"17, 19",2011 (19)
+SYNGTYP,Syngnathus typhle,"Linnaeus, 1758",C,97.1.8,,Ao,0,"11, 17, 19, 22, 25",
+SYNOBLO,Synoicum blochmanni,"(Heiden, 1894) ",,,?,Etu,,5,2014 (5)
+SYNTDAE,Synaptidae,"Burmeister, 1837",T,101,,Eec,0,7,2015 (7)
+SYSTDEB,Systellaspis debilis,"(A. Milne-Edwards, 1881)",Z,93,?,B,m,7,2013 (7)
+TALOMUL,Talochlamys multistriata,"(Poli, 1795)",,,,Emb,,20,2015 (20)
+TECTFIL,Tectonatica sagraiana,"(d'Orbigny, 1842)",,,e34,Emg,,16,2013 (16)
+TELLALB,Tellina albicans,"Gmelin, 1791",,,,Dmb,,19,2014 (19)
+TELLCRA,Arcopagia crassa,"(Pennant, 1777)",,,d35,Dmb,,16,2013 (16)
+TELLFAB,Tellina fabula,"Gmelin, 1791",,,,Dmb,,16,2013 (16)
+TELLPLA,Tellina planata,"Linnaeus, 1758",,,,Dmb,,16,2013 (16)
+TELLSPP,Tellina spp.,"Linnaeus, 1758",F,TELL,,Dmb,0,"1, 6, 10",
+TELMFOR,Telmatactis forskali,"(Hemprich & Ehrenberg, 1834)",R,p. 166 Tav. 60,,Ecn,0,18,2011 (18)
+TENAOBT,Tenagodus obtusus,"(Schumacher, 1817)",,,,Emg,,16,2013 (16)
+TERBDAE,Terebellidae,,R,383,,Epo,m,7,2018
+TERENAV,Teredo navalis,"Linnaeus, 1758",R,346 Tav 132,,Emb,,"16, 19",2013 (16)
+TETAAUR,Tethya aurantium,"(Pallas, 1766)",R,p. 109 Tav. 36,,Esp,0,"1, 5, 6, 9, 18","2011 (9, 18)"
+TETACIT,Tethya citrina,"Sar? & Melone, 1965",R,p. 110 Tav. 36,,Esp,0,"16, 18",2011 (18)
+TETASPP,Thethya sp.,"Lamarck, 1815",R,101,,Esp,0,7,2017
+TETHFIM,Tethys fimbria,"Linnaeus, 1767",R,p. 292 Tav. 112,,Emo,0,"1, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19",
+TETYSUB,Tethyaster subinermis,"(Philippi, 1837)",T,145,,Eec,0,"1, 2, 5, 6, 9, 10, 15, 16, 18, 19","2011 (9, 10, 18)"
+THAIDEM,Thalia democratica,"(Forssk?l, 1775)",R,601 Tav 241,,Etu,,19,2014 (19)
+THALPAV ,Thalassoma pavo ,"(Linnaeus, 1758)",C,145.10.1,,Ao,0,17,2014 (17)
+THAMPOI,Thalamita poissonii,"(Audouin, 1826)",Y,118,? AL,B,m,"22, 25",
+THENMUR,Thenea muricata,"(Bowerbank, 1858)",R,p. 108 Tav. 35,,Esp,0,"1, 2, 5, 6, 9, 16, 18, 19",2011 (9)
+THIASCU,Thia scutellata,"(Fabricius, 1793) ",Z,343,,B,m,22,2014 (22)
+THRACON,Thracia convexa,"(W. Wood, 1815)",,,,Emb,0,7,
+THRAPHA,Thracia phaseolina,"(Lamarck, 1818)",,,,Emb,,"1, 16, 19","2013 (1, 16)"
+THRASPP,Thracia spp.,"Blainville, 1824",,,,Emb,,16,2013 (16)
+THYLARE,Thylacodes arenarius,"(Linnaeus, 1758)",,,,Emg,,20,2015 (20)
+THYNFUS,Thyone fusus,"(O.F. M?ller, 1776)",T,"p 88, 88s",,Eec,0,"16, 18","2013 (16, 18)"
+THYNSPP,Thyone sp.,"Oken, 1815",T,p 88,,Eec,0,7,2017
+THYOELO,Leptopentacta elongata,"(D?ben & Koren, 1844)",RT,"p. 551 Tav. 218, 85s",e35,Eec,0,"1, 6, 7, 8, 9, 10, 16, 18","2011 (9, 18)"
+THYOSPP,Leptopentacta spp.,"Clark, 1938",T,83s,e36,Eec,0,16,2013 (16)
+THYOTER,Leptopentacta tergestina,"(M. Sars, 1857)",RT,"p. 551 Tav. 218, 83s",e37,Eec,0,"1, 5, 6, 9, 10, 16, 18",2011 (9)
+TODASAG,Todarodes sagittatus,"(Lamarck, 1798)",FP,"OMMAS Todarod, 172",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TODIEBL,Todaropsis eblanae,"(Ball, 1841)",FP,"OMMAS Todarod, 170",,C,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TONNGAL,Tonna galea,"(Linnaeus, 1758)",F,TONN Tonn 1,,Dmg,0,"6, 16, 18, 19",2011 (18)
+TORPMAR,Torpedo marmorata,"Risso, 1810",C,20.1.2,,Ae,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TORPNOB,Torpedo nobiliana,"Bonaparte, 1835",C,20.1.3,,Ae,0,"1, 2, 6, 7, 8, 9, 11, 15, 16, 17, 19, 20, 22, 25",
+TORPSPP,Torpedo spp.,"Houttuyn, 1764",C,20.1,,Ae,0,"7, 8, 11, 17",
+TORPTOR,Torpedo torpedo,"(Linnaeus, 1758)",C,20.1.1,,Ae,0,"1, 7, 8, 9, 10, 11, 16, 17, 18, 19, 20, 22, 25",
+TORQFLA,Torquigener flavimaculosus,"Hardy & Randall, 1983",G,210-11,? AL,Ao,0,25,2015
+TRACMED,Trachurus mediterraneus,"(Steindachner, 1868)",C,131.10.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TRACPIC,Trachurus picturatus,"(Bowdich, 1825)",C,131.10.4,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TRACTRA,Trachurus trachurus,"(Linnaeus, 1758)",C,131.10.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TRAHARA,Trachinus araneus,"Cuvier, 1829",C,148.1.2,,Ao,0,"6, 7, 8, 9, 11, 16, 17, 20, 22",
+TRAHDRA,Trachinus draco,"Linnaeus, 1758",C,148.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TRAHRAD,Trachinus radiatus,"Cuvier, 1829",C,148.1.3,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 11, 15, 16, 17, 18, 20, 22, 25",
+TRAPTRA,Trachipterus trachypterus,"(Gmelin, 1789)",C,107.1.1,,Ao,0,"6, 17, 22",2013 (6)
+TRARTRA,Trachyrincus scabrus,"(Rafinesque, 1810)",C,99.1.1,a62,Ao,0,"1, 2, 5, 6, 7, 8, 9, 11, 17, 18, 19, 25",
+TRAYCRI,Trachyscorpia cristulata echinata,"(K?hler, 1896)",C / G,184.7.1 / 98,? AL,Ao,0,"1, 2",
+TRIGLUC,Chelidonichthys lucerna,"(Linnaeus, 1758)",C,185.1.2,a63,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TRIGLYR,Trigla lyra,"Linnaeus, 1758",C,185.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+TRIILEP,Trichiurus lepturus,"Linnaeus, 1758",C,155.1.1,,Ao,0,25,
+TRILDAE,Triglidae,"Risso, 1826",C,185,,Ao,0,16,2014 (16)
+TRIOHOM,Tritonia hombergii,"Cuvier, 1803",,,?,Emo,,7,2013 (7)
+TRIPLAS,Trigloporus lastoviza,"(Bonnaterre, 1788)",C,185.5.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 18, 19, 20, 22, 23, 25",
+TRISCAP,Trisopterus capelanus,"(Lacep?de, 1800)",C,101.11.1,,Ao,0,"1, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23",
+TRISLUS,Trisopterus luscus,"(Linnaeus, 1758)",C,101.11.3,,Ao,0,"6, 7",
+TRITNOD,Charonia lampas,"(Linnaeus, 1758)",F,CYM Char 1,d36,Dmg,0,"1, 2, 5, 6, 7, 16",
+TRIVMON,Trivia monacha,"(Da Costa, 1778) ",,,,Emg,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+TROPMUR,Trophonopsis muricata,"(Montagu, 1803)",R,259 Tav 100,,Emg,,16,2013 (16)
+TROPSPP,Trophonopsis spp.,"Bucquoy, Dautzenberg & Dollfus, 1882",,,,Emg,,16,2013 (16)
+TUBPSPP,Tubulipora spp.,"Lamarck, 1816",,,,Ebr,,18,2014 (18)
+TUBUANN,Tubulanus annulatus,"(Montagu, 1804)",R,190 Tav 72,,Ene,,5,2013 (5)
+TUBUSPP,Tubulanus spp.,"Renier, 1804",R,190,,Ene,,7,2013 (7)
+TURRCOM,Turritella communis,"Risso, 1826",R,p. 246 Tav. 94,,Emg,0,"1, 5, 6, 9, 16, 17, 18",
+TURRSIM,Fusiturris similis,"(Bivona, 1838)",,,e38,Emg,0,"1, 2, 6, 16",
+TURRSPP,Turritella spp.,"Lamarck, 1799",F,"631, TURR",,Emg,0,"1, 5, 6, 17",
+TURRTUR,Turritella turbona,"Monterosato, 1877",F,632,,Emg,,"5, 16",2013 (5)
+TYPTSPO,Typton spongicola,"O.G. Costa, 1844",Z,176,,B,,"5, 6, 18","2013 (5, 6)"
+ULVAOLI,Umbraulva olivascens,"Furnari, 2006 ",,,v2,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+ULVASPP,Ulva spp.,"Linnaeus, 1753",,,,V,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+UMBAMED,Umbraculum umbraculum,"(Lightfoot, 1786)",R,p. 287 Tav. 111,e39,Emo,0,"1, 2, 5, 6",
+UMBRCAN,Umbrina canariensis,"Valenciennes, 1843",C,137.4.2,,Ao,0,"6, 15, 16",
+UMBRCIR,Umbrina cirrosa,"(Linnaeus, 1758)",C,137.4.1,,Ao,0,"6, 9, 17",
+UMBRRON,Umbrina ronchus,"Valenciennes, 1843",C,137.4.3,,Ao,0,6,
+UPENMOL,Upeneus moluccensis,"(Bleeker, 1855)",C / G,138.3.1 / 134,? AL,Ao,0,25,
+UPENPOR,Upeneus pori,"Ben-Tuvia & Golani, 1989",G,136,? AL,Ao,0,25,2012 (25)
+UPOGDEL,Upogebia deltaura,"(Leach, 1816)",Z,231,,B,0,"7, 8",2017
+UPOGPUS,Upogebia pusilla,"(Petagna, 1792)",Z,231,,B,m,22,2014 (22)
+UPOGSPP,Upogebia spp.,"Leach, 1814",Z,230,,B,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+UPOGTIP,Upogebia tipica,"(Nardo, 1869)",Z,231,,B,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+URANSCA,Uranoscopus scaber,"Linnaeus, 1758",C,149.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+VALOMAC,Valonia macrophysa,"K?tzing, 1843 ",R,23,,V,,5,2013 (5)
+VALOSPP,Valonia spp.,"C. Agardh, 1823",R,23,,V,,"7, 8","2013 (7, 8)"
+VALOUTR,Valonia utricularis," C. Agardh, 1823",R,23 24,,V,,5,2013 (5)
+VELEVEL,Velella velella,"(Linnaeus, 1758)",R,148 Tav 53,,Ecm,m,8,2015
+VENEDEC,Ruditapes decussatus,"(Linnaeus, 1758)",R,336 Tav 128,d37,Dmb,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+VENESPP,Venerupis spp.,"Lamarck, 1818",R,335,,Dmb,,"1, 2, 5, 6, 16",2013 (16)
+VENTHAL,Kirchenpaueria halecioides,"(Alder, 1859)",,,e40,Ecn,,16,2013 (16)
+VENUNUX,Venus nux,"Gmelin, 1791 ",,,,Dmb,,"1, 5, 6","2013 (1, 5, 6)"
+VENUSPP,Venus spp.,"Linnaeus, 1758",F,VEN,,Dmb,0,"1, 6",
+VENUVER,Venus verrucosa,"Linnaeus, 1758",F,"510, VEN Ven 1",,Dmb,0,"5, 6, 16, 19",
+VERECYN,Veretillum cynomorium,"(Pallas, 1766) ",R,174 Tav 64,,Ecn,,"1, 2, 5, 6","2013 (1, 2, 5, 6)"
+VERESPP,Veretillum spp.,"Cuvier, 1798",R,174,,Ecn,,7,2013 (7)
+VERMINF,Vermiliopsis infundibulum,"(Philippi, 1884)",,,,Epo,,18,2015
+VERTDAE,Veretillidae,"Herklots, 1858",R,174,,Ecn,,1,2013 (1)
+VINCATT,Vinciguerria attenuata,"(Cocco, 1838)",C,37.12.1,,Ao,0,"1, 6, 10, 11, 18, 19, 20, 22, 25",
+VINCPOW,Vinciguerria poweriae,"(Cocco, 1838)",C,37.12.3,,Ao,0,"1, 6, 8, 9, 22, 23",
+VINCSPP,Vinciguerria spp.,"Jordan & Evermann, 1896",C,37.12,,Ao,0,"6, 20",2013 (6)
+VIRGMIR,Virgularia mirabilis,"(M?ller, 1776) ",R,175 Tav 64,,Ecn,,"5, 6, 16","2013 (5, 6)"
+XANHDAE,Xanthidae,"MacLeay, 1838",Z,29 387,,B,,"1, 2, 5, 6, 25","2013 (1, 2, 5, 6)"
+XANTCOU,Monodaeus couchii,"(Couch, 1851)",Z,400,b35,B,m,"1, 2, 5, 6, 9, 10, 11, 16, 18, 19, 20, 22",
+XANTPIL,Xantho pilipes,"A. Milne-Edwards, 1867",Z,395,,B,m,"5, 10",2011 (10)
+XANTPOR,Xantho poressa,"(Olivi, 1792) ",Z,395,,B,,5,2014 (5)
+XANTSPP,Xantho spp.,"Leach, 1814",Z,394,,B,,"1, 6, 18","2013 (1, 6)"
+XENOCRI,Xenophora crispa,"(K?nig, 1825)",F,XENOPH,,Emg,m,"1, 2, 5, 6, 16",
+XIPHGLA,Xiphias gladius,"Linnaeus, 1758",C,161.1.1,,Ao,0,"5, 16",
+XYRINOV,Xyrichtys novacula,"(Linnaeus, 1758)",C,145.11.1,,Ao,0,"10, 11, 16, 19, 22, 25","2011 (10, 19)"
+ZANASPP,Zanardinia spp.,"Nardo, 1857",,,,V,,5,2014 (5)
+ZANATYP,Zanardinia typus,"Silva, 2000",,,,V,,"1, 2, 5, 6 ","2013 (1, 2, 5, 6)"
+ZENOCON,Zenopsis conchifer,"(Lowe, 1852)",C,120.2.1,? AL,Ao,0,1,"2002, 2016"
+ZEUSFAB,Zeus faber,"Linnaeus, 1758",C,120.1.1,,Ao,0,"1, 2, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 18, 19, 20, 22, 23, 25",
+ZONATOU,Zonaria tournefortii,"Montagne, 1846",R,36,,V,0,22,2015 (22)
+ZOSTOPH,Zosterisessor ophiocephalus,"(Pallas, 1814)",C,162.26.1,,Ao,0,7,

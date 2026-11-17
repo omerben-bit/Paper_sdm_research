@@ -1,0 +1,5 @@
+file_rows,dataset,scope,source_file,notes,sightings,observations,species,sightings_with_depth,pct_depth_known
+802,proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,data/processed/med_fish_occurrences_combined.csv,"GBIF + Edelist + optional Michmoret · columns include source, depth_bin",802,802,100,371,46.3
+356,proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,data/processed/pa_focus_species.csv,"From `01_med_fish_3d_pa_maps.R` · pa, pa_type, station_id",356,356,1,344,96.6
+23,proc_singer_owens_israel_box,"Singer & Owens iDigBio — Israel coast box, depth required",data/processed/singer_owens_israel_box.csv,Cached subset of Zenodo extract (script 03 / maps),23,23,23,23,100
+12,proc_singer_med_focus5,"Singer & Owens — Mediterranean clip, FOCUS_FIVE species only",data/processed/singer_med_focus5.csv,Cached for `04_med_2d_maps.R`,12,12,4,0,0

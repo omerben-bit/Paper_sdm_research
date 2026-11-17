@@ -1,0 +1,9 @@
+metric,value
+observation_units,1403
+datasets,3
+species_in_matrix,175
+min_presence_hauls,15
+min_pos_r,0.2
+min_neg_r,0.1
+pairs_exported_positive,500
+pairs_exported_negative,161

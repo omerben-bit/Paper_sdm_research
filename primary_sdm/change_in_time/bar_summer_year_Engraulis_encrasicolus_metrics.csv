@@ -1,0 +1,6 @@
+scientificName,year,dataset,presence_hauls,absence_hauls,total_hauls,presence_pct,sightings
+Engraulis encrasicolus,2008,Israel_trawl_MIT,0,16,16,0,0
+Engraulis encrasicolus,2009,Israel_trawl_MIT,0,8,8,0,0
+Engraulis encrasicolus,2010,Israel_trawl_MIT,14,2,16,87.5,695
+Engraulis encrasicolus,2011,Israel_trawl_MIT,2,2,4,50,106
+Engraulis encrasicolus,2012,Israel_trawl_MIT,0,8,8,0,0

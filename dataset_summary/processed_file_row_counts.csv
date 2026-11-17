@@ -1,0 +1,5 @@
+file,dataset,description,rows_in_file
+data/processed/med_fish_occurrences_combined.csv,proc_med_fish_occurrences_combined,All rows in `01_med_fish_3d_pa_maps.R` combined export,802
+data/processed/pa_focus_species.csv,proc_pa_focus_species,Presence / absence / pseudo-absence table for first 3D map species,356
+data/processed/singer_owens_israel_box.csv,proc_singer_owens_israel_box,"Singer & Owens iDigBio — Israel coast box, depth required",23
+data/processed/singer_med_focus5.csv,proc_singer_med_focus5,"Singer & Owens — Mediterranean clip, FOCUS_FIVE species only",12

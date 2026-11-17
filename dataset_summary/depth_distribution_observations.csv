@@ -1,0 +1,28 @@
+dataset,scope,level,depth_band,n
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",observation,0–50 m,128
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",observation,50–100 m,42
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",observation,100–150 m,34
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",observation,250–300 m,4
+Israel_trawl_MIT,"Israel coast box (lon 32–36.5°, lat 29.5–34.5°)",observation,400–450 m,5
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,0–50 m,69
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,50–100 m,137
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,100–150 m,49
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,150–200 m,25
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,200–250 m,1
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,250–300 m,20
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,300–350 m,23
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,350–400 m,1
+MEDITS_raw,GSA 22 & 25 + Levant box (maps script 03),observation,500+ m,63
+Singer_Owens_iDigBio,"Israel box, depth-resolved specimens",observation,0–50 m,9
+Singer_Owens_iDigBio,"Israel box, depth-resolved specimens",observation,50–100 m,15
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,depth_unknown,431
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,0–50 m,218
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,50–100 m,56
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,100–150 m,13
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,150–200 m,3
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,200–250 m,18
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,250–300 m,9
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,300–350 m,3
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,350–400 m,5
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,400–450 m,9
+GBIF_Levant_cache,Levant GBIF download (combined cache),observation,500+ m,37

@@ -1,0 +1,28 @@
+# R / RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python (if you merge template tooling later)
+__pycache__/
+*.pyc
+.venv/
+.claude/
+
+# Obsidian workspace (volatile)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# Large local data — exceeds GitHub 100 MB/file; keep on disk only
+data/raw/iDigBioProcessedFishOccurrences_SingerAndOwens.csv
+MEDITS/medits_raw_data.csv
+
+# Optional caches (rebuild with scripts)
+data/raw/*.rds
+data/raw/*.zip
